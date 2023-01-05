@@ -1,0 +1,1323 @@
+{
+"location_monthly": [
+	{
+		"location" : "Salamanca",
+		"month" : "June     ",
+		"location_sales" : 128054,
+		"location_cogs" : 90038,
+		"location_profit" : 38016,
+		"location_qty" : 12672,
+		"location_payment" : 127454,
+		"location_target" : 102443.20
+	},
+	{
+		"location" : "Rye ",
+		"month" : "May      ",
+		"location_sales" : 115239,
+		"location_cogs" : 84318,
+		"location_profit" : 30921,
+		"location_qty" : 10307,
+		"location_payment" : 114639,
+		"location_target" : 92191.20
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "April    ",
+		"location_sales" : 276915,
+		"location_cogs" : 233898,
+		"location_profit" : 43017,
+		"location_qty" : 14339,
+		"location_payment" : 276315,
+		"location_target" : 221532.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "July     ",
+		"location_sales" : 112693,
+		"location_cogs" : 81817,
+		"location_profit" : 30876,
+		"location_qty" : 10292,
+		"location_payment" : 112193,
+		"location_target" : 90154.40
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "June     ",
+		"location_sales" : 2735902,
+		"location_cogs" : 2389330,
+		"location_profit" : 346572,
+		"location_qty" : 115524,
+		"location_payment" : 2735302,
+		"location_target" : 2188721.60
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "May      ",
+		"location_sales" : 45076,
+		"location_cogs" : 34441,
+		"location_profit" : 10635,
+		"location_qty" : 3545,
+		"location_payment" : 44576,
+		"location_target" : 36060.80
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "September",
+		"location_sales" : 570775,
+		"location_cogs" : 453964,
+		"location_profit" : 116811,
+		"location_qty" : 38937,
+		"location_payment" : 569075,
+		"location_target" : 456620.00
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "August   ",
+		"location_sales" : 2612554,
+		"location_cogs" : 2129671,
+		"location_profit" : 482883,
+		"location_qty" : 160961,
+		"location_payment" : 2609554,
+		"location_target" : 2090043.20
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "October  ",
+		"location_sales" : 157005,
+		"location_cogs" : 126819,
+		"location_profit" : 30186,
+		"location_qty" : 10062,
+		"location_payment" : 156505,
+		"location_target" : 125604.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "April    ",
+		"location_sales" : 62728,
+		"location_cogs" : 51913,
+		"location_profit" : 10815,
+		"location_qty" : 3605,
+		"location_payment" : 62128,
+		"location_target" : 50182.40
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "May      ",
+		"location_sales" : 262973,
+		"location_cogs" : 216947,
+		"location_profit" : 46026,
+		"location_qty" : 15342,
+		"location_payment" : 262373,
+		"location_target" : 210378.40
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "January  ",
+		"location_sales" : 1408158,
+		"location_cogs" : 975396,
+		"location_profit" : 432762,
+		"location_qty" : 144254,
+		"location_payment" : 1405858,
+		"location_target" : 1126526.40
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "October  ",
+		"location_sales" : 254402,
+		"location_cogs" : 202745,
+		"location_profit" : 51657,
+		"location_qty" : 17219,
+		"location_payment" : 253802,
+		"location_target" : 203521.60
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "December ",
+		"location_sales" : 30000,
+		"location_cogs" : 24000,
+		"location_profit" : 6000,
+		"location_qty" : 2000,
+		"location_payment" : 29900,
+		"location_target" : 24000.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "November ",
+		"location_sales" : 80458,
+		"location_cogs" : 67510,
+		"location_profit" : 12948,
+		"location_qty" : 4316,
+		"location_payment" : 79958,
+		"location_target" : 64366.40
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "April    ",
+		"location_sales" : 2171160,
+		"location_cogs" : 1824621,
+		"location_profit" : 346539,
+		"location_qty" : 115513,
+		"location_payment" : 2170660,
+		"location_target" : 1736928.00
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "May      ",
+		"location_sales" : 175452,
+		"location_cogs" : 137832,
+		"location_profit" : 37620,
+		"location_qty" : 12540,
+		"location_payment" : 174852,
+		"location_target" : 140361.60
+	},
+	{
+		"location" : "Middletown",
+		"month" : "February ",
+		"location_sales" : 254443,
+		"location_cogs" : 208432,
+		"location_profit" : 46011,
+		"location_qty" : 15337,
+		"location_payment" : 253943,
+		"location_target" : 203554.40
+	},
+	{
+		"location" : "Middletown",
+		"month" : "July     ",
+		"location_sales" : 197611,
+		"location_cogs" : 159595,
+		"location_profit" : 38016,
+		"location_qty" : 12672,
+		"location_payment" : 197011,
+		"location_target" : 158088.80
+	},
+	{
+		"location" : "Geneva",
+		"month" : "October  ",
+		"location_sales" : 677295,
+		"location_cogs" : 370458,
+		"location_profit" : 306837,
+		"location_qty" : 102279,
+		"location_payment" : 676795,
+		"location_target" : 541836.00
+	},
+	{
+		"location" : "Geneva",
+		"month" : "September",
+		"location_sales" : 885864,
+		"location_cogs" : 751065,
+		"location_profit" : 134799,
+		"location_qty" : 44933,
+		"location_payment" : 884064,
+		"location_target" : 708691.20
+	},
+	{
+		"location" : "Fulton",
+		"month" : "September",
+		"location_sales" : 1875907,
+		"location_cogs" : 1504747,
+		"location_profit" : 371160,
+		"location_qty" : 123720,
+		"location_payment" : 1874207,
+		"location_target" : 1500725.60
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "January  ",
+		"location_sales" : 2488158,
+		"location_cogs" : 2028987,
+		"location_profit" : 459171,
+		"location_qty" : 153057,
+		"location_payment" : 2485858,
+		"location_target" : 1990526.40
+	},
+	{
+		"location" : "Geneva",
+		"month" : "May      ",
+		"location_sales" : 123450,
+		"location_cogs" : 92055,
+		"location_profit" : 31395,
+		"location_qty" : 10465,
+		"location_payment" : 122950,
+		"location_target" : 98760.00
+	},
+	{
+		"location" : "Rye ",
+		"month" : "August   ",
+		"location_sales" : 2282460,
+		"location_cogs" : 1833903,
+		"location_profit" : 448557,
+		"location_qty" : 149519,
+		"location_payment" : 2279560,
+		"location_target" : 1825968.00
+	},
+	{
+		"location" : "Rye ",
+		"month" : "June     ",
+		"location_sales" : 109884,
+		"location_cogs" : 75630,
+		"location_profit" : 34254,
+		"location_qty" : 11418,
+		"location_payment" : 109384,
+		"location_target" : 87907.20
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "October  ",
+		"location_sales" : 165280,
+		"location_cogs" : 127633,
+		"location_profit" : 37647,
+		"location_qty" : 12549,
+		"location_payment" : 164680,
+		"location_target" : 132224.00
+	},
+	{
+		"location" : "Fulton",
+		"month" : "March    ",
+		"location_sales" : 199548,
+		"location_cogs" : 161964,
+		"location_profit" : 37584,
+		"location_qty" : 12528,
+		"location_payment" : 198948,
+		"location_target" : 159638.40
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "November ",
+		"location_sales" : 17664,
+		"location_cogs" : 10017,
+		"location_profit" : 7647,
+		"location_qty" : 2549,
+		"location_payment" : 17164,
+		"location_target" : 14131.20
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "March    ",
+		"location_sales" : 235448,
+		"location_cogs" : 192431,
+		"location_profit" : 43017,
+		"location_qty" : 14339,
+		"location_payment" : 234848,
+		"location_target" : 188358.40
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "October  ",
+		"location_sales" : 157050,
+		"location_cogs" : 125970,
+		"location_profit" : 31080,
+		"location_qty" : 10360,
+		"location_payment" : 156450,
+		"location_target" : 125640.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "November ",
+		"location_sales" : 281932,
+		"location_cogs" : 228346,
+		"location_profit" : 53586,
+		"location_qty" : 17862,
+		"location_payment" : 281332,
+		"location_target" : 225545.60
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "November ",
+		"location_sales" : 105702,
+		"location_cogs" : 81522,
+		"location_profit" : 24180,
+		"location_qty" : 8060,
+		"location_payment" : 105202,
+		"location_target" : 84561.60
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "August   ",
+		"location_sales" : 1394556,
+		"location_cogs" : 1205460,
+		"location_profit" : 189096,
+		"location_qty" : 63032,
+		"location_payment" : 1391656,
+		"location_target" : 1115644.80
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "March    ",
+		"location_sales" : 184018,
+		"location_cogs" : 173203,
+		"location_profit" : 10815,
+		"location_qty" : 3605,
+		"location_payment" : 183418,
+		"location_target" : 147214.40
+	},
+	{
+		"location" : "Geneva",
+		"month" : "March    ",
+		"location_sales" : 276830,
+		"location_cogs" : 246140,
+		"location_profit" : 30690,
+		"location_qty" : 10230,
+		"location_payment" : 276330,
+		"location_target" : 221464.00
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "July     ",
+		"location_sales" : 194504,
+		"location_cogs" : 147869,
+		"location_profit" : 46635,
+		"location_qty" : 15545,
+		"location_payment" : 193904,
+		"location_target" : 155603.20
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "July     ",
+		"location_sales" : 203406,
+		"location_cogs" : 161703,
+		"location_profit" : 41703,
+		"location_qty" : 13901,
+		"location_payment" : 202906,
+		"location_target" : 162724.80
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "February ",
+		"location_sales" : 208380,
+		"location_cogs" : 165630,
+		"location_profit" : 42750,
+		"location_qty" : 14250,
+		"location_payment" : 207880,
+		"location_target" : 166704.00
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "July     ",
+		"location_sales" : 5239483,
+		"location_cogs" : 4931620,
+		"location_profit" : 307863,
+		"location_qty" : 102621,
+		"location_payment" : 5238983,
+		"location_target" : 4191586.40
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "July     ",
+		"location_sales" : 172599,
+		"location_cogs" : 138300,
+		"location_profit" : 34299,
+		"location_qty" : 11433,
+		"location_payment" : 171999,
+		"location_target" : 138079.20
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "April    ",
+		"location_sales" : 92787,
+		"location_cogs" : 61374,
+		"location_profit" : 31413,
+		"location_qty" : 10471,
+		"location_payment" : 92187,
+		"location_target" : 74229.60
+	},
+	{
+		"location" : "Geneva",
+		"month" : "February ",
+		"location_sales" : 154576,
+		"location_cogs" : 116992,
+		"location_profit" : 37584,
+		"location_qty" : 12528,
+		"location_payment" : 153976,
+		"location_target" : 123660.80
+	},
+	{
+		"location" : "Rye ",
+		"month" : "April    ",
+		"location_sales" : 251416,
+		"location_cogs" : 214063,
+		"location_profit" : 37353,
+		"location_qty" : 12451,
+		"location_payment" : 250916,
+		"location_target" : 201132.80
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "March    ",
+		"location_sales" : 165513,
+		"location_cogs" : 119484,
+		"location_profit" : 46029,
+		"location_qty" : 15343,
+		"location_payment" : 164913,
+		"location_target" : 132410.40
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "February ",
+		"location_sales" : 89720,
+		"location_cogs" : 67421,
+		"location_profit" : 22299,
+		"location_qty" : 7433,
+		"location_payment" : 89220,
+		"location_target" : 71776.00
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "August   ",
+		"location_sales" : 2920595,
+		"location_cogs" : 2432372,
+		"location_profit" : 488223,
+		"location_qty" : 162741,
+		"location_payment" : 2917595,
+		"location_target" : 2336476.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "August   ",
+		"location_sales" : 2641685,
+		"location_cogs" : 2190455,
+		"location_profit" : 451230,
+		"location_qty" : 150410,
+		"location_payment" : 2638785,
+		"location_target" : 2113348.00
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "November ",
+		"location_sales" : 271010,
+		"location_cogs" : 253232,
+		"location_profit" : 17778,
+		"location_qty" : 5926,
+		"location_payment" : 270410,
+		"location_target" : 216808.00
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "November ",
+		"location_sales" : 56290,
+		"location_cogs" : 45391,
+		"location_profit" : 10899,
+		"location_qty" : 3633,
+		"location_payment" : 55790,
+		"location_target" : 45032.00
+	},
+	{
+		"location" : "Fulton",
+		"month" : "November ",
+		"location_sales" : 1354818,
+		"location_cogs" : 1011981,
+		"location_profit" : 342837,
+		"location_qty" : 114279,
+		"location_payment" : 1354218,
+		"location_target" : 1083854.40
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "May      ",
+		"location_sales" : 139998,
+		"location_cogs" : 102162,
+		"location_profit" : 37836,
+		"location_qty" : 12612,
+		"location_payment" : 139498,
+		"location_target" : 111998.40
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "August   ",
+		"location_sales" : 2481423,
+		"location_cogs" : 2036367,
+		"location_profit" : 445056,
+		"location_qty" : 148352,
+		"location_payment" : 2478523,
+		"location_target" : 1985138.40
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "March    ",
+		"location_sales" : 122237,
+		"location_cogs" : 90824,
+		"location_profit" : 31413,
+		"location_qty" : 10471,
+		"location_payment" : 121637,
+		"location_target" : 97789.60
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "January  ",
+		"location_sales" : 854946,
+		"location_cogs" : 697071,
+		"location_profit" : 157875,
+		"location_qty" : 52625,
+		"location_payment" : 852646,
+		"location_target" : 683956.80
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "August   ",
+		"location_sales" : 994023,
+		"location_cogs" : 785040,
+		"location_profit" : 208983,
+		"location_qty" : 69661,
+		"location_payment" : 991123,
+		"location_target" : 795218.40
+	},
+	{
+		"location" : "Geneva",
+		"month" : "August   ",
+		"location_sales" : 5998176,
+		"location_cogs" : 5556294,
+		"location_profit" : 441882,
+		"location_qty" : 147294,
+		"location_payment" : 5995476,
+		"location_target" : 4798540.80
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "October  ",
+		"location_sales" : 209986,
+		"location_cogs" : 163438,
+		"location_profit" : 46548,
+		"location_qty" : 15516,
+		"location_payment" : 209386,
+		"location_target" : 167988.80
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "February ",
+		"location_sales" : 140158,
+		"location_cogs" : 108790,
+		"location_profit" : 31368,
+		"location_qty" : 10456,
+		"location_payment" : 139658,
+		"location_target" : 112126.40
+	},
+	{
+		"location" : "Rye ",
+		"month" : "September",
+		"location_sales" : 600375,
+		"location_cogs" : 485985,
+		"location_profit" : 114390,
+		"location_qty" : 38130,
+		"location_payment" : 598875,
+		"location_target" : 480300.00
+	},
+	{
+		"location" : "Geneva",
+		"month" : "November ",
+		"location_sales" : 338031,
+		"location_cogs" : 291483,
+		"location_profit" : 46548,
+		"location_qty" : 15516,
+		"location_payment" : 337431,
+		"location_target" : 270424.80
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "May      ",
+		"location_sales" : 1198252,
+		"location_cogs" : 856549,
+		"location_profit" : 341703,
+		"location_qty" : 113901,
+		"location_payment" : 1197652,
+		"location_target" : 958601.60
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "May      ",
+		"location_sales" : 2024091,
+		"location_cogs" : 1677519,
+		"location_profit" : 346572,
+		"location_qty" : 115524,
+		"location_payment" : 2023491,
+		"location_target" : 1619272.80
+	},
+	{
+		"location" : "Rye ",
+		"month" : "November ",
+		"location_sales" : 304125,
+		"location_cogs" : 259713,
+		"location_profit" : 44412,
+		"location_qty" : 14804,
+		"location_payment" : 303625,
+		"location_target" : 243300.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "June     ",
+		"location_sales" : 38238,
+		"location_cogs" : 27603,
+		"location_profit" : 10635,
+		"location_qty" : 3545,
+		"location_payment" : 37738,
+		"location_target" : 30590.40
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "September",
+		"location_sales" : 1702536,
+		"location_cogs" : 1318095,
+		"location_profit" : 384441,
+		"location_qty" : 128147,
+		"location_payment" : 1700836,
+		"location_target" : 1362028.80
+	},
+	{
+		"location" : "Geneva",
+		"month" : "June     ",
+		"location_sales" : 101493,
+		"location_cogs" : 79065,
+		"location_profit" : 22428,
+		"location_qty" : 7476,
+		"location_payment" : 100893,
+		"location_target" : 81194.40
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "December ",
+		"location_sales" : 2258060,
+		"location_cogs" : 1919351,
+		"location_profit" : 338709,
+		"location_qty" : 112903,
+		"location_payment" : 2257860,
+		"location_target" : 1806448.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "October  ",
+		"location_sales" : 62769,
+		"location_cogs" : 44991,
+		"location_profit" : 17778,
+		"location_qty" : 5926,
+		"location_payment" : 62169,
+		"location_target" : 50215.20
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "August   ",
+		"location_sales" : 7494843,
+		"location_cogs" : 6740589,
+		"location_profit" : 754254,
+		"location_qty" : 251418,
+		"location_payment" : 7491943,
+		"location_target" : 5995874.40
+	},
+	{
+		"location" : "Fulton",
+		"month" : "August   ",
+		"location_sales" : 2360549,
+		"location_cogs" : 1893494,
+		"location_profit" : 467055,
+		"location_qty" : 155685,
+		"location_payment" : 2357849,
+		"location_target" : 1888439.20
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "June     ",
+		"location_sales" : 205377,
+		"location_cogs" : 167757,
+		"location_profit" : 37620,
+		"location_qty" : 12540,
+		"location_payment" : 204777,
+		"location_target" : 164301.60
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "October  ",
+		"location_sales" : 247315,
+		"location_cogs" : 209263,
+		"location_profit" : 38052,
+		"location_qty" : 12684,
+		"location_payment" : 246715,
+		"location_target" : 197852.00
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "November ",
+		"location_sales" : 22521,
+		"location_cogs" : 14289,
+		"location_profit" : 8232,
+		"location_qty" : 2744,
+		"location_payment" : 22021,
+		"location_target" : 18016.80
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "November ",
+		"location_sales" : 176577,
+		"location_cogs" : 138525,
+		"location_profit" : 38052,
+		"location_qty" : 12684,
+		"location_payment" : 175977,
+		"location_target" : 141261.60
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "March    ",
+		"location_sales" : 147152,
+		"location_cogs" : 112961,
+		"location_profit" : 34191,
+		"location_qty" : 11397,
+		"location_payment" : 146652,
+		"location_target" : 117721.60
+	},
+	{
+		"location" : "Geneva",
+		"month" : "April    ",
+		"location_sales" : 113916,
+		"location_cogs" : 79521,
+		"location_profit" : 34395,
+		"location_qty" : 11465,
+		"location_payment" : 113316,
+		"location_target" : 91132.80
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "December ",
+		"location_sales" : 1155,
+		"location_cogs" : 924,
+		"location_profit" : 231,
+		"location_qty" : 77,
+		"location_payment" : 1055,
+		"location_target" : 924.00
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "June     ",
+		"location_sales" : 193676,
+		"location_cogs" : 147650,
+		"location_profit" : 46026,
+		"location_qty" : 15342,
+		"location_payment" : 193076,
+		"location_target" : 154940.80
+	},
+	{
+		"location" : "Fulton",
+		"month" : "February ",
+		"location_sales" : 239281,
+		"location_cogs" : 201382,
+		"location_profit" : 37899,
+		"location_qty" : 12633,
+		"location_payment" : 238781,
+		"location_target" : 191424.80
+	},
+	{
+		"location" : "Middletown",
+		"month" : "December ",
+		"location_sales" : 4500,
+		"location_cogs" : 3150,
+		"location_profit" : 1350,
+		"location_qty" : 450,
+		"location_payment" : 4400,
+		"location_target" : 3600.00
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "September",
+		"location_sales" : 615018,
+		"location_cogs" : 529203,
+		"location_profit" : 85815,
+		"location_qty" : 28605,
+		"location_payment" : 613318,
+		"location_target" : 492014.40
+	},
+	{
+		"location" : "Middletown",
+		"month" : "September",
+		"location_sales" : 655007,
+		"location_cogs" : 507557,
+		"location_profit" : 147450,
+		"location_qty" : 49150,
+		"location_payment" : 653207,
+		"location_target" : 524005.60
+	},
+	{
+		"location" : "Rye ",
+		"month" : "February ",
+		"location_sales" : 101168,
+		"location_cogs" : 90584,
+		"location_profit" : 10584,
+		"location_qty" : 3528,
+		"location_payment" : 100668,
+		"location_target" : 80934.40
+	},
+	{
+		"location" : "Fulton",
+		"month" : "July     ",
+		"location_sales" : 378149,
+		"location_cogs" : 355721,
+		"location_profit" : 22428,
+		"location_qty" : 7476,
+		"location_payment" : 377549,
+		"location_target" : 302519.20
+	},
+	{
+		"location" : "Middletown",
+		"month" : "January  ",
+		"location_sales" : 1686897,
+		"location_cogs" : 1274511,
+		"location_profit" : 412386,
+		"location_qty" : 137462,
+		"location_payment" : 1684597,
+		"location_target" : 1349517.60
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "August   ",
+		"location_sales" : 862207,
+		"location_cogs" : 700951,
+		"location_profit" : 161256,
+		"location_qty" : 53752,
+		"location_payment" : 859207,
+		"location_target" : 689765.60
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "May      ",
+		"location_sales" : 130334,
+		"location_cogs" : 107924,
+		"location_profit" : 22410,
+		"location_qty" : 7470,
+		"location_payment" : 129834,
+		"location_target" : 104267.20
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "July     ",
+		"location_sales" : 1526055,
+		"location_cogs" : 1219038,
+		"location_profit" : 307017,
+		"location_qty" : 102339,
+		"location_payment" : 1525455,
+		"location_target" : 1220844.00
+	},
+	{
+		"location" : "Fulton",
+		"month" : "December ",
+		"location_sales" : 156600,
+		"location_cogs" : 120420,
+		"location_profit" : 36180,
+		"location_qty" : 12060,
+		"location_payment" : 156400,
+		"location_target" : 125280.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "October  ",
+		"location_sales" : 42638,
+		"location_cogs" : 31739,
+		"location_profit" : 10899,
+		"location_qty" : 3633,
+		"location_payment" : 42138,
+		"location_target" : 34110.40
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "April    ",
+		"location_sales" : 180840,
+		"location_cogs" : 134844,
+		"location_profit" : 45996,
+		"location_qty" : 15332,
+		"location_payment" : 180340,
+		"location_target" : 144672.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "May      ",
+		"location_sales" : 265014,
+		"location_cogs" : 221997,
+		"location_profit" : 43017,
+		"location_qty" : 14339,
+		"location_payment" : 264414,
+		"location_target" : 212011.20
+	},
+	{
+		"location" : "Geneva",
+		"month" : "July     ",
+		"location_sales" : 237292,
+		"location_cogs" : 191266,
+		"location_profit" : 46026,
+		"location_qty" : 15342,
+		"location_payment" : 236692,
+		"location_target" : 189833.60
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "February ",
+		"location_sales" : 146095,
+		"location_cogs" : 115201,
+		"location_profit" : 30894,
+		"location_qty" : 10298,
+		"location_payment" : 145495,
+		"location_target" : 116876.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "January  ",
+		"location_sales" : 1809556,
+		"location_cogs" : 1380499,
+		"location_profit" : 429057,
+		"location_qty" : 143019,
+		"location_payment" : 1807356,
+		"location_target" : 1447644.80
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "March    ",
+		"location_sales" : 1400930,
+		"location_cogs" : 1059407,
+		"location_profit" : 341523,
+		"location_qty" : 113841,
+		"location_payment" : 1400430,
+		"location_target" : 1120744.00
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "January  ",
+		"location_sales" : 1840664,
+		"location_cogs" : 1383905,
+		"location_profit" : 456759,
+		"location_qty" : 152253,
+		"location_payment" : 1838464,
+		"location_target" : 1472531.20
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "December ",
+		"location_sales" : 208293,
+		"location_cogs" : 169215,
+		"location_profit" : 39078,
+		"location_qty" : 13026,
+		"location_payment" : 208093,
+		"location_target" : 166634.40
+	},
+	{
+		"location" : "Port Jervis",
+		"month" : "September",
+		"location_sales" : 1156148,
+		"location_cogs" : 795227,
+		"location_profit" : 360921,
+		"location_qty" : 120307,
+		"location_payment" : 1154448,
+		"location_target" : 924918.40
+	},
+	{
+		"location" : "Fulton",
+		"month" : "January  ",
+		"location_sales" : 646696,
+		"location_cogs" : 527464,
+		"location_profit" : 119232,
+		"location_qty" : 39744,
+		"location_payment" : 644296,
+		"location_target" : 517356.80
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "January  ",
+		"location_sales" : 3756684,
+		"location_cogs" : 3314421,
+		"location_profit" : 442263,
+		"location_qty" : 147421,
+		"location_payment" : 3754384,
+		"location_target" : 3005347.20
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "December ",
+		"location_sales" : 93600,
+		"location_cogs" : 70200,
+		"location_profit" : 23400,
+		"location_qty" : 7800,
+		"location_payment" : 93500,
+		"location_target" : 74880.00
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "September",
+		"location_sales" : 2627035,
+		"location_cogs" : 2257534,
+		"location_profit" : 369501,
+		"location_qty" : 123167,
+		"location_payment" : 2625235,
+		"location_target" : 2101628.00
+	},
+	{
+		"location" : "Rye ",
+		"month" : "March    ",
+		"location_sales" : 226034,
+		"location_cogs" : 187931,
+		"location_profit" : 38103,
+		"location_qty" : 12701,
+		"location_payment" : 225434,
+		"location_target" : 180827.20
+	},
+	{
+		"location" : "Fulton",
+		"month" : "October  ",
+		"location_sales" : 206037,
+		"location_cogs" : 161625,
+		"location_profit" : 44412,
+		"location_qty" : 14804,
+		"location_payment" : 205537,
+		"location_target" : 164829.60
+	},
+	{
+		"location" : "Rye ",
+		"month" : "December ",
+		"location_sales" : 1344000,
+		"location_cogs" : 1008000,
+		"location_profit" : 336000,
+		"location_qty" : 112000,
+		"location_payment" : 1343800,
+		"location_target" : 1075200.00
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "September",
+		"location_sales" : 3631165,
+		"location_cogs" : 3212308,
+		"location_profit" : 418857,
+		"location_qty" : 139619,
+		"location_payment" : 3629465,
+		"location_target" : 2904932.00
+	},
+	{
+		"location" : "Fulton",
+		"month" : "April    ",
+		"location_sales" : 246610,
+		"location_cogs" : 215920,
+		"location_profit" : 30690,
+		"location_qty" : 10230,
+		"location_payment" : 246110,
+		"location_target" : 197288.00
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "January  ",
+		"location_sales" : 2942518,
+		"location_cogs" : 2499748,
+		"location_profit" : 442770,
+		"location_qty" : 147590,
+		"location_payment" : 2940218,
+		"location_target" : 2354014.40
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "June     ",
+		"location_sales" : 101304,
+		"location_cogs" : 70428,
+		"location_profit" : 30876,
+		"location_qty" : 10292,
+		"location_payment" : 100804,
+		"location_target" : 81043.20
+	},
+	{
+		"location" : "Rye ",
+		"month" : "October  ",
+		"location_sales" : 684678,
+		"location_cogs" : 376446,
+		"location_profit" : 308232,
+		"location_qty" : 102744,
+		"location_payment" : 684078,
+		"location_target" : 547742.40
+	},
+	{
+		"location" : "Rye ",
+		"month" : "July     ",
+		"location_sales" : 167788,
+		"location_cogs" : 136252,
+		"location_profit" : 31536,
+		"location_qty" : 10512,
+		"location_payment" : 167188,
+		"location_target" : 134230.40
+	},
+	{
+		"location" : "Glens Falls",
+		"month" : "June     ",
+		"location_sales" : 35470,
+		"location_cogs" : 28453,
+		"location_profit" : 7017,
+		"location_qty" : 2339,
+		"location_payment" : 34970,
+		"location_target" : 28376.00
+	},
+	{
+		"location" : "Fulton",
+		"month" : "June     ",
+		"location_sales" : 253325,
+		"location_cogs" : 221930,
+		"location_profit" : 31395,
+		"location_qty" : 10465,
+		"location_payment" : 252825,
+		"location_target" : 202660.00
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "April    ",
+		"location_sales" : 135654,
+		"location_cogs" : 113244,
+		"location_profit" : 22410,
+		"location_qty" : 7470,
+		"location_payment" : 135154,
+		"location_target" : 108523.20
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "April    ",
+		"location_sales" : 164944,
+		"location_cogs" : 127108,
+		"location_profit" : 37836,
+		"location_qty" : 12612,
+		"location_payment" : 164444,
+		"location_target" : 131955.20
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "June     ",
+		"location_sales" : 321759,
+		"location_cogs" : 280056,
+		"location_profit" : 41703,
+		"location_qty" : 13901,
+		"location_payment" : 321259,
+		"location_target" : 257407.20
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "July     ",
+		"location_sales" : 156207,
+		"location_cogs" : 118791,
+		"location_profit" : 37416,
+		"location_qty" : 12472,
+		"location_payment" : 155707,
+		"location_target" : 124965.60
+	},
+	{
+		"location" : "Geneva",
+		"month" : "December ",
+		"location_sales" : 2235,
+		"location_cogs" : 1788,
+		"location_profit" : 447,
+		"location_qty" : 149,
+		"location_payment" : 2035,
+		"location_target" : 1788.00
+	},
+	{
+		"location" : "Salamanca",
+		"month" : "February ",
+		"location_sales" : 1060407,
+		"location_cogs" : 713718,
+		"location_profit" : 346689,
+		"location_qty" : 115563,
+		"location_payment" : 1059907,
+		"location_target" : 848325.60
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "December ",
+		"location_sales" : 161360,
+		"location_cogs" : 131156,
+		"location_profit" : 30204,
+		"location_qty" : 10068,
+		"location_payment" : 161160,
+		"location_target" : 129088.00
+	},
+	{
+		"location" : "Glen Cove",
+		"month" : "February ",
+		"location_sales" : 249714,
+		"location_cogs" : 215523,
+		"location_profit" : 34191,
+		"location_qty" : 11397,
+		"location_payment" : 249214,
+		"location_target" : 199771.20
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "March    ",
+		"location_sales" : 110294,
+		"location_cogs" : 87854,
+		"location_profit" : 22440,
+		"location_qty" : 7480,
+		"location_payment" : 109694,
+		"location_target" : 88235.20
+	},
+	{
+		"location" : "Rye ",
+		"month" : "January  ",
+		"location_sales" : 648132,
+		"location_cogs" : 511014,
+		"location_profit" : 137118,
+		"location_qty" : 45706,
+		"location_payment" : 645732,
+		"location_target" : 518505.60
+	},
+	{
+		"location" : "Middletown",
+		"month" : "April    ",
+		"location_sales" : 2162905,
+		"location_cogs" : 1821202,
+		"location_profit" : 341703,
+		"location_qty" : 113901,
+		"location_payment" : 2162305,
+		"location_target" : 1730324.00
+	},
+	{
+		"location" : "Middletown",
+		"month" : "March    ",
+		"location_sales" : 1816220,
+		"location_cogs" : 1469681,
+		"location_profit" : 346539,
+		"location_qty" : 115513,
+		"location_payment" : 1815720,
+		"location_target" : 1452976.00
+	},
+	{
+		"location" : "Poughkeepsie",
+		"month" : "September",
+		"location_sales" : 2135096,
+		"location_cogs" : 1736483,
+		"location_profit" : 398613,
+		"location_qty" : 132871,
+		"location_payment" : 2133596,
+		"location_target" : 1708076.80
+	},
+	{
+		"location" : "Peekskill",
+		"month" : "February ",
+		"location_sales" : 578465,
+		"location_cogs" : 236942,
+		"location_profit" : 341523,
+		"location_qty" : 113841,
+		"location_payment" : 577965,
+		"location_target" : 462772.00
+	},
+	{
+		"location" : "Hempstead",
+		"month" : "December ",
+		"location_sales" : 46000,
+		"location_cogs" : 39100,
+		"location_profit" : 6900,
+		"location_qty" : 2300,
+		"location_payment" : 45900,
+		"location_target" : 36800.00
+	},
+	{
+		"location" : "Geneva",
+		"month" : "January  ",
+		"location_sales" : 2317751,
+		"location_cogs" : 1876757,
+		"location_profit" : 440994,
+		"location_qty" : 146998,
+		"location_payment" : 2315551,
+		"location_target" : 1854200.80
+	},
+	{
+		"location" : "Fulton",
+		"month" : "May      ",
+		"location_sales" : 226749,
+		"location_cogs" : 192354,
+		"location_profit" : 34395,
+		"location_qty" : 11465,
+		"location_payment" : 226149,
+		"location_target" : 181399.20
+	}
+]}

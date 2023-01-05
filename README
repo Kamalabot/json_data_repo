@@ -1,0 +1,11 @@
+## Datasets in JSON Format
+Json_data_repo is collection of datasets available in the wild, but in JSON format. 
+When I started searching for reliable API points for the data I wanted, they were not
+available. The datasets are distributed in CSV format, since that is easily viewable 
+by everyone. Except csv formats are not native to Web, and the browsers don't speak CSV.
+
+After a lot of research, learning and looking around the easiest solution to create a 
+raw API point is through Github pages. This entire repo is only made of JSON data and 
+will be continuously updated with data. 
+
+Have a great experience developing

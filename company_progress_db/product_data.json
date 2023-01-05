@@ -1,0 +1,147 @@
+{
+"product_data": [
+	{
+		"products" : "Italiano",
+		"product_sales" : 12032512,
+		"product_cogs" : 9861970,
+		"product_profit" : 2170542,
+		"product_qty" : 723514,
+		"product_payment" : 12019912,
+		"product_target" : 9626009.60
+	},
+	{
+		"products" : "Chicken Feast",
+		"product_sales" : 3777659,
+		"product_cogs" : 3068357,
+		"product_profit" : 709302,
+		"product_qty" : 236434,
+		"product_payment" : 3773459,
+		"product_target" : 3022127.20
+	},
+	{
+		"products" : "Margarita",
+		"product_sales" : 11664022,
+		"product_cogs" : 9852307,
+		"product_profit" : 1811715,
+		"product_qty" : 603905,
+		"product_payment" : 11651422,
+		"product_target" : 9331217.60
+	},
+	{
+		"products" : "Veggie Supreme",
+		"product_sales" : 2304122,
+		"product_cogs" : 1856354,
+		"product_profit" : 447768,
+		"product_qty" : 149256,
+		"product_payment" : 2299922,
+		"product_target" : 1843297.60
+	},
+	{
+		"products" : "Chicken Legend",
+		"product_sales" : 3061627,
+		"product_cogs" : 2747182,
+		"product_profit" : 314445,
+		"product_qty" : 104815,
+		"product_payment" : 3057427,
+		"product_target" : 2449301.60
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"product_sales" : 4976396,
+		"product_cogs" : 4253300,
+		"product_profit" : 723096,
+		"product_qty" : 241032,
+		"product_payment" : 4972196,
+		"product_target" : 3981116.80
+	},
+	{
+		"products" : "Extravaganza",
+		"product_sales" : 1667946,
+		"product_cogs" : 1323705,
+		"product_profit" : 344241,
+		"product_qty" : 114747,
+		"product_payment" : 1663746,
+		"product_target" : 1334356.80
+	},
+	{
+		"products" : "Chicken Bali",
+		"product_sales" : 1401979,
+		"product_cogs" : 1089967,
+		"product_profit" : 312012,
+		"product_qty" : 104004,
+		"product_payment" : 1397779,
+		"product_target" : 1121583.20
+	},
+	{
+		"products" : "Hot Veggie",
+		"product_sales" : 11460039,
+		"product_cogs" : 9723357,
+		"product_profit" : 1736682,
+		"product_qty" : 578894,
+		"product_payment" : 11447439,
+		"product_target" : 9168031.20
+	},
+	{
+		"products" : "BBQ Chicken",
+		"product_sales" : 16062770,
+		"product_cogs" : 13014101,
+		"product_profit" : 3048669,
+		"product_qty" : 1016223,
+		"product_payment" : 16050170,
+		"product_target" : 12850216.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"product_sales" : 5702385,
+		"product_cogs" : 4468989,
+		"product_profit" : 1233396,
+		"product_qty" : 411132,
+		"product_payment" : 5689785,
+		"product_target" : 4561908.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"product_sales" : 3221169,
+		"product_cogs" : 2504928,
+		"product_profit" : 716241,
+		"product_qty" : 238747,
+		"product_payment" : 3216969,
+		"product_target" : 2576935.20
+	},
+	{
+		"products" : "Beef Suya",
+		"product_sales" : 2702908,
+		"product_cogs" : 1997116,
+		"product_profit" : 705792,
+		"product_qty" : 235264,
+		"product_payment" : 2698708,
+		"product_target" : 2162326.40
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"product_sales" : 3973415,
+		"product_cogs" : 2948918,
+		"product_profit" : 1024497,
+		"product_qty" : 341499,
+		"product_payment" : 3969215,
+		"product_target" : 3178732.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"product_sales" : 2318773,
+		"product_cogs" : 1906774,
+		"product_profit" : 411999,
+		"product_qty" : 137333,
+		"product_payment" : 2314573,
+		"product_target" : 1855018.40
+	},
+	{
+		"products" : "Meatzaa",
+		"product_sales" : 24233224,
+		"product_cogs" : 20703865,
+		"product_profit" : 3529359,
+		"product_qty" : 1176453,
+		"product_payment" : 24212424,
+		"product_target" : 19386579.20
+	}
+]}

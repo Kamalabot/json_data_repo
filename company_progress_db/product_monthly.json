@@ -1,0 +1,1913 @@
+{
+"product_monthly": [
+	{
+		"products" : "Meatzaa",
+		"month" : "October  ",
+		"product_sales" : 1013281,
+		"product_cogs" : 648511,
+		"product_profit" : 364770,
+		"product_qty" : 121590,
+		"product_payment" : 1012281,
+		"product_target" : 810624.80
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "June     ",
+		"product_sales" : 297200,
+		"product_cogs" : 250391,
+		"product_profit" : 46809,
+		"product_qty" : 15603,
+		"product_payment" : 296600,
+		"product_target" : 237760.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "March    ",
+		"product_sales" : 1800,
+		"product_cogs" : 1320,
+		"product_profit" : 480,
+		"product_qty" : 160,
+		"product_payment" : 1600,
+		"product_target" : 1440.00
+	},
+	{
+		"products" : "Italiano",
+		"month" : "January  ",
+		"product_sales" : 2608659,
+		"product_cogs" : 1972950,
+		"product_profit" : 635709,
+		"product_qty" : 211903,
+		"product_payment" : 2606159,
+		"product_target" : 2086927.20
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "February ",
+		"product_sales" : 211307,
+		"product_cogs" : 157391,
+		"product_profit" : 53916,
+		"product_qty" : 17972,
+		"product_payment" : 210307,
+		"product_target" : 169045.60
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "February ",
+		"product_sales" : 36918,
+		"product_cogs" : 29481,
+		"product_profit" : 7437,
+		"product_qty" : 2479,
+		"product_payment" : 36718,
+		"product_target" : 29534.40
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "February ",
+		"product_sales" : 869196,
+		"product_cogs" : 502920,
+		"product_profit" : 366276,
+		"product_qty" : 122092,
+		"product_payment" : 868696,
+		"product_target" : 695356.80
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "November ",
+		"product_sales" : 259260,
+		"product_cogs" : 220371,
+		"product_profit" : 38889,
+		"product_qty" : 12963,
+		"product_payment" : 259060,
+		"product_target" : 207408.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "March    ",
+		"product_sales" : 249806,
+		"product_cogs" : 204362,
+		"product_profit" : 45444,
+		"product_qty" : 15148,
+		"product_payment" : 248806,
+		"product_target" : 199844.80
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "October  ",
+		"product_sales" : 7424,
+		"product_cogs" : 5357,
+		"product_profit" : 2067,
+		"product_qty" : 689,
+		"product_payment" : 7224,
+		"product_target" : 5939.20
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "May      ",
+		"product_sales" : 168065,
+		"product_cogs" : 123440,
+		"product_profit" : 44625,
+		"product_qty" : 14875,
+		"product_payment" : 167465,
+		"product_target" : 134452.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "March    ",
+		"product_sales" : 12160,
+		"product_cogs" : 10330,
+		"product_profit" : 1830,
+		"product_qty" : 610,
+		"product_payment" : 11960,
+		"product_target" : 9728.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "December ",
+		"product_sales" : 258060,
+		"product_cogs" : 219351,
+		"product_profit" : 38709,
+		"product_qty" : 12903,
+		"product_payment" : 257960,
+		"product_target" : 206448.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "June     ",
+		"product_sales" : 4240,
+		"product_cogs" : 3604,
+		"product_profit" : 636,
+		"product_qty" : 212,
+		"product_payment" : 4040,
+		"product_target" : 3392.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "June     ",
+		"product_sales" : 424017,
+		"product_cogs" : 357993,
+		"product_profit" : 66024,
+		"product_qty" : 22008,
+		"product_payment" : 423017,
+		"product_target" : 339213.60
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "January  ",
+		"product_sales" : 195710,
+		"product_cogs" : 152942,
+		"product_profit" : 42768,
+		"product_qty" : 14256,
+		"product_payment" : 194910,
+		"product_target" : 156568.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "December ",
+		"product_sales" : 600,
+		"product_cogs" : 420,
+		"product_profit" : 180,
+		"product_qty" : 60,
+		"product_payment" : 500,
+		"product_target" : 480.00
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "November ",
+		"product_sales" : 124200,
+		"product_cogs" : 87300,
+		"product_profit" : 36900,
+		"product_qty" : 12300,
+		"product_payment" : 124000,
+		"product_target" : 99360.00
+	},
+	{
+		"products" : "Italiano",
+		"month" : "August   ",
+		"product_sales" : 1368271,
+		"product_cogs" : 1068571,
+		"product_profit" : 299700,
+		"product_qty" : 99900,
+		"product_payment" : 1365171,
+		"product_target" : 1094616.80
+	},
+	{
+		"products" : "Margarita",
+		"month" : "October  ",
+		"product_sales" : 267660,
+		"product_cogs" : 219504,
+		"product_profit" : 48156,
+		"product_qty" : 16052,
+		"product_payment" : 267060,
+		"product_target" : 214128.00
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "April    ",
+		"product_sales" : 69612,
+		"product_cogs" : 62508,
+		"product_profit" : 7104,
+		"product_qty" : 2368,
+		"product_payment" : 69412,
+		"product_target" : 55689.60
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "July     ",
+		"product_sales" : 24030,
+		"product_cogs" : 18012,
+		"product_profit" : 6018,
+		"product_qty" : 2006,
+		"product_payment" : 23830,
+		"product_target" : 19224.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "April    ",
+		"product_sales" : 141232,
+		"product_cogs" : 111001,
+		"product_profit" : 30231,
+		"product_qty" : 10077,
+		"product_payment" : 141032,
+		"product_target" : 112985.60
+	},
+	{
+		"products" : "Italiano",
+		"month" : "May      ",
+		"product_sales" : 410525,
+		"product_cogs" : 351338,
+		"product_profit" : 59187,
+		"product_qty" : 19729,
+		"product_payment" : 409925,
+		"product_target" : 328420.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "February ",
+		"product_sales" : 207948,
+		"product_cogs" : 168339,
+		"product_profit" : 39609,
+		"product_qty" : 13203,
+		"product_payment" : 207748,
+		"product_target" : 166358.40
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "December ",
+		"product_sales" : 156000,
+		"product_cogs" : 120000,
+		"product_profit" : 36000,
+		"product_qty" : 12000,
+		"product_payment" : 155900,
+		"product_target" : 124800.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "March    ",
+		"product_sales" : 30072,
+		"product_cogs" : 24054,
+		"product_profit" : 6018,
+		"product_qty" : 2006,
+		"product_payment" : 29872,
+		"product_target" : 24057.60
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "September",
+		"product_sales" : 119560,
+		"product_cogs" : 96973,
+		"product_profit" : 22587,
+		"product_qty" : 7529,
+		"product_payment" : 118960,
+		"product_target" : 95648.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "October  ",
+		"product_sales" : 65500,
+		"product_cogs" : 61579,
+		"product_profit" : 3921,
+		"product_qty" : 1307,
+		"product_payment" : 65300,
+		"product_target" : 52400.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "May      ",
+		"product_sales" : 120770,
+		"product_cogs" : 90539,
+		"product_profit" : 30231,
+		"product_qty" : 10077,
+		"product_payment" : 120570,
+		"product_target" : 96616.00
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "May      ",
+		"product_sales" : 196796,
+		"product_cogs" : 165239,
+		"product_profit" : 31557,
+		"product_qty" : 10519,
+		"product_payment" : 196096,
+		"product_target" : 157436.80
+	},
+	{
+		"products" : "Italiano",
+		"month" : "December ",
+		"product_sales" : 46000,
+		"product_cogs" : 39100,
+		"product_profit" : 6900,
+		"product_qty" : 2300,
+		"product_payment" : 45900,
+		"product_target" : 36800.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "October  ",
+		"product_sales" : 157078,
+		"product_cogs" : 120847,
+		"product_profit" : 36231,
+		"product_qty" : 12077,
+		"product_payment" : 156878,
+		"product_target" : 125662.40
+	},
+	{
+		"products" : "Italiano",
+		"month" : "November ",
+		"product_sales" : 129950,
+		"product_cogs" : 111707,
+		"product_profit" : 18243,
+		"product_qty" : 6081,
+		"product_payment" : 129350,
+		"product_target" : 103960.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "April    ",
+		"product_sales" : 1300816,
+		"product_cogs" : 1000612,
+		"product_profit" : 300204,
+		"product_qty" : 100068,
+		"product_payment" : 1300616,
+		"product_target" : 1040652.80
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "September",
+		"product_sales" : 61180,
+		"product_cogs" : 47500,
+		"product_profit" : 13680,
+		"product_qty" : 4560,
+		"product_payment" : 60580,
+		"product_target" : 48944.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "November ",
+		"product_sales" : 9580,
+		"product_cogs" : 7513,
+		"product_profit" : 2067,
+		"product_qty" : 689,
+		"product_payment" : 9380,
+		"product_target" : 7664.00
+	},
+	{
+		"products" : "Margarita",
+		"month" : "February ",
+		"product_sales" : 230528,
+		"product_cogs" : 175511,
+		"product_profit" : 55017,
+		"product_qty" : 18339,
+		"product_payment" : 229928,
+		"product_target" : 184422.40
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "August   ",
+		"product_sales" : 497667,
+		"product_cogs" : 396717,
+		"product_profit" : 100950,
+		"product_qty" : 33650,
+		"product_payment" : 496567,
+		"product_target" : 398133.60
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "June     ",
+		"product_sales" : 1580,
+		"product_cogs" : 1196,
+		"product_profit" : 384,
+		"product_qty" : 128,
+		"product_payment" : 1380,
+		"product_target" : 1264.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "June     ",
+		"product_sales" : 14700,
+		"product_cogs" : 11820,
+		"product_profit" : 2880,
+		"product_qty" : 960,
+		"product_payment" : 14500,
+		"product_target" : 11760.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "October  ",
+		"product_sales" : 636720,
+		"product_cogs" : 330540,
+		"product_profit" : 306180,
+		"product_qty" : 102060,
+		"product_payment" : 636420,
+		"product_target" : 509376.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "April    ",
+		"product_sales" : 433905,
+		"product_cogs" : 361908,
+		"product_profit" : 71997,
+		"product_qty" : 23999,
+		"product_payment" : 432905,
+		"product_target" : 347124.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "November ",
+		"product_sales" : 261476,
+		"product_cogs" : 246107,
+		"product_profit" : 15369,
+		"product_qty" : 5123,
+		"product_payment" : 261276,
+		"product_target" : 209180.80
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "August   ",
+		"product_sales" : 3852118,
+		"product_cogs" : 3454639,
+		"product_profit" : 397479,
+		"product_qty" : 132493,
+		"product_payment" : 3849018,
+		"product_target" : 3081694.40
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "May      ",
+		"product_sales" : 61088,
+		"product_cogs" : 51884,
+		"product_profit" : 9204,
+		"product_qty" : 3068,
+		"product_payment" : 60888,
+		"product_target" : 48870.40
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "January  ",
+		"product_sales" : 824476,
+		"product_cogs" : 654463,
+		"product_profit" : 170013,
+		"product_qty" : 56671,
+		"product_payment" : 821776,
+		"product_target" : 659580.80
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "January  ",
+		"product_sales" : 1008164,
+		"product_cogs" : 834179,
+		"product_profit" : 173985,
+		"product_qty" : 57995,
+		"product_payment" : 1007364,
+		"product_target" : 806531.20
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "February ",
+		"product_sales" : 14700,
+		"product_cogs" : 11820,
+		"product_profit" : 2880,
+		"product_qty" : 960,
+		"product_payment" : 14500,
+		"product_target" : 11760.00
+	},
+	{
+		"products" : "Margarita",
+		"month" : "January  ",
+		"product_sales" : 1076291,
+		"product_cogs" : 862388,
+		"product_profit" : 213903,
+		"product_qty" : 71301,
+		"product_payment" : 1073691,
+		"product_target" : 861032.80
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "December ",
+		"product_sales" : 1155,
+		"product_cogs" : 924,
+		"product_profit" : 231,
+		"product_qty" : 77,
+		"product_payment" : 1055,
+		"product_target" : 924.00
+	},
+	{
+		"products" : "Margarita",
+		"month" : "March    ",
+		"product_sales" : 284991,
+		"product_cogs" : 244848,
+		"product_profit" : 40143,
+		"product_qty" : 13381,
+		"product_payment" : 284391,
+		"product_target" : 227992.80
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "July     ",
+		"product_sales" : 19200,
+		"product_cogs" : 13020,
+		"product_profit" : 6180,
+		"product_qty" : 2060,
+		"product_payment" : 19000,
+		"product_target" : 15360.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "February ",
+		"product_sales" : 190780,
+		"product_cogs" : 140746,
+		"product_profit" : 50034,
+		"product_qty" : 16678,
+		"product_payment" : 190180,
+		"product_target" : 152624.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "August   ",
+		"product_sales" : 439800,
+		"product_cogs" : 357249,
+		"product_profit" : 82551,
+		"product_qty" : 27517,
+		"product_payment" : 438700,
+		"product_target" : 351840.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "May      ",
+		"product_sales" : 61050,
+		"product_cogs" : 46005,
+		"product_profit" : 15045,
+		"product_qty" : 5015,
+		"product_payment" : 60850,
+		"product_target" : 48840.00
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "June     ",
+		"product_sales" : 20960,
+		"product_cogs" : 14780,
+		"product_profit" : 6180,
+		"product_qty" : 2060,
+		"product_payment" : 20760,
+		"product_target" : 16768.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "September",
+		"product_sales" : 1327822,
+		"product_cogs" : 1020949,
+		"product_profit" : 306873,
+		"product_qty" : 102291,
+		"product_payment" : 1327222,
+		"product_target" : 1062257.60
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "January  ",
+		"product_sales" : 5484717,
+		"product_cogs" : 4739421,
+		"product_profit" : 745296,
+		"product_qty" : 248432,
+		"product_payment" : 5480317,
+		"product_target" : 4387773.60
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "September",
+		"product_sales" : 160610,
+		"product_cogs" : 115259,
+		"product_profit" : 45351,
+		"product_qty" : 15117,
+		"product_payment" : 160010,
+		"product_target" : 128488.00
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "November ",
+		"product_sales" : 17906,
+		"product_cogs" : 15341,
+		"product_profit" : 2565,
+		"product_qty" : 855,
+		"product_payment" : 17306,
+		"product_target" : 14324.80
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "October  ",
+		"product_sales" : 201794,
+		"product_cogs" : 151940,
+		"product_profit" : 49854,
+		"product_qty" : 16618,
+		"product_payment" : 201194,
+		"product_target" : 161435.20
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "June     ",
+		"product_sales" : 86662,
+		"product_cogs" : 65203,
+		"product_profit" : 21459,
+		"product_qty" : 7153,
+		"product_payment" : 86062,
+		"product_target" : 69329.60
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "September",
+		"product_sales" : 63123,
+		"product_cogs" : 54207,
+		"product_profit" : 8916,
+		"product_qty" : 2972,
+		"product_payment" : 62523,
+		"product_target" : 50498.40
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "September",
+		"product_sales" : 93228,
+		"product_cogs" : 66708,
+		"product_profit" : 26520,
+		"product_qty" : 8840,
+		"product_payment" : 92628,
+		"product_target" : 74582.40
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "September",
+		"product_sales" : 759552,
+		"product_cogs" : 620559,
+		"product_profit" : 138993,
+		"product_qty" : 46331,
+		"product_payment" : 757952,
+		"product_target" : 607641.60
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "January  ",
+		"product_sales" : 195114,
+		"product_cogs" : 148728,
+		"product_profit" : 46386,
+		"product_qty" : 15462,
+		"product_payment" : 194314,
+		"product_target" : 156091.20
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "January  ",
+		"product_sales" : 771490,
+		"product_cogs" : 700780,
+		"product_profit" : 70710,
+		"product_qty" : 23570,
+		"product_payment" : 770590,
+		"product_target" : 617192.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "December ",
+		"product_sales" : 1335,
+		"product_cogs" : 1068,
+		"product_profit" : 267,
+		"product_qty" : 89,
+		"product_payment" : 1235,
+		"product_target" : 1068.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "November ",
+		"product_sales" : 28860,
+		"product_cogs" : 21645,
+		"product_profit" : 7215,
+		"product_qty" : 2405,
+		"product_payment" : 28660,
+		"product_target" : 23088.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "September",
+		"product_sales" : 1360058,
+		"product_cogs" : 1126583,
+		"product_profit" : 233475,
+		"product_qty" : 77825,
+		"product_payment" : 1358058,
+		"product_target" : 1088046.40
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "March    ",
+		"product_sales" : 2823554,
+		"product_cogs" : 2201981,
+		"product_profit" : 621573,
+		"product_qty" : 207191,
+		"product_payment" : 2822954,
+		"product_target" : 2258843.20
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "April    ",
+		"product_sales" : 320600,
+		"product_cogs" : 227051,
+		"product_profit" : 93549,
+		"product_qty" : 31183,
+		"product_payment" : 320000,
+		"product_target" : 256480.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "March    ",
+		"product_sales" : 511140,
+		"product_cogs" : 397686,
+		"product_profit" : 113454,
+		"product_qty" : 37818,
+		"product_payment" : 510540,
+		"product_target" : 408912.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "July     ",
+		"product_sales" : 5713028,
+		"product_cogs" : 5312924,
+		"product_profit" : 400104,
+		"product_qty" : 133368,
+		"product_payment" : 5712028,
+		"product_target" : 4570422.40
+	},
+	{
+		"products" : "Italiano",
+		"month" : "March    ",
+		"product_sales" : 353196,
+		"product_cogs" : 311685,
+		"product_profit" : 41511,
+		"product_qty" : 13837,
+		"product_payment" : 352596,
+		"product_target" : 282556.80
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "May      ",
+		"product_sales" : 2424,
+		"product_cogs" : 1893,
+		"product_profit" : 531,
+		"product_qty" : 177,
+		"product_payment" : 2224,
+		"product_target" : 1939.20
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "January  ",
+		"product_sales" : 3201553,
+		"product_cogs" : 2546539,
+		"product_profit" : 655014,
+		"product_qty" : 218338,
+		"product_payment" : 3199053,
+		"product_target" : 2561242.40
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "February ",
+		"product_sales" : 963540,
+		"product_cogs" : 653190,
+		"product_profit" : 310350,
+		"product_qty" : 103450,
+		"product_payment" : 962940,
+		"product_target" : 770832.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "December ",
+		"product_sales" : 4500,
+		"product_cogs" : 3150,
+		"product_profit" : 1350,
+		"product_qty" : 450,
+		"product_payment" : 4400,
+		"product_target" : 3600.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "June     ",
+		"product_sales" : 2005,
+		"product_cogs" : 1693,
+		"product_profit" : 312,
+		"product_qty" : 104,
+		"product_payment" : 1805,
+		"product_target" : 1604.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "June     ",
+		"product_sales" : 904134,
+		"product_cogs" : 865194,
+		"product_profit" : 38940,
+		"product_qty" : 12980,
+		"product_payment" : 903934,
+		"product_target" : 723307.20
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "June     ",
+		"product_sales" : 8232,
+		"product_cogs" : 6849,
+		"product_profit" : 1383,
+		"product_qty" : 461,
+		"product_payment" : 8032,
+		"product_target" : 6585.60
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "January  ",
+		"product_sales" : 138126,
+		"product_cogs" : 105543,
+		"product_profit" : 32583,
+		"product_qty" : 10861,
+		"product_payment" : 137326,
+		"product_target" : 110500.80
+	},
+	{
+		"products" : "Margarita",
+		"month" : "April    ",
+		"product_sales" : 882636,
+		"product_cogs" : 834555,
+		"product_profit" : 48081,
+		"product_qty" : 16027,
+		"product_payment" : 882036,
+		"product_target" : 706108.80
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "May      ",
+		"product_sales" : 1000884,
+		"product_cogs" : 700680,
+		"product_profit" : 300204,
+		"product_qty" : 100068,
+		"product_payment" : 1000684,
+		"product_target" : 800707.20
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "February ",
+		"product_sales" : 48690,
+		"product_cogs" : 33321,
+		"product_profit" : 15369,
+		"product_qty" : 5123,
+		"product_payment" : 48490,
+		"product_target" : 38952.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "December ",
+		"product_sales" : 144000,
+		"product_cogs" : 108000,
+		"product_profit" : 36000,
+		"product_qty" : 12000,
+		"product_payment" : 143900,
+		"product_target" : 115200.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "August   ",
+		"product_sales" : 57541,
+		"product_cogs" : 47647,
+		"product_profit" : 9894,
+		"product_qty" : 3298,
+		"product_payment" : 56441,
+		"product_target" : 46032.80
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "July     ",
+		"product_sales" : 261798,
+		"product_cogs" : 198546,
+		"product_profit" : 63252,
+		"product_qty" : 21084,
+		"product_payment" : 261198,
+		"product_target" : 209438.40
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "September",
+		"product_sales" : 158868,
+		"product_cogs" : 127221,
+		"product_profit" : 31647,
+		"product_qty" : 10549,
+		"product_payment" : 158268,
+		"product_target" : 127094.40
+	},
+	{
+		"products" : "Italiano",
+		"month" : "September",
+		"product_sales" : 4375982,
+		"product_cogs" : 3705665,
+		"product_profit" : 670317,
+		"product_qty" : 223439,
+		"product_payment" : 4373882,
+		"product_target" : 3500785.60
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "April    ",
+		"product_sales" : 50225,
+		"product_cogs" : 35180,
+		"product_profit" : 15045,
+		"product_qty" : 5015,
+		"product_payment" : 50025,
+		"product_target" : 40180.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "September",
+		"product_sales" : 50882,
+		"product_cogs" : 39794,
+		"product_profit" : 11088,
+		"product_qty" : 3696,
+		"product_payment" : 50282,
+		"product_target" : 40705.60
+	},
+	{
+		"products" : "Margarita",
+		"month" : "August   ",
+		"product_sales" : 5281699,
+		"product_cogs" : 4467355,
+		"product_profit" : 814344,
+		"product_qty" : 271448,
+		"product_payment" : 5278499,
+		"product_target" : 4225359.20
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "November ",
+		"product_sales" : 1201068,
+		"product_cogs" : 900801,
+		"product_profit" : 300267,
+		"product_qty" : 100089,
+		"product_payment" : 1200868,
+		"product_target" : 960854.40
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "December ",
+		"product_sales" : 161360,
+		"product_cogs" : 131156,
+		"product_profit" : 30204,
+		"product_qty" : 10068,
+		"product_payment" : 161160,
+		"product_target" : 129088.00
+	},
+	{
+		"products" : "Margarita",
+		"month" : "July     ",
+		"product_sales" : 470414,
+		"product_cogs" : 422396,
+		"product_profit" : 48018,
+		"product_qty" : 16006,
+		"product_payment" : 469814,
+		"product_target" : 376331.20
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "October  ",
+		"product_sales" : 140705,
+		"product_cogs" : 110564,
+		"product_profit" : 30141,
+		"product_qty" : 10047,
+		"product_payment" : 140505,
+		"product_target" : 112564.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "October  ",
+		"product_sales" : 2020,
+		"product_cogs" : 1708,
+		"product_profit" : 312,
+		"product_qty" : 104,
+		"product_payment" : 1820,
+		"product_target" : 1616.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "November ",
+		"product_sales" : 320449,
+		"product_cogs" : 273481,
+		"product_profit" : 46968,
+		"product_qty" : 15656,
+		"product_payment" : 319449,
+		"product_target" : 256359.20
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "March    ",
+		"product_sales" : 7200,
+		"product_cogs" : 5550,
+		"product_profit" : 1650,
+		"product_qty" : 550,
+		"product_payment" : 7000,
+		"product_target" : 5760.00
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "October  ",
+		"product_sales" : 137739,
+		"product_cogs" : 106794,
+		"product_profit" : 30945,
+		"product_qty" : 10315,
+		"product_payment" : 137139,
+		"product_target" : 110191.20
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "April    ",
+		"product_sales" : 124875,
+		"product_cogs" : 101430,
+		"product_profit" : 23445,
+		"product_qty" : 7815,
+		"product_payment" : 124675,
+		"product_target" : 99900.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "May      ",
+		"product_sales" : 182080,
+		"product_cogs" : 145768,
+		"product_profit" : 36312,
+		"product_qty" : 12104,
+		"product_payment" : 181780,
+		"product_target" : 145664.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "September",
+		"product_sales" : 203698,
+		"product_cogs" : 169108,
+		"product_profit" : 34590,
+		"product_qty" : 11530,
+		"product_payment" : 203098,
+		"product_target" : 162958.40
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "August   ",
+		"product_sales" : 3305153,
+		"product_cogs" : 2970365,
+		"product_profit" : 334788,
+		"product_qty" : 111596,
+		"product_payment" : 3304153,
+		"product_target" : 2644122.40
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "February ",
+		"product_sales" : 7200,
+		"product_cogs" : 5400,
+		"product_profit" : 1800,
+		"product_qty" : 600,
+		"product_payment" : 7100,
+		"product_target" : 5760.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "August   ",
+		"product_sales" : 316034,
+		"product_cogs" : 292496,
+		"product_profit" : 23538,
+		"product_qty" : 7846,
+		"product_payment" : 314934,
+		"product_target" : 252827.20
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "November ",
+		"product_sales" : 12780,
+		"product_cogs" : 6600,
+		"product_profit" : 6180,
+		"product_qty" : 2060,
+		"product_payment" : 12580,
+		"product_target" : 10224.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "November ",
+		"product_sales" : 19605,
+		"product_cogs" : 15684,
+		"product_profit" : 3921,
+		"product_qty" : 1307,
+		"product_payment" : 19405,
+		"product_target" : 15684.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "December ",
+		"product_sales" : 30000,
+		"product_cogs" : 24000,
+		"product_profit" : 6000,
+		"product_qty" : 2000,
+		"product_payment" : 29900,
+		"product_target" : 24000.00
+	},
+	{
+		"products" : "Italiano",
+		"month" : "April    ",
+		"product_sales" : 2066693,
+		"product_cogs" : 1754003,
+		"product_profit" : 312690,
+		"product_qty" : 104230,
+		"product_payment" : 2066093,
+		"product_target" : 1653354.40
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "July     ",
+		"product_sales" : 6423,
+		"product_cogs" : 5382,
+		"product_profit" : 1041,
+		"product_qty" : 347,
+		"product_payment" : 6223,
+		"product_target" : 5138.40
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "March    ",
+		"product_sales" : 31068,
+		"product_cogs" : 21801,
+		"product_profit" : 9267,
+		"product_qty" : 3089,
+		"product_payment" : 30868,
+		"product_target" : 24854.40
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "August   ",
+		"product_sales" : 204431,
+		"product_cogs" : 157967,
+		"product_profit" : 46464,
+		"product_qty" : 15488,
+		"product_payment" : 203331,
+		"product_target" : 163544.80
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "May      ",
+		"product_sales" : 56925,
+		"product_cogs" : 46788,
+		"product_profit" : 10137,
+		"product_qty" : 3379,
+		"product_payment" : 56325,
+		"product_target" : 45540.00
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "March    ",
+		"product_sales" : 280592,
+		"product_cogs" : 238103,
+		"product_profit" : 42489,
+		"product_qty" : 14163,
+		"product_payment" : 279892,
+		"product_target" : 224473.60
+	},
+	{
+		"products" : "Italiano",
+		"month" : "October  ",
+		"product_sales" : 58588,
+		"product_cogs" : 49288,
+		"product_profit" : 9300,
+		"product_qty" : 3100,
+		"product_payment" : 57988,
+		"product_target" : 46870.40
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "February ",
+		"product_sales" : 12465,
+		"product_cogs" : 8742,
+		"product_profit" : 3723,
+		"product_qty" : 1241,
+		"product_payment" : 12265,
+		"product_target" : 9972.00
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "April    ",
+		"product_sales" : 110137,
+		"product_cogs" : 92482,
+		"product_profit" : 17655,
+		"product_qty" : 5885,
+		"product_payment" : 109537,
+		"product_target" : 88109.60
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "February ",
+		"product_sales" : 76000,
+		"product_cogs" : 61000,
+		"product_profit" : 15000,
+		"product_qty" : 5000,
+		"product_payment" : 75800,
+		"product_target" : 60800.00
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "April    ",
+		"product_sales" : 43472,
+		"product_cogs" : 34094,
+		"product_profit" : 9378,
+		"product_qty" : 3126,
+		"product_payment" : 42872,
+		"product_target" : 34777.60
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "August   ",
+		"product_sales" : 1222859,
+		"product_cogs" : 914405,
+		"product_profit" : 308454,
+		"product_qty" : 102818,
+		"product_payment" : 1221859,
+		"product_target" : 978287.20
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "October  ",
+		"product_sales" : 12100,
+		"product_cogs" : 4885,
+		"product_profit" : 7215,
+		"product_qty" : 2405,
+		"product_payment" : 11900,
+		"product_target" : 9680.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "August   ",
+		"product_sales" : 5182385,
+		"product_cogs" : 4289246,
+		"product_profit" : 893139,
+		"product_qty" : 297713,
+		"product_payment" : 5177185,
+		"product_target" : 4145908.00
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "July     ",
+		"product_sales" : 29364,
+		"product_cogs" : 22215,
+		"product_profit" : 7149,
+		"product_qty" : 2383,
+		"product_payment" : 28764,
+		"product_target" : 23491.20
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "June     ",
+		"product_sales" : 36999,
+		"product_cogs" : 33276,
+		"product_profit" : 3723,
+		"product_qty" : 1241,
+		"product_payment" : 36799,
+		"product_target" : 29599.20
+	},
+	{
+		"products" : "Margarita",
+		"month" : "June     ",
+		"product_sales" : 2013558,
+		"product_cogs" : 1691517,
+		"product_profit" : 322041,
+		"product_qty" : 107347,
+		"product_payment" : 2012958,
+		"product_target" : 1610846.40
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "March    ",
+		"product_sales" : 156180,
+		"product_cogs" : 132735,
+		"product_profit" : 23445,
+		"product_qty" : 7815,
+		"product_payment" : 155980,
+		"product_target" : 124944.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "June     ",
+		"product_sales" : 8560,
+		"product_cogs" : 6730,
+		"product_profit" : 1830,
+		"product_qty" : 610,
+		"product_payment" : 8360,
+		"product_target" : 6848.00
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "February ",
+		"product_sales" : 6160,
+		"product_cogs" : 5056,
+		"product_profit" : 1104,
+		"product_qty" : 368,
+		"product_payment" : 5960,
+		"product_target" : 4928.00
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "January  ",
+		"product_sales" : 2174116,
+		"product_cogs" : 1559086,
+		"product_profit" : 615030,
+		"product_qty" : 205010,
+		"product_payment" : 2173316,
+		"product_target" : 1739292.80
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "July     ",
+		"product_sales" : 117100,
+		"product_cogs" : 93670,
+		"product_profit" : 23430,
+		"product_qty" : 7810,
+		"product_payment" : 116900,
+		"product_target" : 93680.00
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "May      ",
+		"product_sales" : 2043132,
+		"product_cogs" : 1692837,
+		"product_profit" : 350295,
+		"product_qty" : 116765,
+		"product_payment" : 2042132,
+		"product_target" : 1634505.60
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "June     ",
+		"product_sales" : 2424,
+		"product_cogs" : 1893,
+		"product_profit" : 531,
+		"product_qty" : 177,
+		"product_payment" : 2224,
+		"product_target" : 1939.20
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "April    ",
+		"product_sales" : 240240,
+		"product_cogs" : 204195,
+		"product_profit" : 36045,
+		"product_qty" : 12015,
+		"product_payment" : 240040,
+		"product_target" : 192192.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "January  ",
+		"product_sales" : 246130,
+		"product_cogs" : 198583,
+		"product_profit" : 47547,
+		"product_qty" : 15849,
+		"product_payment" : 245330,
+		"product_target" : 196904.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "April    ",
+		"product_sales" : 5440,
+		"product_cogs" : 4399,
+		"product_profit" : 1041,
+		"product_qty" : 347,
+		"product_payment" : 5240,
+		"product_target" : 4352.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "October  ",
+		"product_sales" : 27390,
+		"product_cogs" : 19122,
+		"product_profit" : 8268,
+		"product_qty" : 2756,
+		"product_payment" : 27090,
+		"product_target" : 21912.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "January  ",
+		"product_sales" : 495432,
+		"product_cogs" : 400401,
+		"product_profit" : 95031,
+		"product_qty" : 31677,
+		"product_payment" : 494632,
+		"product_target" : 396345.60
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "May      ",
+		"product_sales" : 2994,
+		"product_cogs" : 2358,
+		"product_profit" : 636,
+		"product_qty" : 212,
+		"product_payment" : 2794,
+		"product_target" : 2395.20
+	},
+	{
+		"products" : "Margarita",
+		"month" : "September",
+		"product_sales" : 786879,
+		"product_cogs" : 644370,
+		"product_profit" : 142509,
+		"product_qty" : 47503,
+		"product_payment" : 784979,
+		"product_target" : 629503.20
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "January  ",
+		"product_sales" : 677987,
+		"product_cogs" : 535607,
+		"product_profit" : 142380,
+		"product_qty" : 47460,
+		"product_payment" : 677187,
+		"product_target" : 542389.60
+	},
+	{
+		"products" : "Margarita",
+		"month" : "May      ",
+		"product_sales" : 195287,
+		"product_cogs" : 149978,
+		"product_profit" : 45309,
+		"product_qty" : 15103,
+		"product_payment" : 194687,
+		"product_target" : 156229.60
+	},
+	{
+		"products" : "Italiano",
+		"month" : "June     ",
+		"product_sales" : 231061,
+		"product_cogs" : 174757,
+		"product_profit" : 56304,
+		"product_qty" : 18768,
+		"product_payment" : 230461,
+		"product_target" : 184848.80
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "July     ",
+		"product_sales" : 34536,
+		"product_cogs" : 27618,
+		"product_profit" : 6918,
+		"product_qty" : 2306,
+		"product_payment" : 34336,
+		"product_target" : 27628.80
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "September",
+		"product_sales" : 272514,
+		"product_cogs" : 209064,
+		"product_profit" : 63450,
+		"product_qty" : 21150,
+		"product_payment" : 271914,
+		"product_target" : 218011.20
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "November ",
+		"product_sales" : 195386,
+		"product_cogs" : 141296,
+		"product_profit" : 54090,
+		"product_qty" : 18030,
+		"product_payment" : 194786,
+		"product_target" : 156308.80
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "January  ",
+		"product_sales" : 286910,
+		"product_cogs" : 248501,
+		"product_profit" : 38409,
+		"product_qty" : 12803,
+		"product_payment" : 286110,
+		"product_target" : 229528.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "April    ",
+		"product_sales" : 37020,
+		"product_cogs" : 27816,
+		"product_profit" : 9204,
+		"product_qty" : 3068,
+		"product_payment" : 36820,
+		"product_target" : 29616.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "August   ",
+		"product_sales" : 1212870,
+		"product_cogs" : 970962,
+		"product_profit" : 241908,
+		"product_qty" : 80636,
+		"product_payment" : 1209570,
+		"product_target" : 970296.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "November ",
+		"product_sales" : 192924,
+		"product_cogs" : 156693,
+		"product_profit" : 36231,
+		"product_qty" : 12077,
+		"product_payment" : 192724,
+		"product_target" : 154339.20
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "May      ",
+		"product_sales" : 30282,
+		"product_cogs" : 22845,
+		"product_profit" : 7437,
+		"product_qty" : 2479,
+		"product_payment" : 30082,
+		"product_target" : 24225.60
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "October  ",
+		"product_sales" : 124600,
+		"product_cogs" : 101920,
+		"product_profit" : 22680,
+		"product_qty" : 7560,
+		"product_payment" : 124000,
+		"product_target" : 99680.00
+	},
+	{
+		"products" : "Italiano",
+		"month" : "February ",
+		"product_sales" : 245974,
+		"product_cogs" : 207928,
+		"product_profit" : 38046,
+		"product_qty" : 12682,
+		"product_payment" : 245374,
+		"product_target" : 196779.20
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "December ",
+		"product_sales" : 2000000,
+		"product_cogs" : 1700000,
+		"product_profit" : 300000,
+		"product_qty" : 100000,
+		"product_payment" : 1999900,
+		"product_target" : 1600000.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "March    ",
+		"product_sales" : 15530,
+		"product_cogs" : 11807,
+		"product_profit" : 3723,
+		"product_qty" : 1241,
+		"product_payment" : 15330,
+		"product_target" : 12424.00
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "March    ",
+		"product_sales" : 6940,
+		"product_cogs" : 5899,
+		"product_profit" : 1041,
+		"product_qty" : 347,
+		"product_payment" : 6740,
+		"product_target" : 5552.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "May      ",
+		"product_sales" : 18720,
+		"product_cogs" : 15840,
+		"product_profit" : 2880,
+		"product_qty" : 960,
+		"product_payment" : 18520,
+		"product_target" : 14976.00
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "March    ",
+		"product_sales" : 54000,
+		"product_cogs" : 39000,
+		"product_profit" : 15000,
+		"product_qty" : 5000,
+		"product_payment" : 53800,
+		"product_target" : 43200.00
+	},
+	{
+		"products" : "Margarita",
+		"month" : "December ",
+		"product_sales" : 93600,
+		"product_cogs" : 70200,
+		"product_profit" : 23400,
+		"product_qty" : 7800,
+		"product_payment" : 93500,
+		"product_target" : 74880.00
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "July     ",
+		"product_sales" : 145540,
+		"product_cogs" : 109309,
+		"product_profit" : 36231,
+		"product_qty" : 12077,
+		"product_payment" : 145340,
+		"product_target" : 116432.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "July     ",
+		"product_sales" : 10493,
+		"product_cogs" : 9110,
+		"product_profit" : 1383,
+		"product_qty" : 461,
+		"product_payment" : 10293,
+		"product_target" : 8394.40
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "May      ",
+		"product_sales" : 155606,
+		"product_cogs" : 116666,
+		"product_profit" : 38940,
+		"product_qty" : 12980,
+		"product_payment" : 155406,
+		"product_target" : 124484.80
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "April    ",
+		"product_sales" : 30072,
+		"product_cogs" : 24054,
+		"product_profit" : 6018,
+		"product_qty" : 2006,
+		"product_payment" : 29872,
+		"product_target" : 24057.60
+	},
+	{
+		"products" : "Margarita",
+		"month" : "November ",
+		"product_sales" : 80479,
+		"product_cogs" : 69685,
+		"product_profit" : 10794,
+		"product_qty" : 3598,
+		"product_payment" : 79879,
+		"product_target" : 64383.20
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "October  ",
+		"product_sales" : 8916,
+		"product_cogs" : 6012,
+		"product_profit" : 2904,
+		"product_qty" : 968,
+		"product_payment" : 8716,
+		"product_target" : 7132.80
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "October  ",
+		"product_sales" : 2940,
+		"product_cogs" : 2556,
+		"product_profit" : 384,
+		"product_qty" : 128,
+		"product_payment" : 2740,
+		"product_target" : 2352.00
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "August   ",
+		"product_sales" : 315453,
+		"product_cogs" : 261987,
+		"product_profit" : 53466,
+		"product_qty" : 17822,
+		"product_payment" : 314353,
+		"product_target" : 252362.40
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "September",
+		"product_sales" : 3508273,
+		"product_cogs" : 2845567,
+		"product_profit" : 662706,
+		"product_qty" : 220902,
+		"product_payment" : 3506373,
+		"product_target" : 2806618.40
+	},
+	{
+		"products" : "Chicken Legend",
+		"month" : "August   ",
+		"product_sales" : 810457,
+		"product_cogs" : 746521,
+		"product_profit" : 63936,
+		"product_qty" : 21312,
+		"product_payment" : 809457,
+		"product_target" : 648365.60
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "December ",
+		"product_sales" : 1200900,
+		"product_cogs" : 900720,
+		"product_profit" : 300180,
+		"product_qty" : 100060,
+		"product_payment" : 1200700,
+		"product_target" : 960720.00
+	},
+	{
+		"products" : "BBQ Chicken",
+		"month" : "July     ",
+		"product_sales" : 103463,
+		"product_cogs" : 84857,
+		"product_profit" : 18606,
+		"product_qty" : 6202,
+		"product_payment" : 102763,
+		"product_target" : 82770.40
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "April    ",
+		"product_sales" : 2900,
+		"product_cogs" : 2420,
+		"product_profit" : 480,
+		"product_qty" : 160,
+		"product_payment" : 2700,
+		"product_target" : 2320.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "March    ",
+		"product_sales" : 65995,
+		"product_cogs" : 50719,
+		"product_profit" : 15276,
+		"product_qty" : 5092,
+		"product_payment" : 65695,
+		"product_target" : 52796.00
+	},
+	{
+		"products" : "Hot Veggie",
+		"month" : "August   ",
+		"product_sales" : 7678045,
+		"product_cogs" : 6861001,
+		"product_profit" : 817044,
+		"product_qty" : 272348,
+		"product_payment" : 7674845,
+		"product_target" : 6142436.00
+	},
+	{
+		"products" : "Hot Pepperoni Feast",
+		"month" : "July     ",
+		"product_sales" : 1896,
+		"product_cogs" : 1512,
+		"product_profit" : 384,
+		"product_qty" : 128,
+		"product_payment" : 1696,
+		"product_target" : 1516.80
+	},
+	{
+		"products" : "Pepperoni Suya",
+		"month" : "December ",
+		"product_sales" : 1845,
+		"product_cogs" : 1476,
+		"product_profit" : 369,
+		"product_qty" : 123,
+		"product_payment" : 1745,
+		"product_target" : 1476.00
+	},
+	{
+		"products" : "Chicken Feast",
+		"month" : "February ",
+		"product_sales" : 40000,
+		"product_cogs" : 34000,
+		"product_profit" : 6000,
+		"product_qty" : 2000,
+		"product_payment" : 39900,
+		"product_target" : 32000.00
+	},
+	{
+		"products" : "Pepperoni Feast",
+		"month" : "August   ",
+		"product_sales" : 298288,
+		"product_cogs" : 247468,
+		"product_profit" : 50820,
+		"product_qty" : 16940,
+		"product_payment" : 297188,
+		"product_target" : 238630.40
+	},
+	{
+		"products" : "Veggie Supreme",
+		"month" : "July     ",
+		"product_sales" : 7340,
+		"product_cogs" : 5510,
+		"product_profit" : 1830,
+		"product_qty" : 610,
+		"product_payment" : 7140,
+		"product_target" : 5872.00
+	},
+	{
+		"products" : "Beef Suya",
+		"month" : "February ",
+		"product_sales" : 61001,
+		"product_cogs" : 45770,
+		"product_profit" : 15231,
+		"product_qty" : 5077,
+		"product_payment" : 60801,
+		"product_target" : 48800.80
+	},
+	{
+		"products" : "Italiano",
+		"month" : "July     ",
+		"product_sales" : 137613,
+		"product_cogs" : 114978,
+		"product_profit" : 22635,
+		"product_qty" : 7545,
+		"product_payment" : 137013,
+		"product_target" : 110090.40
+	},
+	{
+		"products" : "Extravaganza",
+		"month" : "November ",
+		"product_sales" : 19360,
+		"product_cogs" : 16456,
+		"product_profit" : 2904,
+		"product_qty" : 968,
+		"product_payment" : 19160,
+		"product_target" : 15488.00
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "November ",
+		"product_sales" : 135845,
+		"product_cogs" : 111329,
+		"product_profit" : 24516,
+		"product_qty" : 8172,
+		"product_payment" : 135245,
+		"product_target" : 108676.00
+	},
+	{
+		"products" : "Chicken Suya",
+		"month" : "July     ",
+		"product_sales" : 1503549,
+		"product_cogs" : 1202913,
+		"product_profit" : 300636,
+		"product_qty" : 100212,
+		"product_payment" : 1503249,
+		"product_target" : 1202839.20
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "June     ",
+		"product_sales" : 168150,
+		"product_cogs" : 91044,
+		"product_profit" : 77106,
+		"product_qty" : 25702,
+		"product_payment" : 167550,
+		"product_target" : 134520.00
+	},
+	{
+		"products" : "Chicken Bali",
+		"month" : "December ",
+		"product_sales" : 206448,
+		"product_cogs" : 167739,
+		"product_profit" : 38709,
+		"product_qty" : 12903,
+		"product_payment" : 206348,
+		"product_target" : 165158.40
+	},
+	{
+		"products" : "Meatzaa",
+		"month" : "September",
+		"product_sales" : 3152697,
+		"product_cogs" : 2662641,
+		"product_profit" : 490056,
+		"product_qty" : 163352,
+		"product_payment" : 3149597,
+		"product_target" : 2522157.60
+	},
+	{
+		"products" : "BBQ Philly Steak",
+		"month" : "January  ",
+		"product_sales" : 1015285,
+		"product_cogs" : 809662,
+		"product_profit" : 205623,
+		"product_qty" : 68541,
+		"product_payment" : 1012885,
+		"product_target" : 812228.00
+	}
+]}

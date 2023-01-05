@@ -1,0 +1,111 @@
+{
+"monthly_data": [
+	{
+		"month" : "February ",
+		"monthly_sales" : 3222407,
+		"monthly_cogs" : 2240615,
+		"monthly_profit" : 981792,
+		"monthly_qty" : 327264,
+		"monthly_payment" : 3216707,
+		"monthly_target" : 2577925.60
+	},
+	{
+		"month" : "November ",
+		"monthly_sales" : 3009128,
+		"monthly_cogs" : 2402009,
+		"monthly_profit" : 607119,
+		"monthly_qty" : 202373,
+		"monthly_payment" : 3003128,
+		"monthly_target" : 2407302.40
+	},
+	{
+		"month" : "December ",
+		"monthly_sales" : 4305803,
+		"monthly_cogs" : 3487304,
+		"monthly_profit" : 818499,
+		"monthly_qty" : 272833,
+		"monthly_payment" : 4304103,
+		"monthly_target" : 3444642.40
+	},
+	{
+		"month" : "March    ",
+		"monthly_sales" : 4884224,
+		"monthly_cogs" : 3901880,
+		"monthly_profit" : 982344,
+		"monthly_qty" : 327448,
+		"monthly_payment" : 4878024,
+		"monthly_target" : 3907379.20
+	},
+	{
+		"month" : "January  ",
+		"monthly_sales" : 20400160,
+		"monthly_cogs" : 16469773,
+		"monthly_profit" : 3930387,
+		"monthly_qty" : 1310129,
+		"monthly_payment" : 20374960,
+		"monthly_target" : 16320128.00
+	},
+	{
+		"month" : "May      ",
+		"monthly_sales" : 4706628,
+		"monthly_cogs" : 3724098,
+		"monthly_profit" : 982530,
+		"monthly_qty" : 327510,
+		"monthly_payment" : 4700428,
+		"monthly_target" : 3765302.40
+	},
+	{
+		"month" : "April    ",
+		"monthly_sales" : 5859875,
+		"monthly_cogs" : 4877708,
+		"monthly_profit" : 982167,
+		"monthly_qty" : 327389,
+		"monthly_payment" : 5853875,
+		"monthly_target" : 4687900.00
+	},
+	{
+		"month" : "September",
+		"monthly_sales" : 16454926,
+		"monthly_cogs" : 13552168,
+		"monthly_profit" : 2902758,
+		"monthly_qty" : 967586,
+		"monthly_payment" : 16436326,
+		"monthly_target" : 13163940.80
+	},
+	{
+		"month" : "August   ",
+		"monthly_sales" : 32043071,
+		"monthly_cogs" : 27504596,
+		"monthly_profit" : 4538475,
+		"monthly_qty" : 1512825,
+		"monthly_payment" : 32011271,
+		"monthly_target" : 25634456.80
+	},
+	{
+		"month" : "October  ",
+		"monthly_sales" : 2864455,
+		"monthly_cogs" : 1941127,
+		"monthly_profit" : 923328,
+		"monthly_qty" : 307776,
+		"monthly_payment" : 2858255,
+		"monthly_target" : 2291564.00
+	},
+	{
+		"month" : "June     ",
+		"monthly_sales" : 4224482,
+		"monthly_cogs" : 3577940,
+		"monthly_profit" : 646542,
+		"monthly_qty" : 215514,
+		"monthly_payment" : 4218482,
+		"monthly_target" : 3379585.60
+	},
+	{
+		"month" : "July     ",
+		"monthly_sales" : 8585787,
+		"monthly_cogs" : 7641972,
+		"monthly_profit" : 943815,
+		"monthly_qty" : 314605,
+		"monthly_payment" : 8579587,
+		"monthly_target" : 6868629.60
+	}
+]}

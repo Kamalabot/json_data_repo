@@ -1,0 +1,483 @@
+{
+"reps_monthly": [
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "May      ",
+		"reps_sales" : 581074,
+		"reps_cogs" : 471829,
+		"reps_profit" : 109245,
+		"reps_qty" : 36415,
+		"reps_payment" : 579774,
+		"reps_target" : 464859.20
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "May      ",
+		"reps_sales" : 2363065,
+		"reps_cogs" : 1964245,
+		"reps_profit" : 398820,
+		"reps_qty" : 132940,
+		"reps_payment" : 2361365,
+		"reps_target" : 1890452.00
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "November ",
+		"reps_sales" : 418542,
+		"reps_cogs" : 340989,
+		"reps_profit" : 77553,
+		"reps_qty" : 25851,
+		"reps_payment" : 417342,
+		"reps_target" : 334833.60
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "February ",
+		"reps_sales" : 693154,
+		"reps_cogs" : 352009,
+		"reps_profit" : 341145,
+		"reps_qty" : 113715,
+		"reps_payment" : 691954,
+		"reps_target" : 554523.20
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "December ",
+		"reps_sales" : 697660,
+		"reps_cogs" : 563551,
+		"reps_profit" : 134109,
+		"reps_qty" : 44703,
+		"reps_payment" : 697160,
+		"reps_target" : 558128.00
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "August   ",
+		"reps_sales" : 10041303,
+		"reps_cogs" : 9224610,
+		"reps_profit" : 816693,
+		"reps_qty" : 272231,
+		"reps_payment" : 10034803,
+		"reps_target" : 8033042.40
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "July     ",
+		"reps_sales" : 291884,
+		"reps_cogs" : 238373,
+		"reps_profit" : 53511,
+		"reps_qty" : 17837,
+		"reps_payment" : 290884,
+		"reps_target" : 233507.20
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "March    ",
+		"reps_sales" : 2052232,
+		"reps_cogs" : 1684054,
+		"reps_profit" : 368178,
+		"reps_qty" : 122726,
+		"reps_payment" : 2049832,
+		"reps_target" : 1641785.60
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "July     ",
+		"reps_sales" : 1967227,
+		"reps_cogs" : 1559482,
+		"reps_profit" : 407745,
+		"reps_qty" : 135915,
+		"reps_payment" : 1965327,
+		"reps_target" : 1573781.60
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "September",
+		"reps_sales" : 4037254,
+		"reps_cogs" : 3421105,
+		"reps_profit" : 616149,
+		"reps_qty" : 205383,
+		"reps_payment" : 4032254,
+		"reps_target" : 3229803.20
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "June     ",
+		"reps_sales" : 2102498,
+		"reps_cogs" : 1739897,
+		"reps_profit" : 362601,
+		"reps_qty" : 120867,
+		"reps_payment" : 2100998,
+		"reps_target" : 1681998.40
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "September",
+		"reps_sales" : 1947688,
+		"reps_cogs" : 1442974,
+		"reps_profit" : 504714,
+		"reps_qty" : 168238,
+		"reps_payment" : 1944288,
+		"reps_target" : 1558150.40
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "March    ",
+		"reps_sales" : 1092426,
+		"reps_cogs" : 876657,
+		"reps_profit" : 215769,
+		"reps_qty" : 71923,
+		"reps_payment" : 1090126,
+		"reps_target" : 873940.80
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "April    ",
+		"reps_sales" : 452191,
+		"reps_cogs" : 384889,
+		"reps_profit" : 67302,
+		"reps_qty" : 22434,
+		"reps_payment" : 450491,
+		"reps_target" : 361752.80
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "November ",
+		"reps_sales" : 1513170,
+		"reps_cogs" : 1147404,
+		"reps_profit" : 365766,
+		"reps_qty" : 121922,
+		"reps_payment" : 1512170,
+		"reps_target" : 1210536.00
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "February ",
+		"reps_sales" : 625671,
+		"reps_cogs" : 515211,
+		"reps_profit" : 110460,
+		"reps_qty" : 36820,
+		"reps_payment" : 624471,
+		"reps_target" : 500536.80
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "December ",
+		"reps_sales" : 1253245,
+		"reps_cogs" : 944446,
+		"reps_profit" : 308799,
+		"reps_qty" : 102933,
+		"reps_payment" : 1252745,
+		"reps_target" : 1002596.00
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "November ",
+		"reps_sales" : 451791,
+		"reps_cogs" : 382533,
+		"reps_profit" : 69258,
+		"reps_qty" : 23086,
+		"reps_payment" : 450591,
+		"reps_target" : 361432.80
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "May      ",
+		"reps_sales" : 456865,
+		"reps_cogs" : 364339,
+		"reps_profit" : 92526,
+		"reps_qty" : 30842,
+		"reps_payment" : 455465,
+		"reps_target" : 365492.00
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "January  ",
+		"reps_sales" : 6149373,
+		"reps_cogs" : 5233401,
+		"reps_profit" : 915972,
+		"reps_qty" : 305324,
+		"reps_payment" : 6143173,
+		"reps_target" : 4919498.40
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "August   ",
+		"reps_sales" : 6705326,
+		"reps_cogs" : 5567612,
+		"reps_profit" : 1137714,
+		"reps_qty" : 379238,
+		"reps_payment" : 6694726,
+		"reps_target" : 5364260.80
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "September",
+		"reps_sales" : 8052287,
+		"reps_cogs" : 6748763,
+		"reps_profit" : 1303524,
+		"reps_qty" : 434508,
+		"reps_payment" : 8045787,
+		"reps_target" : 6441829.60
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "January  ",
+		"reps_sales" : 4960573,
+		"reps_cogs" : 3793594,
+		"reps_profit" : 1166979,
+		"reps_qty" : 388993,
+		"reps_payment" : 4951773,
+		"reps_target" : 3968458.40
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "April    ",
+		"reps_sales" : 2492529,
+		"reps_cogs" : 2108421,
+		"reps_profit" : 384108,
+		"reps_qty" : 128036,
+		"reps_payment" : 2491129,
+		"reps_target" : 1994023.20
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "December ",
+		"reps_sales" : 2001755,
+		"reps_cogs" : 1701344,
+		"reps_profit" : 300411,
+		"reps_qty" : 100137,
+		"reps_payment" : 2001455,
+		"reps_target" : 1601404.00
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "April    ",
+		"reps_sales" : 2340810,
+		"reps_cogs" : 1944384,
+		"reps_profit" : 396426,
+		"reps_qty" : 132142,
+		"reps_payment" : 2339510,
+		"reps_target" : 1872648.00
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "June     ",
+		"reps_sales" : 655330,
+		"reps_cogs" : 545644,
+		"reps_profit" : 109686,
+		"reps_qty" : 36562,
+		"reps_payment" : 653730,
+		"reps_target" : 524264.00
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "June     ",
+		"reps_sales" : 1105225,
+		"reps_cogs" : 1012507,
+		"reps_profit" : 92718,
+		"reps_qty" : 30906,
+		"reps_payment" : 1103725,
+		"reps_target" : 884180.00
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "March    ",
+		"reps_sales" : 1324466,
+		"reps_cogs" : 1009130,
+		"reps_profit" : 315336,
+		"reps_qty" : 105112,
+		"reps_payment" : 1323666,
+		"reps_target" : 1059572.80
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "November ",
+		"reps_sales" : 625625,
+		"reps_cogs" : 531083,
+		"reps_profit" : 94542,
+		"reps_qty" : 31514,
+		"reps_payment" : 623025,
+		"reps_target" : 500500.00
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "March    ",
+		"reps_sales" : 415100,
+		"reps_cogs" : 332039,
+		"reps_profit" : 83061,
+		"reps_qty" : 27687,
+		"reps_payment" : 414400,
+		"reps_target" : 332080.00
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "October  ",
+		"reps_sales" : 1549465,
+		"reps_cogs" : 1078309,
+		"reps_profit" : 471156,
+		"reps_qty" : 157052,
+		"reps_payment" : 1546965,
+		"reps_target" : 1239572.00
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "April    ",
+		"reps_sales" : 574345,
+		"reps_cogs" : 440014,
+		"reps_profit" : 134331,
+		"reps_qty" : 44777,
+		"reps_payment" : 572745,
+		"reps_target" : 459476.00
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "October  ",
+		"reps_sales" : 1067359,
+		"reps_cogs" : 676660,
+		"reps_profit" : 390699,
+		"reps_qty" : 130233,
+		"reps_payment" : 1065459,
+		"reps_target" : 853887.20
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "January  ",
+		"reps_sales" : 7511541,
+		"reps_cogs" : 6034365,
+		"reps_profit" : 1477176,
+		"reps_qty" : 492392,
+		"reps_payment" : 7506241,
+		"reps_target" : 6009232.80
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "September",
+		"reps_sales" : 2417697,
+		"reps_cogs" : 1939326,
+		"reps_profit" : 478371,
+		"reps_qty" : 159457,
+		"reps_payment" : 2413997,
+		"reps_target" : 1934157.60
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "October  ",
+		"reps_sales" : 93820,
+		"reps_cogs" : 64633,
+		"reps_profit" : 29187,
+		"reps_qty" : 9729,
+		"reps_payment" : 92920,
+		"reps_target" : 75056.00
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "December ",
+		"reps_sales" : 353143,
+		"reps_cogs" : 277963,
+		"reps_profit" : 75180,
+		"reps_qty" : 25060,
+		"reps_payment" : 352743,
+		"reps_target" : 282514.40
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "August   ",
+		"reps_sales" : 12616423,
+		"reps_cogs" : 10577398,
+		"reps_profit" : 2039025,
+		"reps_qty" : 679675,
+		"reps_payment" : 12608423,
+		"reps_target" : 10093138.40
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "May      ",
+		"reps_sales" : 1305624,
+		"reps_cogs" : 923685,
+		"reps_profit" : 381939,
+		"reps_qty" : 127313,
+		"reps_payment" : 1303824,
+		"reps_target" : 1044499.20
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "July     ",
+		"reps_sales" : 5746122,
+		"reps_cogs" : 5391693,
+		"reps_profit" : 354429,
+		"reps_qty" : 118143,
+		"reps_payment" : 5744022,
+		"reps_target" : 4596897.60
+	},
+	{
+		"sales_reps" : "Merle N Burrus",
+		"month" : "February ",
+		"reps_sales" : 806084,
+		"reps_cogs" : 617732,
+		"reps_profit" : 188352,
+		"reps_qty" : 62784,
+		"reps_payment" : 804384,
+		"reps_target" : 644867.20
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "August   ",
+		"reps_sales" : 2680019,
+		"reps_cogs" : 2134976,
+		"reps_profit" : 545043,
+		"reps_qty" : 181681,
+		"reps_payment" : 2673319,
+		"reps_target" : 2144015.20
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "February ",
+		"reps_sales" : 1097498,
+		"reps_cogs" : 755663,
+		"reps_profit" : 341835,
+		"reps_qty" : 113945,
+		"reps_payment" : 1095898,
+		"reps_target" : 877998.40
+	},
+	{
+		"sales_reps" : "Reatha Q Breazeale",
+		"month" : "October  ",
+		"reps_sales" : 153811,
+		"reps_cogs" : 121525,
+		"reps_profit" : 32286,
+		"reps_qty" : 10762,
+		"reps_payment" : 152911,
+		"reps_target" : 123048.80
+	},
+	{
+		"sales_reps" : "Antone E Angel",
+		"month" : "July     ",
+		"reps_sales" : 580554,
+		"reps_cogs" : 452424,
+		"reps_profit" : 128130,
+		"reps_qty" : 42710,
+		"reps_payment" : 579354,
+		"reps_target" : 464443.20
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "June     ",
+		"reps_sales" : 361429,
+		"reps_cogs" : 279892,
+		"reps_profit" : 81537,
+		"reps_qty" : 27179,
+		"reps_payment" : 360029,
+		"reps_target" : 289143.20
+	},
+	{
+		"sales_reps" : "Twanna Y Manges",
+		"month" : "January  ",
+		"reps_sales" : 1778673,
+		"reps_cogs" : 1408413,
+		"reps_profit" : 370260,
+		"reps_qty" : 123420,
+		"reps_payment" : 1773773,
+		"reps_target" : 1422938.40
+	}
+]}

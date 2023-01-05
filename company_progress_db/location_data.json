@@ -1,0 +1,102 @@
+{
+"location_data": [
+	{
+		"location" : "Middletown",
+		"location_sales" : 10047090,
+		"location_cogs" : 8144268,
+		"location_profit" : 1902822,
+		"location_qty" : 634274,
+		"location_payment" : 10035590,
+		"location_target" : 8037672.00
+	},
+	{
+		"location" : "Peekskill",
+		"location_sales" : 9608373,
+		"location_cogs" : 7743912,
+		"location_profit" : 1864461,
+		"location_qty" : 621487,
+		"location_payment" : 9596973,
+		"location_target" : 7686698.40
+	},
+	{
+		"location" : "Glen Cove",
+		"location_sales" : 15188604,
+		"location_cogs" : 13307547,
+		"location_profit" : 1881057,
+		"location_qty" : 627019,
+		"location_payment" : 15177104,
+		"location_target" : 12150883.20
+	},
+	{
+		"location" : "Poughkeepsie",
+		"location_sales" : 10295667,
+		"location_cogs" : 8700741,
+		"location_profit" : 1594926,
+		"location_qty" : 531642,
+		"location_payment" : 10284267,
+		"location_target" : 8236533.60
+	},
+	{
+		"location" : "Rye ",
+		"location_sales" : 6835299,
+		"location_cogs" : 5263839,
+		"location_profit" : 1571460,
+		"location_qty" : 523820,
+		"location_payment" : 6823899,
+		"location_target" : 5468239.20
+	},
+	{
+		"location" : "Glens Falls",
+		"location_sales" : 10671308,
+		"location_cogs" : 8777939,
+		"location_profit" : 1893369,
+		"location_qty" : 631123,
+		"location_payment" : 10659808,
+		"location_target" : 8537046.40
+	},
+	{
+		"location" : "Salamanca",
+		"location_sales" : 9003681,
+		"location_cogs" : 7101882,
+		"location_profit" : 1901799,
+		"location_qty" : 633933,
+		"location_payment" : 8992281,
+		"location_target" : 7202944.80
+	},
+	{
+		"location" : "Geneva",
+		"location_sales" : 11226909,
+		"location_cogs" : 9652884,
+		"location_profit" : 1574025,
+		"location_qty" : 524675,
+		"location_payment" : 11215509,
+		"location_target" : 8981527.20
+	},
+	{
+		"location" : "Port Jervis",
+		"location_sales" : 10328080,
+		"location_cogs" : 8743789,
+		"location_profit" : 1584291,
+		"location_qty" : 528097,
+		"location_payment" : 10316680,
+		"location_target" : 8262464.00
+	},
+	{
+		"location" : "Fulton",
+		"location_sales" : 8144269,
+		"location_cogs" : 6569002,
+		"location_profit" : 1575267,
+		"location_qty" : 525089,
+		"location_payment" : 8132869,
+		"location_target" : 6515415.20
+	},
+	{
+		"location" : "Hempstead",
+		"location_sales" : 9211666,
+		"location_cogs" : 7315387,
+		"location_profit" : 1896279,
+		"location_qty" : 632093,
+		"location_payment" : 9200166,
+		"location_target" : 7369332.80
+	}
+]}
