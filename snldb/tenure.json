@@ -1,0 +1,927 @@
+{
+"tenure": [
+	{
+		"aid" : "Kate McKinnon",
+		"n_episodes" : 187,
+		"eps_present" : 187,
+		"n_seasons" : 10
+	},
+	{
+		"aid" : "Alex Moffat",
+		"n_episodes" : 98,
+		"eps_present" : 96,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Ego Nwodim",
+		"n_episodes" : 56,
+		"eps_present" : 55,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Chris Redd",
+		"n_episodes" : 77,
+		"eps_present" : 74,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Kenan Thompson",
+		"n_episodes" : 361,
+		"eps_present" : 358,
+		"n_seasons" : 18
+	},
+	{
+		"aid" : "Aidy Bryant",
+		"n_episodes" : 182,
+		"eps_present" : 174,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Mikey Day",
+		"n_episodes" : 98,
+		"eps_present" : 97,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Heidi Gardner",
+		"n_episodes" : 77,
+		"eps_present" : 76,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Lauren Holt",
+		"n_episodes" : 17,
+		"eps_present" : 13,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Pete Davidson",
+		"n_episodes" : 140,
+		"eps_present" : 129,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Chloe Fineman",
+		"n_episodes" : 35,
+		"eps_present" : 33,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Darrell Hammond",
+		"n_episodes" : 272,
+		"eps_present" : 267,
+		"n_seasons" : 14
+	},
+	{
+		"aid" : "Colin Jost",
+		"n_episodes" : 148,
+		"eps_present" : 148,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Michael Che",
+		"n_episodes" : 140,
+		"eps_present" : 140,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Beck Bennett",
+		"n_episodes" : 161,
+		"eps_present" : 161,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Punkie Johnson",
+		"n_episodes" : 17,
+		"eps_present" : 16,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Bowen Yang",
+		"n_episodes" : 35,
+		"eps_present" : 34,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Andrew Dismukes",
+		"n_episodes" : 17,
+		"eps_present" : 14,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Kyle Mooney",
+		"n_episodes" : 161,
+		"eps_present" : 158,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Cecily Strong",
+		"n_episodes" : 182,
+		"eps_present" : 176,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Maya Rudolph",
+		"n_episodes" : 146,
+		"eps_present" : 132,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Melissa Villasenor",
+		"n_episodes" : 98,
+		"eps_present" : 89,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Martin Short",
+		"n_episodes" : 17,
+		"eps_present" : 17,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Rachel Dratch",
+		"n_episodes" : 137,
+		"eps_present" : 133,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Tina Fey",
+		"n_episodes" : 119,
+		"eps_present" : 117,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Kristen Wiig",
+		"n_episodes" : 135,
+		"eps_present" : 135,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Jimmy Fallon",
+		"n_episodes" : 119,
+		"eps_present" : 119,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Chris Rock",
+		"n_episodes" : 60,
+		"eps_present" : 56,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Fred Armisen",
+		"n_episodes" : 220,
+		"eps_present" : 219,
+		"n_seasons" : 11
+	},
+	{
+		"aid" : "Jason Sudeikis",
+		"n_episodes" : 163,
+		"eps_present" : 162,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Adam Sandler",
+		"n_episodes" : 89,
+		"eps_present" : 86,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Rob Schneider",
+		"n_episodes" : 77,
+		"eps_present" : 70,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Amy Poehler",
+		"n_episodes" : 142,
+		"eps_present" : 139,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Ana Gasteyer",
+		"n_episodes" : 119,
+		"eps_present" : 119,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Bill Hader",
+		"n_episodes" : 160,
+		"eps_present" : 159,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Molly Shannon",
+		"n_episodes" : 118,
+		"eps_present" : 117,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Jon Lovitz",
+		"n_episodes" : 91,
+		"eps_present" : 91,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Eddie Murphy",
+		"n_episodes" : 64,
+		"eps_present" : 64,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Tracy Morgan",
+		"n_episodes" : 139,
+		"eps_present" : 132,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Will Ferrell",
+		"n_episodes" : 139,
+		"eps_present" : 136,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Leslie Jones",
+		"n_episodes" : 102,
+		"eps_present" : 102,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Ben Stiller",
+		"n_episodes" : 6,
+		"eps_present" : 4,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Nancy Walls",
+		"n_episodes" : 20,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Seth Meyers",
+		"n_episodes" : 253,
+		"eps_present" : 251,
+		"n_seasons" : 13
+	},
+	{
+		"aid" : "Luke Null",
+		"n_episodes" : 21,
+		"eps_present" : 19,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Nasim Pedrad",
+		"n_episodes" : 108,
+		"eps_present" : 108,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Vanessa Bayer",
+		"n_episodes" : 149,
+		"eps_present" : 147,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Andy Samberg",
+		"n_episodes" : 139,
+		"eps_present" : 138,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Bill Murray",
+		"n_episodes" : 72,
+		"eps_present" : 70,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Sasheer Zamata",
+		"n_episodes" : 74,
+		"eps_present" : 70,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Bobby Moynihan",
+		"n_episodes" : 193,
+		"eps_present" : 192,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Will Forte",
+		"n_episodes" : 155,
+		"eps_present" : 153,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Dana Carvey",
+		"n_episodes" : 125,
+		"eps_present" : 123,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Taran Killam",
+		"n_episodes" : 128,
+		"eps_present" : 127,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Jay Pharoah",
+		"n_episodes" : 128,
+		"eps_present" : 125,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Jon Rudnitsky",
+		"n_episodes" : 21,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Phil Hartman",
+		"n_episodes" : 153,
+		"eps_present" : 153,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Julia Louis-Dreyfus",
+		"n_episodes" : 56,
+		"eps_present" : 56,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Mike O'Brien",
+		"n_episodes" : 21,
+		"eps_present" : 21,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Mike Myers",
+		"n_episodes" : 122,
+		"eps_present" : 115,
+		"n_seasons" : 7
+	},
+	{
+		"aid" : "Billy Crystal",
+		"n_episodes" : 17,
+		"eps_present" : 17,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Sarah Silverman",
+		"n_episodes" : 18,
+		"eps_present" : 16,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "John Milhiser",
+		"n_episodes" : 21,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Noel Wells",
+		"n_episodes" : 21,
+		"eps_present" : 21,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Brooks Wheelan",
+		"n_episodes" : 21,
+		"eps_present" : 21,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "David Koechner",
+		"n_episodes" : 20,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Tim Robinson",
+		"n_episodes" : 21,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Jim Downey",
+		"n_episodes" : 12,
+		"eps_present" : 6,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Chevy Chase",
+		"n_episodes" : 30,
+		"eps_present" : 30,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Dan Aykroyd",
+		"n_episodes" : 86,
+		"eps_present" : 84,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Paul Shaffer",
+		"n_episodes" : 16,
+		"eps_present" : 12,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Chris Parnell",
+		"n_episodes" : 146,
+		"eps_present" : 145,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Abby Elliott",
+		"n_episodes" : 81,
+		"eps_present" : 81,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Chris Kattan",
+		"n_episodes" : 145,
+		"eps_present" : 142,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Paul Brittain",
+		"n_episodes" : 34,
+		"eps_present" : 34,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Horatio Sanz",
+		"n_episodes" : 158,
+		"eps_present" : 151,
+		"n_seasons" : 8
+	},
+	{
+		"aid" : "Robert Smigel",
+		"n_episodes" : 40,
+		"eps_present" : 23,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Jenny Slate",
+		"n_episodes" : 22,
+		"eps_present" : 22,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Michaela Watkins",
+		"n_episodes" : 15,
+		"eps_present" : 15,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Casey Wilson",
+		"n_episodes" : 30,
+		"eps_present" : 30,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Norm MacDonald",
+		"n_episodes" : 95,
+		"eps_present" : 90,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Finesse Mitchell",
+		"n_episodes" : 59,
+		"eps_present" : 55,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Tim Meadows",
+		"n_episodes" : 188,
+		"eps_present" : 181,
+		"n_seasons" : 10
+	},
+	{
+		"aid" : "Rob Riggle",
+		"n_episodes" : 20,
+		"eps_present" : 19,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Jeff Richards",
+		"n_episodes" : 50,
+		"eps_present" : 48,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Al Franken",
+		"n_episodes" : 200,
+		"eps_present" : 99,
+		"n_seasons" : 11
+	},
+	{
+		"aid" : "Jim Belushi",
+		"n_episodes" : 36,
+		"eps_present" : 30,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Tom Davis",
+		"n_episodes" : 56,
+		"eps_present" : 48,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Dean Edwards",
+		"n_episodes" : 40,
+		"eps_present" : 36,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Garrett Morris",
+		"n_episodes" : 106,
+		"eps_present" : 103,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Colin Quinn",
+		"n_episodes" : 99,
+		"eps_present" : 90,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Kevin Nealon",
+		"n_episodes" : 173,
+		"eps_present" : 172,
+		"n_seasons" : 9
+	},
+	{
+		"aid" : "Jerry Minor",
+		"n_episodes" : 20,
+		"eps_present" : 19,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Cheri Oteri",
+		"n_episodes" : 99,
+		"eps_present" : 98,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Jim Breuer",
+		"n_episodes" : 60,
+		"eps_present" : 58,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Mark McKinney",
+		"n_episodes" : 51,
+		"eps_present" : 50,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Michael McKean",
+		"n_episodes" : 26,
+		"eps_present" : 26,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Chris Farley",
+		"n_episodes" : 100,
+		"eps_present" : 96,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Robert Downey Jr.",
+		"n_episodes" : 18,
+		"eps_present" : 18,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Fred Wolf",
+		"n_episodes" : 23,
+		"eps_present" : 13,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Don Novello",
+		"n_episodes" : 38,
+		"eps_present" : 18,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Morwenna Banks",
+		"n_episodes" : 4,
+		"eps_present" : 4,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Ellen Cleghorne",
+		"n_episodes" : 80,
+		"eps_present" : 78,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Chris Elliott",
+		"n_episodes" : 20,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Jay Mohr",
+		"n_episodes" : 38,
+		"eps_present" : 34,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Laura Kightlinger",
+		"n_episodes" : 20,
+		"eps_present" : 19,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Damon Wayans",
+		"n_episodes" : 12,
+		"eps_present" : 11,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Janeane Garofalo",
+		"n_episodes" : 14,
+		"eps_present" : 14,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Melanie Hutsell",
+		"n_episodes" : 55,
+		"eps_present" : 54,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Julia Sweeney",
+		"n_episodes" : 76,
+		"eps_present" : 76,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Jan Hooks",
+		"n_episodes" : 93,
+		"eps_present" : 93,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Tom Schiller",
+		"n_episodes" : 5,
+		"eps_present" : 1,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Siobhan Fallon",
+		"n_episodes" : 20,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Beth Cahill",
+		"n_episodes" : 15,
+		"eps_present" : 13,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Victoria Jackson",
+		"n_episodes" : 113,
+		"eps_present" : 113,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Dennis Miller",
+		"n_episodes" : 111,
+		"eps_present" : 111,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Randy Quaid",
+		"n_episodes" : 18,
+		"eps_present" : 18,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "A. Whitney Brown",
+		"n_episodes" : 101,
+		"eps_present" : 56,
+		"n_seasons" : 6
+	},
+	{
+		"aid" : "Nora Dunn",
+		"n_episodes" : 91,
+		"eps_present" : 89,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Laurie Metcalf",
+		"n_episodes" : 1,
+		"eps_present" : 1,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Joan Cusack",
+		"n_episodes" : 18,
+		"eps_present" : 18,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Terry Sweeney",
+		"n_episodes" : 18,
+		"eps_present" : 17,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Danitra Vance",
+		"n_episodes" : 18,
+		"eps_present" : 18,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Anthony Michael Hall",
+		"n_episodes" : 18,
+		"eps_present" : 15,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Dan Vitale",
+		"n_episodes" : 18,
+		"eps_present" : 4,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Christopher Guest",
+		"n_episodes" : 17,
+		"eps_present" : 17,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Gary Kroeger",
+		"n_episodes" : 56,
+		"eps_present" : 56,
+		"n_seasons" : 3
+	},
+	{
+		"aid" : "Mary Gross",
+		"n_episodes" : 76,
+		"eps_present" : 76,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Pamela Stephenson",
+		"n_episodes" : 17,
+		"eps_present" : 17,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Rich Hall",
+		"n_episodes" : 17,
+		"eps_present" : 16,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Harry Shearer",
+		"n_episodes" : 30,
+		"eps_present" : 30,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Alan Zweibel",
+		"n_episodes" : 5,
+		"eps_present" : 3,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Yvonne Hudson",
+		"n_episodes" : 9,
+		"eps_present" : 8,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Joe Piscopo",
+		"n_episodes" : 72,
+		"eps_present" : 72,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Brad Hall",
+		"n_episodes" : 39,
+		"eps_present" : 39,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Tim Kazurinsky",
+		"n_episodes" : 60,
+		"eps_present" : 60,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Robin Duke",
+		"n_episodes" : 60,
+		"eps_present" : 59,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Christine Ebersole",
+		"n_episodes" : 20,
+		"eps_present" : 20,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Tony Rosato",
+		"n_episodes" : 21,
+		"eps_present" : 21,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Brian Doyle-Murray",
+		"n_episodes" : 32,
+		"eps_present" : 31,
+		"n_seasons" : 2
+	},
+	{
+		"aid" : "Emily Prager",
+		"n_episodes" : 1,
+		"eps_present" : 0,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "John Belushi",
+		"n_episodes" : 86,
+		"eps_present" : 84,
+		"n_seasons" : 4
+	},
+	{
+		"aid" : "Michael O'Donoghue",
+		"n_episodes" : 4,
+		"eps_present" : 3,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Denny Dillon",
+		"n_episodes" : 13,
+		"eps_present" : 13,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Gail Matthius",
+		"n_episodes" : 13,
+		"eps_present" : 13,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Ann Risley",
+		"n_episodes" : 13,
+		"eps_present" : 12,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Charles Rocket",
+		"n_episodes" : 13,
+		"eps_present" : 12,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Matthew Laurance",
+		"n_episodes" : 10,
+		"eps_present" : 9,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Patrick Weathers",
+		"n_episodes" : 10,
+		"eps_present" : 8,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Peter Aykroyd",
+		"n_episodes" : 12,
+		"eps_present" : 9,
+		"n_seasons" : 1
+	},
+	{
+		"aid" : "Jane Curtin",
+		"n_episodes" : 106,
+		"eps_present" : 105,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Laraine Newman",
+		"n_episodes" : 106,
+		"eps_present" : 104,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "Gilda Radner",
+		"n_episodes" : 106,
+		"eps_present" : 103,
+		"n_seasons" : 5
+	},
+	{
+		"aid" : "George Coe",
+		"n_episodes" : 1,
+		"eps_present" : 1,
+		"n_seasons" : 1
+	}
+]}

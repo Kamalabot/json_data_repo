@@ -1,0 +1,2803 @@
+{
+"holiday_table": [
+	{
+		"day_date" : "2012-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2012-10-12",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-24",
+		"holiday_type" : "Bridge",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Puente Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-31",
+		"holiday_type" : "Bridge",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Puente Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2012-12-31",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-01-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-01-05",
+		"holiday_type" : "Work Day",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Recupero puente Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-01-12",
+		"holiday_type" : "Work Day",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Recupero puente primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-02-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-02-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-04-29",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Viernes Santo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-05-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia del Trabajo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-05-11",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-05-12",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-05-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Batalla de Pichincha",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-07-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-07-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2013-10-11",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2013-12-31",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-01-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-03-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-03-04",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-04-18",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Viernes Santo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-05-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia del Trabajo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-05-10",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-05-11",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-05-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Batalla de Pichincha",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-12",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Inauguracion Mundial de futbol Brasil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-15",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Ecuador-Suiza",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-20",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Ecuador-Honduras",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-25",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Ecuador-Francia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-28",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Octavos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-29",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Octavos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-06-30",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Octavos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-01",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Octavos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-04",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Cuartos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-05",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Cuartos de Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-08",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Semifinales",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-09",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Semifinales",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-12",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Tercer y cuarto lugar",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-13",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Mundial de futbol Brasil: Final",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-07-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2014-10-10",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-11-28",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Black Friday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-01",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Cyber Monday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-20",
+		"holiday_type" : "Work Day",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Recupero Puente Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-26",
+		"holiday_type" : "Bridge",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Puente Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2014-12-31",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-01-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-01-02",
+		"holiday_type" : "Bridge",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Puente Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-01-10",
+		"holiday_type" : "Work Day",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Recupero Puente Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-02-16",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-02-17",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-04-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Viernes Santo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-05-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia del Trabajo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-05-09",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-05-10",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-05-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Batalla de Pichincha",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-07-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-07-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-27",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Black Friday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-11-30",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Cyber Monday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2015-12-31",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-01-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-02-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-02-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-03-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Viernes Santo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-16",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-17",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-18",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-19",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-20",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-21",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+5",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-22",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+6",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-23",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+7",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-24",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+8",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-25",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+9",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-26",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+10",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-27",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+11",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-28",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+12",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-29",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+13",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-04-30",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+14",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia del Trabajo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-01",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+15",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-02",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+16",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-03",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+17",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-04",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+18",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-05",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+19",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-06",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+20",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-07",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-07",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+21",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-08",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+22",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-08",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-09",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+23",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-10",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+24",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-11",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+25",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-12",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+26",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-13",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+27",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-14",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+28",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-15",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+29",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-16",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Terremoto Manabi+30",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-05-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Batalla de Pichincha",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2016-05-27",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Batalla de Pichincha",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-24",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Traslado Fundacion de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-07-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2016-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2016-08-12",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-04",
+		"holiday_type" : "Bridge",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Puente Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-12",
+		"holiday_type" : "Work Day",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Recupero Puente Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-25",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Black Friday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-11-28",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Cyber Monday",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2016-12-31",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-01-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer dia del ano",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-01-02",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Primer dia del ano",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-02-27",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-02-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Carnaval",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-03-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Manta",
+		"description" : "Fundacion de Manta",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-04-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Cotopaxi",
+		"description" : "Provincializacion de Cotopaxi",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-04-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-04-13",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cuenca",
+		"description" : "Fundacion de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Libertad",
+		"description" : "Cantonizacion de Libertad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-04-14",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Viernes Santo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-04-21",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Cantonizacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-05-01",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia del Trabajo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-05-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Puyo",
+		"description" : "Cantonizacion del Puyo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-05-13",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-05-14",
+		"holiday_type" : "Event",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de la Madre",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-05-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Batalla de Pichincha",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-05-26",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Batalla de Pichincha",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-06-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Cantonizacion de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Imbabura",
+		"description" : "Provincializacion de Imbabura",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Cantonizacion de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-06-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Machala",
+		"description" : "Fundacion de Machala",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "El Carmen",
+		"description" : "Cantonizacion de El Carmen",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-07-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Santo Domingo",
+		"description" : "Fundacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-07-23",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Cayambe",
+		"description" : "Cantonizacion de Cayambe",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-07-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-07-25",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guayaquil",
+		"description" : "Fundacion de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-08-05",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Esmeraldas",
+		"description" : "Fundacion de Esmeraldas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-08-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Primer Grito de Independencia",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-08-11",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Traslado Primer Grito de Independencia",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-08-15",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Riobamba",
+		"description" : "Fundacion de Riobamba",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-08-24",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Fundacion de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-09-28",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-09-29",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ibarra",
+		"description" : "Fundacion de Ibarra",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-10-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quevedo",
+		"description" : "Cantonizacion de Quevedo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-10-09",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Guayaquil",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-02",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Dia de Difuntos",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-03",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Independencia de Cuenca",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santo Domingo de los Tsachilas",
+		"description" : "Provincializacion de Santo Domingo",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-07",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Regional",
+		"holiday_localename" : "Santa Elena",
+		"description" : "Provincializacion Santa Elena",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-10",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Guaranda",
+		"description" : "Independencia de Guaranda",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-11",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Latacunga",
+		"description" : "Independencia de Latacunga",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-11-12",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Ambato",
+		"description" : "Independencia de Ambato",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-05",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-06",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Fundacion de Quito",
+		"transferred" : true
+	},
+	{
+		"day_date" : "2017-12-08",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Loja",
+		"description" : "Fundacion de Loja",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-08",
+		"holiday_type" : "Transfer",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Quito",
+		"description" : "Traslado Fundacion de Quito",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-21",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-4",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-22",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "Local",
+		"holiday_localename" : "Salinas",
+		"description" : "Cantonizacion de Salinas",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-22",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-3",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-23",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-2",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-24",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad-1",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-25",
+		"holiday_type" : "Holiday",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad",
+		"transferred" : false
+	},
+	{
+		"day_date" : "2017-12-26",
+		"holiday_type" : "Additional",
+		"holiday_locale" : "National",
+		"holiday_localename" : "Ecuador",
+		"description" : "Navidad+1",
+		"transferred" : false
+	}
+]}

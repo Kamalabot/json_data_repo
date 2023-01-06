@@ -1,0 +1,491 @@
+{
+"custacq": [
+	{
+		"f" : "August 1, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "August 2, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "August 3, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "August 4, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "August 5, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "August 6, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "August 7, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "August 8, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "August 9, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "August 10, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "August 11, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "August 12, 2020",
+		"New Customer" : 4
+	},
+	{
+		"f" : "August 13, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "August 14, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "August 15, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "August 16, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "August 17, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "August 18, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "August 19, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "August 20, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "August 21, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "August 22, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "August 23, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "August 24, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "August 25, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "August 26, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "August 27, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "August 28, 2020",
+		"New Customer" : 100
+	},
+	{
+		"f" : "August 29, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "August 30, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "August 31, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "September 1, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "September 2, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "September 3, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "September 4, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "September 5, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "September 6, 2020",
+		"New Customer" : 90
+	},
+	{
+		"f" : "September 7, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "September 8, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "September 9, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "September 10, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "September 11, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "September 12, 2020",
+		"New Customer" : 80
+	},
+	{
+		"f" : "September 13, 2020",
+		"New Customer" : 4
+	},
+	{
+		"f" : "September 14, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "September 15, 2020",
+		"New Customer" : 33
+	},
+	{
+		"f" : "September 16, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "September 17, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "September 18, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "September 19, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "September 20, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "September 21, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "September 22, 2020",
+		"New Customer" : 200
+	},
+	{
+		"f" : "September 23, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "September 24, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "September 25, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "September 26, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "September 27, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "September 28, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "September 29, 2020",
+		"New Customer" : 4
+	},
+	{
+		"f" : "September 30, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "October 1, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "October 2, 2020",
+		"New Customer" : 900
+	},
+	{
+		"f" : "October 3, 2020",
+		"New Customer" : 80
+	},
+	{
+		"f" : "October 4, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "October 5, 2020",
+		"New Customer" : 50
+	},
+	{
+		"f" : "October 6, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "October 7, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "October 8, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "October 9, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "October 10, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "October 11, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "October 12, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "October 13, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "October 14, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "October 15, 2020",
+		"New Customer" : 4
+	},
+	{
+		"f" : "October 16, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "October 17, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "October 18, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "October 19, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "October 20, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "October 21, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "October 22, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "October 23, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "October 24, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "October 25, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "October 26, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "October 27, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "October 28, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "October 29, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "October 30, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "October 31, 2020",
+		"New Customer" : 4
+	},
+	{
+		"f" : "November 1, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "November 2, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "November 3, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "November 4, 2020",
+		"New Customer" : 3
+	},
+	{
+		"f" : "November 5, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "November 6, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "November 7, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "November 8, 2020",
+		"New Customer" : 0
+	},
+	{
+		"f" : "November 9, 2020",
+		"New Customer" : 5
+	},
+	{
+		"f" : "November 10, 2020",
+		"New Customer" : 7
+	},
+	{
+		"f" : "November 11, 2020",
+		"New Customer" : 2
+	},
+	{
+		"f" : "November 12, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "November 13, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "November 14, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "November 15, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "November 16, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "November 17, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "November 18, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "November 19, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "November 20, 2020",
+		"New Customer" : 10
+	},
+	{
+		"f" : "November 21, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "November 22, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "November 23, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "November 24, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "November 25, 2020",
+		"New Customer" : 9
+	},
+	{
+		"f" : "November 26, 2020",
+		"New Customer" : 70
+	},
+	{
+		"f" : "November 27, 2020",
+		"New Customer" : 60
+	},
+	{
+		"f" : "November 28, 2020",
+		"New Customer" : 40
+	},
+	{
+		"f" : "November 29, 2020",
+		"New Customer" : 20
+	},
+	{
+		"f" : "November 30, 2020",
+		"New Customer" : 10
+	}
+]}

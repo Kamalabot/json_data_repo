@@ -1,0 +1,135 @@
+{
+"primary_indicator": [
+	{
+		"indicator_code" : "IC.BUS.DISC.XQ",
+		"indicator_name" : "Business extent of disclosure index (0=less disclosure to 10=more disclosure)"
+	},
+	{
+		"indicator_code" : "IC.CRD.INFO.XQ",
+		"indicator_name" : "Depth of credit information index (0=low to 8=high)"
+	},
+	{
+		"indicator_code" : "FS.AST.PRVT.GD.ZS",
+		"indicator_name" : "Domestic credit to private sector (% of GDP)"
+	},
+	{
+		"indicator_code" : "EG.USE.ELEC.KH.PC",
+		"indicator_name" : "Electric power consumption (kWh per capita)"
+	},
+	{
+		"indicator_code" : "EG.IMP.CONS.ZS",
+		"indicator_name" : "Energy imports, net (% of energy use)"
+	},
+	{
+		"indicator_code" : "GC.XPN.TOTL.GD.ZS",
+		"indicator_name" : "Expense (% of GDP)"
+	},
+	{
+		"indicator_code" : "IT.NET.BBND.P2",
+		"indicator_name" : "Fixed broadband subscriptions (per 100 people)"
+	},
+	{
+		"indicator_code" : "IT.MLT.MAIN.P2",
+		"indicator_name" : "Fixed telephone subscriptions (per 100 people)"
+	},
+	{
+		"indicator_code" : "NY.GDP.MKTP.KD.ZG",
+		"indicator_name" : "GDP growth (annual %)"
+	},
+	{
+		"indicator_code" : "SI.POV.GINI",
+		"indicator_name" : "Gini index"
+	},
+	{
+		"indicator_code" : "SE.XPD.TOTL.GD.ZS",
+		"indicator_name" : "Government expenditure on education, total (% of GDP)"
+	},
+	{
+		"indicator_code" : "TX.VAL.TECH.MF.ZS",
+		"indicator_name" : "High-technology exports (% of manufactured exports)"
+	},
+	{
+		"indicator_code" : "FP.CPI.TOTL.ZG",
+		"indicator_name" : "Inflation, consumer prices (annual %)"
+	},
+	{
+		"indicator_code" : "FR.INR.LNDP",
+		"indicator_name" : "Interest rate spread (lending rate minus deposit rate, %)"
+	},
+	{
+		"indicator_code" : "SL.TLF.CACT.FE.ZS",
+		"indicator_name" : "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+	},
+	{
+		"indicator_code" : "SL.TLF.CACT.MA.ZS",
+		"indicator_name" : "Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+	},
+	{
+		"indicator_code" : "LP.LPI.OVRL.XQ",
+		"indicator_name" : "Logistics performance index: Overall (1=low to 5=high)"
+	},
+	{
+		"indicator_code" : "CM.MKT.LCAP.GD.ZS",
+		"indicator_name" : "Market capitalization of listed domestic companies (% of GDP)"
+	},
+	{
+		"indicator_code" : "MS.MIL.XPND.GD.ZS",
+		"indicator_name" : "Military expenditure (% of GDP)"
+	},
+	{
+		"indicator_code" : "IT.CEL.SETS.P2",
+		"indicator_name" : "Mobile cellular subscriptions (per 100 people)"
+	},
+	{
+		"indicator_code" : "GC.NLD.TOTL.GD.ZS",
+		"indicator_name" : "Net lending (+) \/ net borrowing (-) (% of GDP)"
+	},
+	{
+		"indicator_code" : "EN.URB.LCTY.UR.ZS",
+		"indicator_name" : "Population in the largest city (% of urban population)"
+	},
+	{
+		"indicator_code" : "GB.XPD.RSDV.GD.ZS",
+		"indicator_name" : "Research and development expenditure (% of GDP)"
+	},
+	{
+		"indicator_code" : "IC.LGL.CRED.XQ",
+		"indicator_name" : "Strength of legal rights index (0=weak to 12=strong)"
+	},
+	{
+		"indicator_code" : "GC.TAX.TOTL.GD.ZS",
+		"indicator_name" : "Tax revenue (% of GDP)"
+	},
+	{
+		"indicator_code" : "IC.REG.DURS.FE",
+		"indicator_name" : "Time required to start a business, female (days)"
+	},
+	{
+		"indicator_code" : "IC.REG.DURS.MA",
+		"indicator_name" : "Time required to start a business, male (days)"
+	},
+	{
+		"indicator_code" : "IC.GOV.DURS.ZS",
+		"indicator_name" : "Time spent dealing with the requirements of government regulations (% of senior management time)"
+	},
+	{
+		"indicator_code" : "IC.TAX.TOTL.CP.ZS",
+		"indicator_name" : "Total tax and contribution rate (% of profit)"
+	},
+	{
+		"indicator_code" : "SE.PRM.TCAQ.ZS",
+		"indicator_name" : "Trained teachers in primary education (% of total teachers)"
+	},
+	{
+		"indicator_code" : "SL.UEM.TOTL.FE.ZS",
+		"indicator_name" : "Unemployment, female (% of female labor force) (modeled ILO estimate)"
+	},
+	{
+		"indicator_code" : "SL.UEM.TOTL.MA.ZS",
+		"indicator_name" : "Unemployment, male (% of male labor force) (modeled ILO estimate)"
+	},
+	{
+		"indicator_code" : "SP.URB.TOTL.IN.ZS",
+		"indicator_name" : "Urban population (% of total population)"
+	}
+]}

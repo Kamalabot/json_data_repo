@@ -1,0 +1,75 @@
+{
+"monthlytgt": [
+	{
+		"months" : "Aug",
+		"Activity" : "Sales Target",
+		"Target" : 600000,
+		"Revenue" : 480000
+	},
+	{
+		"months" : "Sep",
+		"Activity" : "Sales Target",
+		"Target" : 520000,
+		"Revenue" : 478020
+	},
+	{
+		"months" : "Oct",
+		"Activity" : "Sales Target",
+		"Target" : 590000,
+		"Revenue" : 686390
+	},
+	{
+		"months" : "Nov",
+		"Activity" : "Sales Target",
+		"Target" : 560000,
+		"Revenue" : 684140
+	},
+	{
+		"months" : "Aug",
+		"Activity" : "Customer Acquisition",
+		"Target" : 600,
+		"Revenue" : 577
+	},
+	{
+		"months" : "Sep",
+		"Activity" : "Customer Acquisition",
+		"Target" : 2000,
+		"Revenue" : 1000
+	},
+	{
+		"months" : "Oct",
+		"Activity" : "Customer Acquisition",
+		"Target" : 1200,
+		"Revenue" : 1498
+	},
+	{
+		"months" : "Nov",
+		"Activity" : "Customer Acquisition",
+		"Target" : 600,
+		"Revenue" : 781
+	},
+	{
+		"months" : "Aug",
+		"Activity" : "Ads Budget and expenses",
+		"Target" : 4000,
+		"Revenue" : 2369.3
+	},
+	{
+		"months" : "Sep",
+		"Activity" : "Ads Budget and expenses",
+		"Target" : 3000,
+		"Revenue" : 1718.9
+	},
+	{
+		"months" : "Oct",
+		"Activity" : "Ads Budget and expenses",
+		"Target" : 3000,
+		"Revenue" : 2720
+	},
+	{
+		"months" : "Nov",
+		"Activity" : "Ads Budget and expenses",
+		"Target" : 2500,
+		"Revenue" : 2371.4
+	}
+]}

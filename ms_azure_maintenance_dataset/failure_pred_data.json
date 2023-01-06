@@ -1,0 +1,63 @@
+{
+"failure_pred_data": [
+	{
+		"machine_id" : 7,
+		"volt" : 191.90236,
+		"rotate" : 368.2733,
+		"pressure" : 93.38301,
+		"vibration" : 34.41052,
+		"error_cat" : 1,
+		"failuer_cat" : 2,
+		"component_cat" : 1,
+		"age" : 20,
+		"model_cat" : 3
+	},
+	{
+		"machine_id" : 7,
+		"volt" : 191.90236,
+		"rotate" : 368.2733,
+		"pressure" : 93.38301,
+		"vibration" : 34.41052,
+		"error_cat" : 3,
+		"failuer_cat" : 2,
+		"component_cat" : 1,
+		"age" : 20,
+		"model_cat" : 3
+	},
+	{
+		"machine_id" : 7,
+		"volt" : 191.90236,
+		"rotate" : 368.2733,
+		"pressure" : 93.38301,
+		"vibration" : 34.41052,
+		"error_cat" : 2,
+		"failuer_cat" : 2,
+		"component_cat" : 1,
+		"age" : 20,
+		"model_cat" : 3
+	},
+	{
+		"machine_id" : 7,
+		"volt" : 191.90236,
+		"rotate" : 368.2733,
+		"pressure" : 93.38301,
+		"vibration" : 34.41052,
+		"error_cat" : 3,
+		"failuer_cat" : 2,
+		"component_cat" : 1,
+		"age" : 20,
+		"model_cat" : 3
+	},
+	{
+		"machine_id" : 7,
+		"volt" : 191.90236,
+		"rotate" : 368.2733,
+		"pressure" : 93.38301,
+		"vibration" : 34.41052,
+		"error_cat" : 5,
+		"failuer_cat" : 2,
+		"component_cat" : 1,
+		"age" : 20,
+		"model_cat" : 3
+	}
+]}

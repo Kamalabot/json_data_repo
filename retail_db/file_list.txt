@@ -1,0 +1,12 @@
+https://kamalabot.github.io/json_data_repo/retail_db/categories.json
+https://kamalabot.github.io/json_data_repo/retail_db/customers.json
+https://kamalabot.github.io/json_data_repo/retail_db/customers_orders_mnth_metrics.json
+https://kamalabot.github.io/json_data_repo/retail_db/daily_product_revenue.json
+https://kamalabot.github.io/json_data_repo/retail_db/daily_revenue.json
+https://kamalabot.github.io/json_data_repo/retail_db/departments.json
+https://kamalabot.github.io/json_data_repo/retail_db/order_items.json
+https://kamalabot.github.io/json_data_repo/retail_db/orders.json
+https://kamalabot.github.io/json_data_repo/retail_db/products.json
+https://kamalabot.github.io/json_data_repo/retail_db/rank_revenue_ctas.json
+https://kamalabot.github.io/json_data_repo/retail_db/user_logins.json
+https://kamalabot.github.io/json_data_repo/retail_db/users.json

@@ -1,0 +1,8 @@
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/countries.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/departments.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/employee_rank.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/employees.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/job_history.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/jobs.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/locations.json
+https://kamalabot.github.io/json_data_repo/hr_db_dataset/regions.json

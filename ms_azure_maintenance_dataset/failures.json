@@ -1,0 +1,4569 @@
+{
+"failures": [
+	{
+		"failure_id" : 1,
+		"datetime" : "2015-01-05T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 2,
+		"datetime" : "2015-03-06T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 3,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 4,
+		"datetime" : "2015-06-19T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 5,
+		"datetime" : "2015-09-02T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 6,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 7,
+		"datetime" : "2015-12-16T00:30:00.000Z",
+		"machine_id" : 1,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 8,
+		"datetime" : "2015-03-19T00:30:00.000Z",
+		"machine_id" : 2,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 9,
+		"datetime" : "2015-03-19T00:30:00.000Z",
+		"machine_id" : 2,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 10,
+		"datetime" : "2015-04-18T00:30:00.000Z",
+		"machine_id" : 2,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 11,
+		"datetime" : "2015-12-29T00:30:00.000Z",
+		"machine_id" : 2,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 12,
+		"datetime" : "2015-01-07T00:30:00.000Z",
+		"machine_id" : 3,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 13,
+		"datetime" : "2015-02-06T00:30:00.000Z",
+		"machine_id" : 3,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 14,
+		"datetime" : "2015-07-21T00:30:00.000Z",
+		"machine_id" : 3,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 15,
+		"datetime" : "2015-10-04T00:30:00.000Z",
+		"machine_id" : 3,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 16,
+		"datetime" : "2015-12-03T00:30:00.000Z",
+		"machine_id" : 3,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 17,
+		"datetime" : "2015-01-17T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 18,
+		"datetime" : "2015-02-16T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 19,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 20,
+		"datetime" : "2015-07-16T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 21,
+		"datetime" : "2015-08-30T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 22,
+		"datetime" : "2015-10-14T00:30:00.000Z",
+		"machine_id" : 4,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 23,
+		"datetime" : "2015-01-09T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 24,
+		"datetime" : "2015-02-23T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 25,
+		"datetime" : "2015-04-09T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 26,
+		"datetime" : "2015-06-23T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 27,
+		"datetime" : "2015-09-06T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 28,
+		"datetime" : "2015-10-06T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 29,
+		"datetime" : "2015-11-20T00:30:00.000Z",
+		"machine_id" : 5,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 30,
+		"datetime" : "2015-01-24T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 31,
+		"datetime" : "2015-01-24T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 32,
+		"datetime" : "2015-02-08T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 33,
+		"datetime" : "2015-04-24T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 34,
+		"datetime" : "2015-05-09T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 35,
+		"datetime" : "2015-05-24T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 36,
+		"datetime" : "2015-07-08T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 37,
+		"datetime" : "2015-09-21T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 38,
+		"datetime" : "2015-10-21T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 39,
+		"datetime" : "2015-12-20T00:30:00.000Z",
+		"machine_id" : 7,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 40,
+		"datetime" : "2015-03-07T00:30:00.000Z",
+		"machine_id" : 8,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 41,
+		"datetime" : "2015-03-22T00:30:00.000Z",
+		"machine_id" : 8,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 42,
+		"datetime" : "2015-04-21T00:30:00.000Z",
+		"machine_id" : 8,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 43,
+		"datetime" : "2015-08-04T00:30:00.000Z",
+		"machine_id" : 8,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 44,
+		"datetime" : "2015-10-18T00:30:00.000Z",
+		"machine_id" : 8,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 45,
+		"datetime" : "2015-03-04T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 46,
+		"datetime" : "2015-06-17T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 47,
+		"datetime" : "2015-07-02T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 48,
+		"datetime" : "2015-07-17T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 49,
+		"datetime" : "2015-08-31T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 50,
+		"datetime" : "2015-09-15T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 51,
+		"datetime" : "2015-10-15T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 52,
+		"datetime" : "2015-11-14T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 53,
+		"datetime" : "2015-12-14T00:30:00.000Z",
+		"machine_id" : 9,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 54,
+		"datetime" : "2015-01-19T00:30:00.000Z",
+		"machine_id" : 10,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 55,
+		"datetime" : "2015-04-04T00:30:00.000Z",
+		"machine_id" : 10,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 56,
+		"datetime" : "2015-05-19T00:30:00.000Z",
+		"machine_id" : 10,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 57,
+		"datetime" : "2015-06-03T00:30:00.000Z",
+		"machine_id" : 10,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 58,
+		"datetime" : "2015-06-18T00:30:00.000Z",
+		"machine_id" : 10,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 59,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 60,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 61,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 62,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 63,
+		"datetime" : "2015-10-02T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 64,
+		"datetime" : "2015-12-16T00:30:00.000Z",
+		"machine_id" : 11,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 65,
+		"datetime" : "2015-01-07T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 66,
+		"datetime" : "2015-01-07T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 67,
+		"datetime" : "2015-03-23T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 68,
+		"datetime" : "2015-07-06T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 69,
+		"datetime" : "2015-09-04T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 70,
+		"datetime" : "2015-10-04T00:30:00.000Z",
+		"machine_id" : 12,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 71,
+		"datetime" : "2015-04-11T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 72,
+		"datetime" : "2015-04-11T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 73,
+		"datetime" : "2015-06-10T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 74,
+		"datetime" : "2015-06-25T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 75,
+		"datetime" : "2015-07-10T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 76,
+		"datetime" : "2015-08-09T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 77,
+		"datetime" : "2015-08-24T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 78,
+		"datetime" : "2015-08-24T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 79,
+		"datetime" : "2015-09-23T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 80,
+		"datetime" : "2015-10-23T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 81,
+		"datetime" : "2015-12-07T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 82,
+		"datetime" : "2015-12-22T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 83,
+		"datetime" : "2015-12-22T00:30:00.000Z",
+		"machine_id" : 13,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 84,
+		"datetime" : "2015-01-31T00:30:00.000Z",
+		"machine_id" : 14,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 85,
+		"datetime" : "2015-03-02T00:30:00.000Z",
+		"machine_id" : 14,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 86,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 14,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 87,
+		"datetime" : "2015-07-30T00:30:00.000Z",
+		"machine_id" : 14,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 88,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 89,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 90,
+		"datetime" : "2015-06-04T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 91,
+		"datetime" : "2015-08-03T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 92,
+		"datetime" : "2015-11-01T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 93,
+		"datetime" : "2015-11-01T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 94,
+		"datetime" : "2015-12-31T00:30:00.000Z",
+		"machine_id" : 15,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 95,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 96,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 97,
+		"datetime" : "2015-01-17T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 98,
+		"datetime" : "2015-03-03T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 99,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 100,
+		"datetime" : "2015-05-17T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 101,
+		"datetime" : "2015-06-01T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 102,
+		"datetime" : "2015-06-16T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 103,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 104,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 105,
+		"datetime" : "2015-08-15T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 106,
+		"datetime" : "2015-10-14T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 107,
+		"datetime" : "2015-11-28T00:30:00.000Z",
+		"machine_id" : 16,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 108,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 109,
+		"datetime" : "2015-01-16T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 110,
+		"datetime" : "2015-02-15T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 111,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 112,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 113,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 114,
+		"datetime" : "2015-05-16T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 115,
+		"datetime" : "2015-06-15T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 116,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 117,
+		"datetime" : "2015-07-30T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 118,
+		"datetime" : "2015-08-29T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 119,
+		"datetime" : "2015-10-28T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 120,
+		"datetime" : "2015-10-28T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 121,
+		"datetime" : "2015-11-27T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 122,
+		"datetime" : "2015-12-27T00:30:00.000Z",
+		"machine_id" : 17,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 123,
+		"datetime" : "2015-01-30T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 124,
+		"datetime" : "2015-03-31T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 125,
+		"datetime" : "2015-05-15T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 126,
+		"datetime" : "2015-06-29T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 127,
+		"datetime" : "2015-07-29T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 128,
+		"datetime" : "2015-08-28T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 129,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 130,
+		"datetime" : "2015-10-27T00:30:00.000Z",
+		"machine_id" : 18,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 131,
+		"datetime" : "2015-01-13T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 132,
+		"datetime" : "2015-02-27T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 133,
+		"datetime" : "2015-04-13T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 134,
+		"datetime" : "2015-06-27T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 135,
+		"datetime" : "2015-09-10T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 136,
+		"datetime" : "2015-11-24T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 137,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 19,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 138,
+		"datetime" : "2015-01-04T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 139,
+		"datetime" : "2015-01-19T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 140,
+		"datetime" : "2015-02-03T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 141,
+		"datetime" : "2015-03-20T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 142,
+		"datetime" : "2015-04-04T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 143,
+		"datetime" : "2015-04-19T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 144,
+		"datetime" : "2015-07-18T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 145,
+		"datetime" : "2015-08-17T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 146,
+		"datetime" : "2015-10-01T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 147,
+		"datetime" : "2015-10-31T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 148,
+		"datetime" : "2015-11-15T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 149,
+		"datetime" : "2015-12-15T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 150,
+		"datetime" : "2015-12-30T00:30:00.000Z",
+		"machine_id" : 20,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 151,
+		"datetime" : "2015-01-23T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 152,
+		"datetime" : "2015-04-08T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 153,
+		"datetime" : "2015-05-08T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 154,
+		"datetime" : "2015-08-06T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 155,
+		"datetime" : "2015-08-06T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 156,
+		"datetime" : "2015-09-05T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 157,
+		"datetime" : "2015-09-20T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 158,
+		"datetime" : "2015-10-05T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 159,
+		"datetime" : "2015-11-04T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 160,
+		"datetime" : "2015-12-04T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 161,
+		"datetime" : "2015-12-19T00:30:00.000Z",
+		"machine_id" : 21,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 162,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 163,
+		"datetime" : "2015-02-06T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 164,
+		"datetime" : "2015-03-23T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 165,
+		"datetime" : "2015-03-23T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 166,
+		"datetime" : "2015-04-07T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 167,
+		"datetime" : "2015-04-22T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 168,
+		"datetime" : "2015-05-22T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 169,
+		"datetime" : "2015-05-22T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 170,
+		"datetime" : "2015-06-21T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 171,
+		"datetime" : "2015-07-06T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 172,
+		"datetime" : "2015-08-05T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 173,
+		"datetime" : "2015-08-20T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 174,
+		"datetime" : "2015-09-19T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 175,
+		"datetime" : "2015-11-03T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 176,
+		"datetime" : "2015-11-18T00:30:00.000Z",
+		"machine_id" : 22,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 177,
+		"datetime" : "2015-01-05T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 178,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 179,
+		"datetime" : "2015-03-21T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 180,
+		"datetime" : "2015-04-05T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 181,
+		"datetime" : "2015-06-04T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 182,
+		"datetime" : "2015-07-19T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 183,
+		"datetime" : "2015-08-03T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 184,
+		"datetime" : "2015-09-02T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 185,
+		"datetime" : "2015-10-02T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 186,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 187,
+		"datetime" : "2015-11-16T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 188,
+		"datetime" : "2015-12-16T00:30:00.000Z",
+		"machine_id" : 23,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 189,
+		"datetime" : "2015-01-02T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 190,
+		"datetime" : "2015-02-16T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 191,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 192,
+		"datetime" : "2015-04-17T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 193,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 194,
+		"datetime" : "2015-07-31T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 195,
+		"datetime" : "2015-09-29T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 196,
+		"datetime" : "2015-10-14T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 197,
+		"datetime" : "2015-11-13T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 198,
+		"datetime" : "2015-11-28T00:30:00.000Z",
+		"machine_id" : 24,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 199,
+		"datetime" : "2015-03-05T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 200,
+		"datetime" : "2015-05-04T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 201,
+		"datetime" : "2015-06-03T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 202,
+		"datetime" : "2015-06-03T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 203,
+		"datetime" : "2015-08-17T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 204,
+		"datetime" : "2015-08-17T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 205,
+		"datetime" : "2015-10-31T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 206,
+		"datetime" : "2015-11-30T00:30:00.000Z",
+		"machine_id" : 25,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 207,
+		"datetime" : "2015-04-06T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 208,
+		"datetime" : "2015-08-19T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 209,
+		"datetime" : "2015-09-03T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 210,
+		"datetime" : "2015-10-18T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 211,
+		"datetime" : "2015-11-02T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 212,
+		"datetime" : "2015-11-17T00:30:00.000Z",
+		"machine_id" : 26,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 213,
+		"datetime" : "2015-01-10T00:30:00.000Z",
+		"machine_id" : 27,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 214,
+		"datetime" : "2015-01-25T00:30:00.000Z",
+		"machine_id" : 27,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 215,
+		"datetime" : "2015-02-24T00:30:00.000Z",
+		"machine_id" : 27,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 216,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 28,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 217,
+		"datetime" : "2015-05-01T00:30:00.000Z",
+		"machine_id" : 28,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 218,
+		"datetime" : "2015-06-15T00:30:00.000Z",
+		"machine_id" : 28,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 219,
+		"datetime" : "2015-08-14T00:30:00.000Z",
+		"machine_id" : 28,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 220,
+		"datetime" : "2015-12-27T00:30:00.000Z",
+		"machine_id" : 28,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 221,
+		"datetime" : "2015-03-03T00:30:00.000Z",
+		"machine_id" : 29,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 222,
+		"datetime" : "2015-11-28T00:30:00.000Z",
+		"machine_id" : 29,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 223,
+		"datetime" : "2015-01-09T00:30:00.000Z",
+		"machine_id" : 30,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 224,
+		"datetime" : "2015-03-25T00:30:00.000Z",
+		"machine_id" : 30,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 225,
+		"datetime" : "2015-08-07T00:30:00.000Z",
+		"machine_id" : 30,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 226,
+		"datetime" : "2015-08-07T00:30:00.000Z",
+		"machine_id" : 30,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 227,
+		"datetime" : "2015-12-05T00:30:00.000Z",
+		"machine_id" : 30,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 228,
+		"datetime" : "2015-03-23T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 229,
+		"datetime" : "2015-05-22T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 230,
+		"datetime" : "2015-07-06T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 231,
+		"datetime" : "2015-09-04T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 232,
+		"datetime" : "2015-10-19T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 233,
+		"datetime" : "2015-11-18T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 234,
+		"datetime" : "2015-11-18T00:30:00.000Z",
+		"machine_id" : 31,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 235,
+		"datetime" : "2015-01-10T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 236,
+		"datetime" : "2015-02-09T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 237,
+		"datetime" : "2015-03-11T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 238,
+		"datetime" : "2015-04-10T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 239,
+		"datetime" : "2015-05-10T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 240,
+		"datetime" : "2015-06-24T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 241,
+		"datetime" : "2015-06-24T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 242,
+		"datetime" : "2015-08-08T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 243,
+		"datetime" : "2015-09-22T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 244,
+		"datetime" : "2015-11-06T00:30:00.000Z",
+		"machine_id" : 32,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 245,
+		"datetime" : "2015-01-31T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 246,
+		"datetime" : "2015-01-31T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 247,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 248,
+		"datetime" : "2015-05-01T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 249,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 250,
+		"datetime" : "2015-06-15T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 251,
+		"datetime" : "2015-08-29T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 252,
+		"datetime" : "2015-09-28T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 253,
+		"datetime" : "2015-11-27T00:30:00.000Z",
+		"machine_id" : 33,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 254,
+		"datetime" : "2015-04-16T00:30:00.000Z",
+		"machine_id" : 34,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 255,
+		"datetime" : "2015-10-28T00:30:00.000Z",
+		"machine_id" : 34,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 256,
+		"datetime" : "2015-11-12T00:30:00.000Z",
+		"machine_id" : 34,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 257,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 258,
+		"datetime" : "2015-01-06T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 259,
+		"datetime" : "2015-02-05T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 260,
+		"datetime" : "2015-03-22T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 261,
+		"datetime" : "2015-04-06T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 262,
+		"datetime" : "2015-05-06T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 263,
+		"datetime" : "2015-05-21T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 264,
+		"datetime" : "2015-07-20T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 265,
+		"datetime" : "2015-08-04T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 266,
+		"datetime" : "2015-09-18T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 267,
+		"datetime" : "2015-09-18T00:30:00.000Z",
+		"machine_id" : 35,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 268,
+		"datetime" : "2015-02-21T00:30:00.000Z",
+		"machine_id" : 36,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 269,
+		"datetime" : "2015-06-06T00:30:00.000Z",
+		"machine_id" : 36,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 270,
+		"datetime" : "2015-06-21T00:30:00.000Z",
+		"machine_id" : 36,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 271,
+		"datetime" : "2015-09-04T00:30:00.000Z",
+		"machine_id" : 36,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 272,
+		"datetime" : "2015-01-04T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 273,
+		"datetime" : "2015-02-03T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 274,
+		"datetime" : "2015-04-19T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 275,
+		"datetime" : "2015-05-19T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 276,
+		"datetime" : "2015-06-03T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 277,
+		"datetime" : "2015-06-18T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 278,
+		"datetime" : "2015-07-03T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 279,
+		"datetime" : "2015-07-18T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 280,
+		"datetime" : "2015-08-17T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 281,
+		"datetime" : "2015-09-16T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 282,
+		"datetime" : "2015-10-01T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 283,
+		"datetime" : "2015-11-15T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 284,
+		"datetime" : "2015-11-30T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 285,
+		"datetime" : "2015-12-15T00:30:00.000Z",
+		"machine_id" : 37,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 286,
+		"datetime" : "2015-01-17T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 287,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 288,
+		"datetime" : "2015-04-17T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 289,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 290,
+		"datetime" : "2015-08-30T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 291,
+		"datetime" : "2015-12-13T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 292,
+		"datetime" : "2015-12-13T00:30:00.000Z",
+		"machine_id" : 38,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 293,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 39,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 294,
+		"datetime" : "2015-07-30T00:30:00.000Z",
+		"machine_id" : 39,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 295,
+		"datetime" : "2015-10-13T00:30:00.000Z",
+		"machine_id" : 39,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 296,
+		"datetime" : "2015-12-27T00:30:00.000Z",
+		"machine_id" : 39,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 297,
+		"datetime" : "2015-01-04T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 298,
+		"datetime" : "2015-02-18T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 299,
+		"datetime" : "2015-04-04T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 300,
+		"datetime" : "2015-06-03T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 301,
+		"datetime" : "2015-06-18T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 302,
+		"datetime" : "2015-07-03T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 303,
+		"datetime" : "2015-08-17T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 304,
+		"datetime" : "2015-11-30T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 305,
+		"datetime" : "2015-12-15T00:30:00.000Z",
+		"machine_id" : 40,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 306,
+		"datetime" : "2015-02-01T00:30:00.000Z",
+		"machine_id" : 41,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 307,
+		"datetime" : "2015-05-02T00:30:00.000Z",
+		"machine_id" : 41,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 308,
+		"datetime" : "2015-10-29T00:30:00.000Z",
+		"machine_id" : 41,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 309,
+		"datetime" : "2015-01-21T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 310,
+		"datetime" : "2015-04-06T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 311,
+		"datetime" : "2015-05-06T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 312,
+		"datetime" : "2015-06-05T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 313,
+		"datetime" : "2015-06-20T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 314,
+		"datetime" : "2015-08-19T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 315,
+		"datetime" : "2015-09-18T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 316,
+		"datetime" : "2015-11-17T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 317,
+		"datetime" : "2015-12-17T00:30:00.000Z",
+		"machine_id" : 42,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 318,
+		"datetime" : "2015-02-05T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 319,
+		"datetime" : "2015-02-20T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 320,
+		"datetime" : "2015-03-22T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 321,
+		"datetime" : "2015-05-21T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 322,
+		"datetime" : "2015-06-05T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 323,
+		"datetime" : "2015-07-20T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 324,
+		"datetime" : "2015-08-04T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 325,
+		"datetime" : "2015-10-03T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 326,
+		"datetime" : "2015-11-02T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 327,
+		"datetime" : "2015-11-17T00:30:00.000Z",
+		"machine_id" : 43,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 328,
+		"datetime" : "2015-03-16T00:30:00.000Z",
+		"machine_id" : 44,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 329,
+		"datetime" : "2015-06-14T00:30:00.000Z",
+		"machine_id" : 44,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 330,
+		"datetime" : "2015-07-29T00:30:00.000Z",
+		"machine_id" : 44,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 331,
+		"datetime" : "2015-08-28T00:30:00.000Z",
+		"machine_id" : 44,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 332,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 333,
+		"datetime" : "2015-01-22T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 334,
+		"datetime" : "2015-02-21T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 335,
+		"datetime" : "2015-05-22T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 336,
+		"datetime" : "2015-07-21T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 337,
+		"datetime" : "2015-10-19T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 338,
+		"datetime" : "2015-11-03T00:30:00.000Z",
+		"machine_id" : 45,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 339,
+		"datetime" : "2015-02-22T00:30:00.000Z",
+		"machine_id" : 46,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 340,
+		"datetime" : "2015-11-19T00:30:00.000Z",
+		"machine_id" : 46,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 341,
+		"datetime" : "2015-01-24T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 342,
+		"datetime" : "2015-03-25T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 343,
+		"datetime" : "2015-04-09T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 344,
+		"datetime" : "2015-06-23T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 345,
+		"datetime" : "2015-07-08T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 346,
+		"datetime" : "2015-08-07T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 347,
+		"datetime" : "2015-09-21T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 348,
+		"datetime" : "2015-10-21T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 349,
+		"datetime" : "2015-11-20T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 350,
+		"datetime" : "2015-12-20T00:30:00.000Z",
+		"machine_id" : 47,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 351,
+		"datetime" : "2015-01-11T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 352,
+		"datetime" : "2015-03-12T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 353,
+		"datetime" : "2015-05-11T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 354,
+		"datetime" : "2015-07-10T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 355,
+		"datetime" : "2015-07-25T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 356,
+		"datetime" : "2015-09-08T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 357,
+		"datetime" : "2015-11-07T00:30:00.000Z",
+		"machine_id" : 48,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 358,
+		"datetime" : "2015-03-01T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 359,
+		"datetime" : "2015-03-16T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 360,
+		"datetime" : "2015-04-15T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 361,
+		"datetime" : "2015-05-15T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 362,
+		"datetime" : "2015-07-14T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 363,
+		"datetime" : "2015-07-29T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 364,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 365,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 366,
+		"datetime" : "2015-10-12T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 367,
+		"datetime" : "2015-11-11T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 368,
+		"datetime" : "2015-11-26T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 369,
+		"datetime" : "2015-12-26T00:30:00.000Z",
+		"machine_id" : 49,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 370,
+		"datetime" : "2015-01-30T00:30:00.000Z",
+		"machine_id" : 50,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 371,
+		"datetime" : "2015-04-30T00:30:00.000Z",
+		"machine_id" : 50,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 372,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 50,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 373,
+		"datetime" : "2015-10-12T00:30:00.000Z",
+		"machine_id" : 50,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 374,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 375,
+		"datetime" : "2015-03-02T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 376,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 377,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 378,
+		"datetime" : "2015-06-30T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 379,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 380,
+		"datetime" : "2015-09-13T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 381,
+		"datetime" : "2015-09-28T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 382,
+		"datetime" : "2015-11-27T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 383,
+		"datetime" : "2015-12-12T00:30:00.000Z",
+		"machine_id" : 51,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 384,
+		"datetime" : "2015-01-19T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 385,
+		"datetime" : "2015-01-19T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 386,
+		"datetime" : "2015-07-18T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 387,
+		"datetime" : "2015-08-02T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 388,
+		"datetime" : "2015-10-31T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 389,
+		"datetime" : "2015-10-31T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 390,
+		"datetime" : "2015-12-30T00:30:00.000Z",
+		"machine_id" : 52,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 391,
+		"datetime" : "2015-03-29T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 392,
+		"datetime" : "2015-05-13T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 393,
+		"datetime" : "2015-07-12T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 394,
+		"datetime" : "2015-10-10T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 395,
+		"datetime" : "2015-11-09T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 396,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 53,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 397,
+		"datetime" : "2015-01-15T00:30:00.000Z",
+		"machine_id" : 54,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 398,
+		"datetime" : "2015-03-31T00:30:00.000Z",
+		"machine_id" : 54,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 399,
+		"datetime" : "2015-04-30T00:30:00.000Z",
+		"machine_id" : 54,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 400,
+		"datetime" : "2015-06-29T00:30:00.000Z",
+		"machine_id" : 54,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 401,
+		"datetime" : "2015-12-26T00:30:00.000Z",
+		"machine_id" : 54,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 402,
+		"datetime" : "2015-03-07T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 403,
+		"datetime" : "2015-04-21T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 404,
+		"datetime" : "2015-06-05T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 405,
+		"datetime" : "2015-06-20T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 406,
+		"datetime" : "2015-08-04T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 407,
+		"datetime" : "2015-08-19T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 408,
+		"datetime" : "2015-09-03T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 409,
+		"datetime" : "2015-12-02T00:30:00.000Z",
+		"machine_id" : 55,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 410,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 411,
+		"datetime" : "2015-01-14T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 412,
+		"datetime" : "2015-03-15T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 413,
+		"datetime" : "2015-04-14T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 414,
+		"datetime" : "2015-04-29T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 415,
+		"datetime" : "2015-06-13T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 416,
+		"datetime" : "2015-09-26T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 417,
+		"datetime" : "2015-09-26T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 418,
+		"datetime" : "2015-11-10T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 419,
+		"datetime" : "2015-11-25T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 420,
+		"datetime" : "2015-12-25T00:30:00.000Z",
+		"machine_id" : 56,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 421,
+		"datetime" : "2015-02-07T00:30:00.000Z",
+		"machine_id" : 57,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 422,
+		"datetime" : "2015-11-04T00:30:00.000Z",
+		"machine_id" : 57,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 423,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 424,
+		"datetime" : "2015-01-31T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 425,
+		"datetime" : "2015-05-01T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 426,
+		"datetime" : "2015-05-16T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 427,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 428,
+		"datetime" : "2015-07-30T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 429,
+		"datetime" : "2015-09-28T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 430,
+		"datetime" : "2015-12-12T00:30:00.000Z",
+		"machine_id" : 58,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 431,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 432,
+		"datetime" : "2015-02-04T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 433,
+		"datetime" : "2015-04-05T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 434,
+		"datetime" : "2015-05-20T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 435,
+		"datetime" : "2015-07-19T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 436,
+		"datetime" : "2015-08-03T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 437,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 438,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 59,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 439,
+		"datetime" : "2015-01-30T00:30:00.000Z",
+		"machine_id" : 60,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 440,
+		"datetime" : "2015-04-15T00:30:00.000Z",
+		"machine_id" : 60,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 441,
+		"datetime" : "2015-07-29T00:30:00.000Z",
+		"machine_id" : 60,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 442,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 60,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 443,
+		"datetime" : "2015-02-27T00:30:00.000Z",
+		"machine_id" : 61,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 444,
+		"datetime" : "2015-08-11T00:30:00.000Z",
+		"machine_id" : 61,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 445,
+		"datetime" : "2015-10-25T00:30:00.000Z",
+		"machine_id" : 61,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 446,
+		"datetime" : "2015-11-24T00:30:00.000Z",
+		"machine_id" : 61,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 447,
+		"datetime" : "2015-01-13T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 448,
+		"datetime" : "2015-01-28T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 449,
+		"datetime" : "2015-05-28T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 450,
+		"datetime" : "2015-06-27T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 451,
+		"datetime" : "2015-08-11T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 452,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 453,
+		"datetime" : "2015-12-24T00:30:00.000Z",
+		"machine_id" : 62,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 454,
+		"datetime" : "2015-01-28T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 455,
+		"datetime" : "2015-01-28T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 456,
+		"datetime" : "2015-03-14T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 457,
+		"datetime" : "2015-05-13T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 458,
+		"datetime" : "2015-05-28T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 459,
+		"datetime" : "2015-07-27T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 460,
+		"datetime" : "2015-10-25T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 461,
+		"datetime" : "2015-11-09T00:30:00.000Z",
+		"machine_id" : 63,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 462,
+		"datetime" : "2015-01-05T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 463,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 464,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 465,
+		"datetime" : "2015-04-05T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 466,
+		"datetime" : "2015-05-05T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 467,
+		"datetime" : "2015-09-17T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 468,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 469,
+		"datetime" : "2015-12-31T00:30:00.000Z",
+		"machine_id" : 64,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 470,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 471,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 472,
+		"datetime" : "2015-06-30T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 473,
+		"datetime" : "2015-08-14T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 474,
+		"datetime" : "2015-08-14T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 475,
+		"datetime" : "2015-09-13T00:30:00.000Z",
+		"machine_id" : 65,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 476,
+		"datetime" : "2015-02-18T00:30:00.000Z",
+		"machine_id" : 66,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 477,
+		"datetime" : "2015-05-19T00:30:00.000Z",
+		"machine_id" : 66,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 478,
+		"datetime" : "2015-05-19T00:30:00.000Z",
+		"machine_id" : 66,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 479,
+		"datetime" : "2015-10-01T00:30:00.000Z",
+		"machine_id" : 66,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 480,
+		"datetime" : "2015-12-15T00:30:00.000Z",
+		"machine_id" : 66,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 481,
+		"datetime" : "2015-01-16T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 482,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 483,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 484,
+		"datetime" : "2015-06-15T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 485,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 486,
+		"datetime" : "2015-08-29T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 487,
+		"datetime" : "2015-09-13T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 488,
+		"datetime" : "2015-09-28T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 489,
+		"datetime" : "2015-10-13T00:30:00.000Z",
+		"machine_id" : 67,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 490,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 68,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 491,
+		"datetime" : "2015-08-15T00:30:00.000Z",
+		"machine_id" : 68,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 492,
+		"datetime" : "2015-11-28T00:30:00.000Z",
+		"machine_id" : 68,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 493,
+		"datetime" : "2015-12-13T00:30:00.000Z",
+		"machine_id" : 68,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 494,
+		"datetime" : "2015-01-05T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 495,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 496,
+		"datetime" : "2015-02-04T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 497,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 498,
+		"datetime" : "2015-05-20T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 499,
+		"datetime" : "2015-08-03T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 500,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 501,
+		"datetime" : "2015-09-02T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 502,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 503,
+		"datetime" : "2015-11-01T00:30:00.000Z",
+		"machine_id" : 69,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 504,
+		"datetime" : "2015-01-28T00:30:00.000Z",
+		"machine_id" : 70,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 505,
+		"datetime" : "2015-05-28T00:30:00.000Z",
+		"machine_id" : 70,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 506,
+		"datetime" : "2015-07-12T00:30:00.000Z",
+		"machine_id" : 70,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 507,
+		"datetime" : "2015-11-09T00:30:00.000Z",
+		"machine_id" : 70,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 508,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 70,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 509,
+		"datetime" : "2015-01-11T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 510,
+		"datetime" : "2015-01-26T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 511,
+		"datetime" : "2015-01-26T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 512,
+		"datetime" : "2015-02-10T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 513,
+		"datetime" : "2015-02-25T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 514,
+		"datetime" : "2015-03-12T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 515,
+		"datetime" : "2015-03-27T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 516,
+		"datetime" : "2015-04-26T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 517,
+		"datetime" : "2015-06-10T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 518,
+		"datetime" : "2015-06-25T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 519,
+		"datetime" : "2015-07-25T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 520,
+		"datetime" : "2015-09-23T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 521,
+		"datetime" : "2015-10-08T00:30:00.000Z",
+		"machine_id" : 71,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 522,
+		"datetime" : "2015-03-24T00:30:00.000Z",
+		"machine_id" : 72,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 523,
+		"datetime" : "2015-09-05T00:30:00.000Z",
+		"machine_id" : 72,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 524,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 525,
+		"datetime" : "2015-01-02T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 526,
+		"datetime" : "2015-02-16T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 527,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 528,
+		"datetime" : "2015-04-17T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 529,
+		"datetime" : "2015-05-02T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 530,
+		"datetime" : "2015-05-17T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 531,
+		"datetime" : "2015-07-16T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 532,
+		"datetime" : "2015-08-30T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 533,
+		"datetime" : "2015-09-14T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 534,
+		"datetime" : "2015-11-13T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 535,
+		"datetime" : "2015-11-28T00:30:00.000Z",
+		"machine_id" : 73,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 536,
+		"datetime" : "2015-01-23T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 537,
+		"datetime" : "2015-03-09T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 538,
+		"datetime" : "2015-05-08T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 539,
+		"datetime" : "2015-06-22T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 540,
+		"datetime" : "2015-07-22T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 541,
+		"datetime" : "2015-10-20T00:30:00.000Z",
+		"machine_id" : 74,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 542,
+		"datetime" : "2015-01-07T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 543,
+		"datetime" : "2015-02-06T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 544,
+		"datetime" : "2015-04-07T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 545,
+		"datetime" : "2015-05-07T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 546,
+		"datetime" : "2015-06-06T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 547,
+		"datetime" : "2015-07-21T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 548,
+		"datetime" : "2015-08-20T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 549,
+		"datetime" : "2015-09-04T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 550,
+		"datetime" : "2015-10-19T00:30:00.000Z",
+		"machine_id" : 75,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 551,
+		"datetime" : "2015-01-18T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 552,
+		"datetime" : "2015-02-02T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 553,
+		"datetime" : "2015-03-04T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 554,
+		"datetime" : "2015-03-19T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 555,
+		"datetime" : "2015-04-03T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 556,
+		"datetime" : "2015-05-03T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 557,
+		"datetime" : "2015-08-16T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 558,
+		"datetime" : "2015-09-30T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 559,
+		"datetime" : "2015-11-29T00:30:00.000Z",
+		"machine_id" : 76,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 560,
+		"datetime" : "2015-02-05T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 561,
+		"datetime" : "2015-02-20T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 562,
+		"datetime" : "2015-03-07T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 563,
+		"datetime" : "2015-06-05T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 564,
+		"datetime" : "2015-07-05T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 565,
+		"datetime" : "2015-07-20T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 566,
+		"datetime" : "2015-09-03T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 567,
+		"datetime" : "2015-11-02T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 568,
+		"datetime" : "2015-12-17T00:30:00.000Z",
+		"machine_id" : 78,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 569,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 570,
+		"datetime" : "2015-03-03T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 571,
+		"datetime" : "2015-03-18T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 572,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 573,
+		"datetime" : "2015-05-17T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 574,
+		"datetime" : "2015-06-16T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 575,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 576,
+		"datetime" : "2015-09-14T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 577,
+		"datetime" : "2015-09-29T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 578,
+		"datetime" : "2015-12-13T00:30:00.000Z",
+		"machine_id" : 79,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 579,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 80,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 580,
+		"datetime" : "2015-07-12T00:30:00.000Z",
+		"machine_id" : 80,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 581,
+		"datetime" : "2015-09-10T00:30:00.000Z",
+		"machine_id" : 80,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 582,
+		"datetime" : "2015-11-09T00:30:00.000Z",
+		"machine_id" : 80,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 583,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 80,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 584,
+		"datetime" : "2015-01-02T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 585,
+		"datetime" : "2015-01-17T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 586,
+		"datetime" : "2015-02-16T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 587,
+		"datetime" : "2015-03-03T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 588,
+		"datetime" : "2015-04-17T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 589,
+		"datetime" : "2015-06-16T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 590,
+		"datetime" : "2015-10-14T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 591,
+		"datetime" : "2015-12-13T00:30:00.000Z",
+		"machine_id" : 81,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 592,
+		"datetime" : "2015-01-28T00:30:00.000Z",
+		"machine_id" : 82,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 593,
+		"datetime" : "2015-03-29T00:30:00.000Z",
+		"machine_id" : 82,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 594,
+		"datetime" : "2015-05-13T00:30:00.000Z",
+		"machine_id" : 82,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 595,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 82,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 596,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 597,
+		"datetime" : "2015-01-16T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 598,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 599,
+		"datetime" : "2015-05-16T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 600,
+		"datetime" : "2015-05-31T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 601,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 602,
+		"datetime" : "2015-07-15T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 603,
+		"datetime" : "2015-08-14T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 604,
+		"datetime" : "2015-08-29T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 605,
+		"datetime" : "2015-09-13T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 606,
+		"datetime" : "2015-10-13T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 607,
+		"datetime" : "2015-11-27T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 608,
+		"datetime" : "2015-12-27T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 609,
+		"datetime" : "2015-12-27T00:30:00.000Z",
+		"machine_id" : 83,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 610,
+		"datetime" : "2015-01-05T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 611,
+		"datetime" : "2015-02-04T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 612,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 613,
+		"datetime" : "2015-04-05T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 614,
+		"datetime" : "2015-07-04T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 615,
+		"datetime" : "2015-09-02T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 616,
+		"datetime" : "2015-10-02T00:30:00.000Z",
+		"machine_id" : 84,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 617,
+		"datetime" : "2015-01-15T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 618,
+		"datetime" : "2015-01-30T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 619,
+		"datetime" : "2015-02-14T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 620,
+		"datetime" : "2015-05-30T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 621,
+		"datetime" : "2015-06-29T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 622,
+		"datetime" : "2015-08-28T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 623,
+		"datetime" : "2015-09-12T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 624,
+		"datetime" : "2015-10-12T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 625,
+		"datetime" : "2015-11-11T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 626,
+		"datetime" : "2015-12-11T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 627,
+		"datetime" : "2015-12-26T00:30:00.000Z",
+		"machine_id" : 85,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 628,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 86,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 629,
+		"datetime" : "2015-01-23T00:30:00.000Z",
+		"machine_id" : 86,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 630,
+		"datetime" : "2015-09-05T00:30:00.000Z",
+		"machine_id" : 86,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 631,
+		"datetime" : "2015-11-19T00:30:00.000Z",
+		"machine_id" : 86,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 632,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 633,
+		"datetime" : "2015-03-13T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 634,
+		"datetime" : "2015-03-28T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 635,
+		"datetime" : "2015-04-27T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 636,
+		"datetime" : "2015-06-26T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 637,
+		"datetime" : "2015-08-10T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 638,
+		"datetime" : "2015-08-25T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 639,
+		"datetime" : "2015-10-24T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 640,
+		"datetime" : "2015-12-23T00:30:00.000Z",
+		"machine_id" : 87,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 641,
+		"datetime" : "2015-01-19T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 642,
+		"datetime" : "2015-02-03T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 643,
+		"datetime" : "2015-03-05T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 644,
+		"datetime" : "2015-04-04T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 645,
+		"datetime" : "2015-07-03T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 646,
+		"datetime" : "2015-09-01T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 647,
+		"datetime" : "2015-09-01T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 648,
+		"datetime" : "2015-11-30T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 649,
+		"datetime" : "2015-11-30T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 650,
+		"datetime" : "2015-12-30T00:30:00.000Z",
+		"machine_id" : 88,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 651,
+		"datetime" : "2015-02-07T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 652,
+		"datetime" : "2015-03-24T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 653,
+		"datetime" : "2015-05-23T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 654,
+		"datetime" : "2015-06-22T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 655,
+		"datetime" : "2015-07-22T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 656,
+		"datetime" : "2015-08-21T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 657,
+		"datetime" : "2015-11-19T00:30:00.000Z",
+		"machine_id" : 89,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 658,
+		"datetime" : "2015-01-20T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 659,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 660,
+		"datetime" : "2015-03-21T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 661,
+		"datetime" : "2015-04-05T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 662,
+		"datetime" : "2015-05-20T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 663,
+		"datetime" : "2015-06-04T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 664,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 665,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 666,
+		"datetime" : "2015-10-02T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 667,
+		"datetime" : "2015-11-01T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 668,
+		"datetime" : "2015-12-01T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 669,
+		"datetime" : "2015-12-31T00:30:00.000Z",
+		"machine_id" : 90,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 670,
+		"datetime" : "2015-02-01T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 671,
+		"datetime" : "2015-04-02T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 672,
+		"datetime" : "2015-06-16T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 673,
+		"datetime" : "2015-07-01T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 674,
+		"datetime" : "2015-09-14T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 675,
+		"datetime" : "2015-10-29T00:30:00.000Z",
+		"machine_id" : 91,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 676,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 677,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 678,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 679,
+		"datetime" : "2015-05-20T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 680,
+		"datetime" : "2015-07-04T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 681,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 682,
+		"datetime" : "2015-09-02T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 683,
+		"datetime" : "2015-10-02T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 684,
+		"datetime" : "2015-12-01T00:30:00.000Z",
+		"machine_id" : 92,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 685,
+		"datetime" : "2015-03-17T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 686,
+		"datetime" : "2015-04-01T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 687,
+		"datetime" : "2015-04-16T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 688,
+		"datetime" : "2015-05-01T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 689,
+		"datetime" : "2015-05-16T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 690,
+		"datetime" : "2015-06-30T00:30:00.000Z",
+		"machine_id" : 93,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 691,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 692,
+		"datetime" : "2015-01-08T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 693,
+		"datetime" : "2015-02-22T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 694,
+		"datetime" : "2015-03-09T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 695,
+		"datetime" : "2015-05-08T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 696,
+		"datetime" : "2015-05-23T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 697,
+		"datetime" : "2015-08-21T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 698,
+		"datetime" : "2015-10-20T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 699,
+		"datetime" : "2015-11-19T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 700,
+		"datetime" : "2015-11-19T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 701,
+		"datetime" : "2015-12-19T00:30:00.000Z",
+		"machine_id" : 94,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 702,
+		"datetime" : "2015-02-19T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 703,
+		"datetime" : "2015-03-21T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 704,
+		"datetime" : "2015-04-20T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 705,
+		"datetime" : "2015-05-05T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 706,
+		"datetime" : "2015-06-04T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 707,
+		"datetime" : "2015-08-18T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 708,
+		"datetime" : "2015-09-17T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 709,
+		"datetime" : "2015-10-17T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 710,
+		"datetime" : "2015-12-31T00:30:00.000Z",
+		"machine_id" : 95,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 711,
+		"datetime" : "2015-02-17T00:30:00.000Z",
+		"machine_id" : 96,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 712,
+		"datetime" : "2015-05-03T00:30:00.000Z",
+		"machine_id" : 96,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 713,
+		"datetime" : "2015-07-17T00:30:00.000Z",
+		"machine_id" : 96,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 714,
+		"datetime" : "2015-08-31T00:30:00.000Z",
+		"machine_id" : 96,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 715,
+		"datetime" : "2015-12-29T00:30:00.000Z",
+		"machine_id" : 96,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 716,
+		"datetime" : "2015-01-24T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 717,
+		"datetime" : "2015-01-24T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 718,
+		"datetime" : "2015-05-09T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 719,
+		"datetime" : "2015-07-08T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 720,
+		"datetime" : "2015-07-23T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 721,
+		"datetime" : "2015-09-06T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 722,
+		"datetime" : "2015-10-21T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 723,
+		"datetime" : "2015-11-20T00:30:00.000Z",
+		"machine_id" : 97,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 724,
+		"datetime" : "2015-01-30T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 725,
+		"datetime" : "2015-02-14T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 726,
+		"datetime" : "2015-03-01T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 727,
+		"datetime" : "2015-04-15T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 728,
+		"datetime" : "2015-04-30T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 729,
+		"datetime" : "2015-04-30T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 730,
+		"datetime" : "2015-05-15T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 731,
+		"datetime" : "2015-05-30T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 732,
+		"datetime" : "2015-06-14T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 733,
+		"datetime" : "2015-06-29T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 734,
+		"datetime" : "2015-06-29T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 735,
+		"datetime" : "2015-07-29T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 736,
+		"datetime" : "2015-08-13T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 737,
+		"datetime" : "2015-08-28T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 738,
+		"datetime" : "2015-10-27T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 739,
+		"datetime" : "2015-11-26T00:30:00.000Z",
+		"machine_id" : 98,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 740,
+		"datetime" : "2015-01-01T21:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 741,
+		"datetime" : "2015-01-18T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 742,
+		"datetime" : "2015-02-02T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 743,
+		"datetime" : "2015-02-17T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 744,
+		"datetime" : "2015-03-04T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 745,
+		"datetime" : "2015-03-19T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 746,
+		"datetime" : "2015-04-03T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 747,
+		"datetime" : "2015-04-18T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 748,
+		"datetime" : "2015-05-03T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 749,
+		"datetime" : "2015-05-18T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 750,
+		"datetime" : "2015-06-02T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 751,
+		"datetime" : "2015-07-02T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 752,
+		"datetime" : "2015-07-17T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 753,
+		"datetime" : "2015-08-01T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 754,
+		"datetime" : "2015-08-31T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 755,
+		"datetime" : "2015-10-15T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp2"
+	},
+	{
+		"failure_id" : 756,
+		"datetime" : "2015-10-30T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 757,
+		"datetime" : "2015-11-29T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp3"
+	},
+	{
+		"failure_id" : 758,
+		"datetime" : "2015-12-14T00:30:00.000Z",
+		"machine_id" : 99,
+		"failure" : "comp4"
+	},
+	{
+		"failure_id" : 759,
+		"datetime" : "2015-02-12T00:30:00.000Z",
+		"machine_id" : 100,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 760,
+		"datetime" : "2015-09-10T00:30:00.000Z",
+		"machine_id" : 100,
+		"failure" : "comp1"
+	},
+	{
+		"failure_id" : 761,
+		"datetime" : "2015-12-09T00:30:00.000Z",
+		"machine_id" : 100,
+		"failure" : "comp2"
+	}
+]}

@@ -1,0 +1,5 @@
+https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/errors.json
+https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/failure_pred_data.json
+https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/failures.json
+https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/machines.json
+https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/maint_comp.json

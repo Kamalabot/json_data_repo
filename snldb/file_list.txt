@@ -1,0 +1,11 @@
+https://kamalabot.github.io/json_data_repo/snldb/actors.json
+https://kamalabot.github.io/json_data_repo/snldb/apperances.json
+https://kamalabot.github.io/json_data_repo/snldb/casts.json
+https://kamalabot.github.io/json_data_repo/snldb/character_details.json
+https://kamalabot.github.io/json_data_repo/snldb/episodes.json
+https://kamalabot.github.io/json_data_repo/snldb/hosts.json
+https://kamalabot.github.io/json_data_repo/snldb/impressions.json
+https://kamalabot.github.io/json_data_repo/snldb/seasons.json
+https://kamalabot.github.io/json_data_repo/snldb/sketches.json
+https://kamalabot.github.io/json_data_repo/snldb/tenure.json
+https://kamalabot.github.io/json_data_repo/snldb/titles.json

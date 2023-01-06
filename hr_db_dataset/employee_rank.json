@@ -1,0 +1,645 @@
+{
+"employee_rank": [
+	{
+		"employee_id" : 200,
+		"department_id" : 10,
+		"salary" : 4400.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 201,
+		"department_id" : 20,
+		"salary" : 13000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 202,
+		"department_id" : 20,
+		"salary" : 6000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 114,
+		"department_id" : 30,
+		"salary" : 11000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 115,
+		"department_id" : 30,
+		"salary" : 3100.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 116,
+		"department_id" : 30,
+		"salary" : 2900.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 117,
+		"department_id" : 30,
+		"salary" : 2800.00,
+		"salary_dense_rank" : 4
+	},
+	{
+		"employee_id" : 118,
+		"department_id" : 30,
+		"salary" : 2600.00,
+		"salary_dense_rank" : 5
+	},
+	{
+		"employee_id" : 119,
+		"department_id" : 30,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 6
+	},
+	{
+		"employee_id" : 203,
+		"department_id" : 40,
+		"salary" : 6500.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 121,
+		"department_id" : 50,
+		"salary" : 8200.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 120,
+		"department_id" : 50,
+		"salary" : 8000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 122,
+		"department_id" : 50,
+		"salary" : 7900.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 123,
+		"department_id" : 50,
+		"salary" : 6500.00,
+		"salary_dense_rank" : 4
+	},
+	{
+		"employee_id" : 124,
+		"department_id" : 50,
+		"salary" : 5800.00,
+		"salary_dense_rank" : 5
+	},
+	{
+		"employee_id" : 184,
+		"department_id" : 50,
+		"salary" : 4200.00,
+		"salary_dense_rank" : 6
+	},
+	{
+		"employee_id" : 185,
+		"department_id" : 50,
+		"salary" : 4100.00,
+		"salary_dense_rank" : 7
+	},
+	{
+		"employee_id" : 192,
+		"department_id" : 50,
+		"salary" : 4000.00,
+		"salary_dense_rank" : 8
+	},
+	{
+		"employee_id" : 193,
+		"department_id" : 50,
+		"salary" : 3900.00,
+		"salary_dense_rank" : 9
+	},
+	{
+		"employee_id" : 188,
+		"department_id" : 50,
+		"salary" : 3800.00,
+		"salary_dense_rank" : 10
+	},
+	{
+		"employee_id" : 137,
+		"department_id" : 50,
+		"salary" : 3600.00,
+		"salary_dense_rank" : 11
+	},
+	{
+		"employee_id" : 189,
+		"department_id" : 50,
+		"salary" : 3600.00,
+		"salary_dense_rank" : 11
+	},
+	{
+		"employee_id" : 141,
+		"department_id" : 50,
+		"salary" : 3500.00,
+		"salary_dense_rank" : 12
+	},
+	{
+		"employee_id" : 186,
+		"department_id" : 50,
+		"salary" : 3400.00,
+		"salary_dense_rank" : 13
+	},
+	{
+		"employee_id" : 133,
+		"department_id" : 50,
+		"salary" : 3300.00,
+		"salary_dense_rank" : 14
+	},
+	{
+		"employee_id" : 129,
+		"department_id" : 50,
+		"salary" : 3300.00,
+		"salary_dense_rank" : 14
+	},
+	{
+		"employee_id" : 180,
+		"department_id" : 50,
+		"salary" : 3200.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 125,
+		"department_id" : 50,
+		"salary" : 3200.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 138,
+		"department_id" : 50,
+		"salary" : 3200.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 194,
+		"department_id" : 50,
+		"salary" : 3200.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 142,
+		"department_id" : 50,
+		"salary" : 3100.00,
+		"salary_dense_rank" : 16
+	},
+	{
+		"employee_id" : 196,
+		"department_id" : 50,
+		"salary" : 3100.00,
+		"salary_dense_rank" : 16
+	},
+	{
+		"employee_id" : 181,
+		"department_id" : 50,
+		"salary" : 3100.00,
+		"salary_dense_rank" : 16
+	},
+	{
+		"employee_id" : 197,
+		"department_id" : 50,
+		"salary" : 3000.00,
+		"salary_dense_rank" : 17
+	},
+	{
+		"employee_id" : 187,
+		"department_id" : 50,
+		"salary" : 3000.00,
+		"salary_dense_rank" : 17
+	},
+	{
+		"employee_id" : 134,
+		"department_id" : 50,
+		"salary" : 2900.00,
+		"salary_dense_rank" : 18
+	},
+	{
+		"employee_id" : 190,
+		"department_id" : 50,
+		"salary" : 2900.00,
+		"salary_dense_rank" : 18
+	},
+	{
+		"employee_id" : 130,
+		"department_id" : 50,
+		"salary" : 2800.00,
+		"salary_dense_rank" : 19
+	},
+	{
+		"employee_id" : 195,
+		"department_id" : 50,
+		"salary" : 2800.00,
+		"salary_dense_rank" : 19
+	},
+	{
+		"employee_id" : 183,
+		"department_id" : 50,
+		"salary" : 2800.00,
+		"salary_dense_rank" : 19
+	},
+	{
+		"employee_id" : 139,
+		"department_id" : 50,
+		"salary" : 2700.00,
+		"salary_dense_rank" : 20
+	},
+	{
+		"employee_id" : 126,
+		"department_id" : 50,
+		"salary" : 2700.00,
+		"salary_dense_rank" : 20
+	},
+	{
+		"employee_id" : 199,
+		"department_id" : 50,
+		"salary" : 2600.00,
+		"salary_dense_rank" : 21
+	},
+	{
+		"employee_id" : 198,
+		"department_id" : 50,
+		"salary" : 2600.00,
+		"salary_dense_rank" : 21
+	},
+	{
+		"employee_id" : 143,
+		"department_id" : 50,
+		"salary" : 2600.00,
+		"salary_dense_rank" : 21
+	},
+	{
+		"employee_id" : 144,
+		"department_id" : 50,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 131,
+		"department_id" : 50,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 182,
+		"department_id" : 50,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 191,
+		"department_id" : 50,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 140,
+		"department_id" : 50,
+		"salary" : 2500.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 127,
+		"department_id" : 50,
+		"salary" : 2400.00,
+		"salary_dense_rank" : 23
+	},
+	{
+		"employee_id" : 135,
+		"department_id" : 50,
+		"salary" : 2400.00,
+		"salary_dense_rank" : 23
+	},
+	{
+		"employee_id" : 128,
+		"department_id" : 50,
+		"salary" : 2200.00,
+		"salary_dense_rank" : 24
+	},
+	{
+		"employee_id" : 136,
+		"department_id" : 50,
+		"salary" : 2200.00,
+		"salary_dense_rank" : 24
+	},
+	{
+		"employee_id" : 132,
+		"department_id" : 50,
+		"salary" : 2100.00,
+		"salary_dense_rank" : 25
+	},
+	{
+		"employee_id" : 103,
+		"department_id" : 60,
+		"salary" : 9000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 104,
+		"department_id" : 60,
+		"salary" : 6000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 105,
+		"department_id" : 60,
+		"salary" : 4800.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 106,
+		"department_id" : 60,
+		"salary" : 4800.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 107,
+		"department_id" : 60,
+		"salary" : 4200.00,
+		"salary_dense_rank" : 4
+	},
+	{
+		"employee_id" : 204,
+		"department_id" : 70,
+		"salary" : 10000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 145,
+		"department_id" : 80,
+		"salary" : 14000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 146,
+		"department_id" : 80,
+		"salary" : 13500.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 147,
+		"department_id" : 80,
+		"salary" : 12000.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 168,
+		"department_id" : 80,
+		"salary" : 11500.00,
+		"salary_dense_rank" : 4
+	},
+	{
+		"employee_id" : 174,
+		"department_id" : 80,
+		"salary" : 11000.00,
+		"salary_dense_rank" : 5
+	},
+	{
+		"employee_id" : 148,
+		"department_id" : 80,
+		"salary" : 11000.00,
+		"salary_dense_rank" : 5
+	},
+	{
+		"employee_id" : 149,
+		"department_id" : 80,
+		"salary" : 10500.00,
+		"salary_dense_rank" : 6
+	},
+	{
+		"employee_id" : 162,
+		"department_id" : 80,
+		"salary" : 10500.00,
+		"salary_dense_rank" : 6
+	},
+	{
+		"employee_id" : 150,
+		"department_id" : 80,
+		"salary" : 10000.00,
+		"salary_dense_rank" : 7
+	},
+	{
+		"employee_id" : 156,
+		"department_id" : 80,
+		"salary" : 10000.00,
+		"salary_dense_rank" : 7
+	},
+	{
+		"employee_id" : 169,
+		"department_id" : 80,
+		"salary" : 10000.00,
+		"salary_dense_rank" : 7
+	},
+	{
+		"employee_id" : 170,
+		"department_id" : 80,
+		"salary" : 9600.00,
+		"salary_dense_rank" : 8
+	},
+	{
+		"employee_id" : 163,
+		"department_id" : 80,
+		"salary" : 9500.00,
+		"salary_dense_rank" : 9
+	},
+	{
+		"employee_id" : 157,
+		"department_id" : 80,
+		"salary" : 9500.00,
+		"salary_dense_rank" : 9
+	},
+	{
+		"employee_id" : 151,
+		"department_id" : 80,
+		"salary" : 9500.00,
+		"salary_dense_rank" : 9
+	},
+	{
+		"employee_id" : 158,
+		"department_id" : 80,
+		"salary" : 9000.00,
+		"salary_dense_rank" : 10
+	},
+	{
+		"employee_id" : 152,
+		"department_id" : 80,
+		"salary" : 9000.00,
+		"salary_dense_rank" : 10
+	},
+	{
+		"employee_id" : 175,
+		"department_id" : 80,
+		"salary" : 8800.00,
+		"salary_dense_rank" : 11
+	},
+	{
+		"employee_id" : 176,
+		"department_id" : 80,
+		"salary" : 8600.00,
+		"salary_dense_rank" : 12
+	},
+	{
+		"employee_id" : 177,
+		"department_id" : 80,
+		"salary" : 8400.00,
+		"salary_dense_rank" : 13
+	},
+	{
+		"employee_id" : 153,
+		"department_id" : 80,
+		"salary" : 8000.00,
+		"salary_dense_rank" : 14
+	},
+	{
+		"employee_id" : 159,
+		"department_id" : 80,
+		"salary" : 8000.00,
+		"salary_dense_rank" : 14
+	},
+	{
+		"employee_id" : 160,
+		"department_id" : 80,
+		"salary" : 7500.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 154,
+		"department_id" : 80,
+		"salary" : 7500.00,
+		"salary_dense_rank" : 15
+	},
+	{
+		"employee_id" : 171,
+		"department_id" : 80,
+		"salary" : 7400.00,
+		"salary_dense_rank" : 16
+	},
+	{
+		"employee_id" : 172,
+		"department_id" : 80,
+		"salary" : 7300.00,
+		"salary_dense_rank" : 17
+	},
+	{
+		"employee_id" : 164,
+		"department_id" : 80,
+		"salary" : 7200.00,
+		"salary_dense_rank" : 18
+	},
+	{
+		"employee_id" : 155,
+		"department_id" : 80,
+		"salary" : 7000.00,
+		"salary_dense_rank" : 19
+	},
+	{
+		"employee_id" : 161,
+		"department_id" : 80,
+		"salary" : 7000.00,
+		"salary_dense_rank" : 19
+	},
+	{
+		"employee_id" : 165,
+		"department_id" : 80,
+		"salary" : 6800.00,
+		"salary_dense_rank" : 20
+	},
+	{
+		"employee_id" : 166,
+		"department_id" : 80,
+		"salary" : 6400.00,
+		"salary_dense_rank" : 21
+	},
+	{
+		"employee_id" : 179,
+		"department_id" : 80,
+		"salary" : 6200.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 167,
+		"department_id" : 80,
+		"salary" : 6200.00,
+		"salary_dense_rank" : 22
+	},
+	{
+		"employee_id" : 173,
+		"department_id" : 80,
+		"salary" : 6100.00,
+		"salary_dense_rank" : 23
+	},
+	{
+		"employee_id" : 100,
+		"department_id" : 90,
+		"salary" : 24000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 101,
+		"department_id" : 90,
+		"salary" : 17000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 102,
+		"department_id" : 90,
+		"salary" : 17000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 108,
+		"department_id" : 100,
+		"salary" : 12000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 109,
+		"department_id" : 100,
+		"salary" : 9000.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 110,
+		"department_id" : 100,
+		"salary" : 8200.00,
+		"salary_dense_rank" : 3
+	},
+	{
+		"employee_id" : 112,
+		"department_id" : 100,
+		"salary" : 7800.00,
+		"salary_dense_rank" : 4
+	},
+	{
+		"employee_id" : 111,
+		"department_id" : 100,
+		"salary" : 7700.00,
+		"salary_dense_rank" : 5
+	},
+	{
+		"employee_id" : 113,
+		"department_id" : 100,
+		"salary" : 6900.00,
+		"salary_dense_rank" : 6
+	},
+	{
+		"employee_id" : 205,
+		"department_id" : 110,
+		"salary" : 12000.00,
+		"salary_dense_rank" : 1
+	},
+	{
+		"employee_id" : 206,
+		"department_id" : 110,
+		"salary" : 8300.00,
+		"salary_dense_rank" : 2
+	},
+	{
+		"employee_id" : 178,
+		"department_id" : null,
+		"salary" : 7000.00,
+		"salary_dense_rank" : 1
+	}
+]}

@@ -1,0 +1,16 @@
+https://kamalabot.github.io/json_data_repo/company_progress_db/company_made_progress.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/location_data.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/location_monthly.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/monthly_data.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/product_data.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/product_monthly.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/reps_monthly.json
+https://kamalabot.github.io/json_data_repo/company_progress_db/salesreps_data.json
+https://github.com/kamalabot/json_data_repo/..//company_made_progress.json
+https://github.com/kamalabot/json_data_repo/..//location_data.json
+https://github.com/kamalabot/json_data_repo/..//location_monthly.json
+https://github.com/kamalabot/json_data_repo/..//monthly_data.json
+https://github.com/kamalabot/json_data_repo/..//product_data.json
+https://github.com/kamalabot/json_data_repo/..//product_monthly.json
+https://github.com/kamalabot/json_data_repo/..//reps_monthly.json
+https://github.com/kamalabot/json_data_repo/..//salesreps_data.json
