@@ -112,3 +112,13 @@ https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/holiday_tab
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/oil_table.json
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/stores_table.json
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/transaction_table.json
+
+glass_door_DSci_datasets dataset
+
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_eda_data.json
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_salary_data_cleaned.json
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/job_employer_details.json
+
+amazon_RAnalyst_dataset dataset
+
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/cleaned_data.json
