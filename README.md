@@ -127,3 +127,9 @@ https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_c
 https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_hour.json
 https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_count.json
 https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_location_count.json
+
+glass_door_DSci_datasets dataset
+
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_eda_data.json
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_salary_data_cleaned.json
+https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/glassdoor_jobs.json
