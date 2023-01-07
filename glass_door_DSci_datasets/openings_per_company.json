@@ -1,0 +1,1375 @@
+{
+"openings_per_company": [
+	{
+		"Company Name" : "Reynolds American\n3.1",
+		"opening_company" : 14
+	},
+	{
+		"Company Name" : "MassMutual\n3.6",
+		"opening_company" : 14
+	},
+	{
+		"Company Name" : "Takeda Pharmaceuticals\n3.7",
+		"opening_company" : 14
+	},
+	{
+		"Company Name" : "Software Engineering Institute\n2.6",
+		"opening_company" : 11
+	},
+	{
+		"Company Name" : "PNNL\n3.8",
+		"opening_company" : 10
+	},
+	{
+		"Company Name" : "Liberty Mutual Insurance\n3.3",
+		"opening_company" : 10
+	},
+	{
+		"Company Name" : "AstraZeneca\n3.9",
+		"opening_company" : 9
+	},
+	{
+		"Company Name" : "MITRE\n3.2",
+		"opening_company" : 8
+	},
+	{
+		"Company Name" : "Numeric, LLC\n3.2",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Rochester Regional Health\n3.3",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Fareportal\n3.8",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Pfizer\n4.0",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Novartis\n3.8",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Advanced BioScience Laboratories\n2.7",
+		"opening_company" : 7
+	},
+	{
+		"Company Name" : "Q2 Solutions\n2.9",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Novetta\n4.0",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Esri\n3.5",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Kronos Bio",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Tapjoy\n3.9",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "The Church of Jesus Christ of Latter-day Saints\n4.2",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Beebe Healthcare\n3.6",
+		"opening_company" : 6
+	},
+	{
+		"Company Name" : "Sunovion\n3.5",
+		"opening_company" : 5
+	},
+	{
+		"Company Name" : "Rubius Therapeutics\n4.4",
+		"opening_company" : 5
+	},
+	{
+		"Company Name" : "The Hanover Insurance Group\n3.7",
+		"opening_company" : 5
+	},
+	{
+		"Company Name" : "Nuna\n4.2",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Pilot Flying J Travel Centers LLC\n3.0",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Zest AI\n3.9",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Genentech\n3.9",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Texas Health Huguley Hospital\n4.0",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "TransUnion\n3.9",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Juniper Networks\n3.8",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Northrop Grumman\n3.7",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "KnowBe4\n4.8",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Palermo's Pizza\n3.3",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Pinnacol Assurance\n4.0",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "h2o.ai\n4.3",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Central California Alliance for Health\n3.5",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Autodesk\n4.0",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "ManTech\n4.1",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Maven Wave Partners\n4.4",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "GSK\n3.9",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Sartorius\n3.5",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "San Manuel Casino\n3.6",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "Teasdale Latin Foods\n2.4",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "SpringML\n4.4",
+		"opening_company" : 4
+	},
+	{
+		"Company Name" : "MetroStar Systems\n3.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Western Digital\n3.5",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Eventbrite\n4.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Clarity Insights\n4.2",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Crown Bioscience\n2.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Audentes Therapeutics\n2.9",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "PennyMac\n3.2",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Swiss Re\n3.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Equity Residential\n4.3",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Credit Sesame\n4.1",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Raytheon\n3.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Echo Global Logistics\n3.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "The Buffalo Group\n3.9",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Infosys\n3.0",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Cboe Global Markets\n3.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "TRANZACT\n3.6",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Vail Health\n3.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Cerus Corporation\n2.1",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Southwest Research Institute\n3.9",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Agios Pharmaceuticals\n3.8",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Alignment Healthcare\n3.5",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Arbella Insurance\n3.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Mcphail Associates\n3.3",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "National Interstate\n3.3",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "HP Inc.\n4.0",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Affinity Solutions\n2.9",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "NCSOFT\n3.1",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Recursion Pharmaceuticals\n4.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "HOVER\n4.8",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "MathWorks\n4.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Visa Inc.\n3.7",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "Moser Consulting\n4.5",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "PA Consulting\n3.4",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "ClearEdge\n4.0",
+		"opening_company" : 3
+	},
+	{
+		"Company Name" : "QK\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Netskope\n4.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Oversight Systems\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Luminar Technologies\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "BPA Services\n5.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "EAB\n3.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Santander\n3.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Caterpillar\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Equian LLC\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Crossix Solutions\n3.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "TriNet\n3.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Productive Edge\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "AXION Healthcare Solutions\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "IQVIA\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "United BioSource\n2.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Catholic Health Initiatives\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Factual\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Dodge Data & Analytics\n2.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Figure Eight\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Karyopharm Therapeutics Inc.\n2.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "P2 Energy Solutions\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Entefy\n4.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "AmeriHealth Caritas\n3.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "1904labs\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Associated Electric Cooperative\n4.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Guidepoint\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Peraton\n3.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Trace3\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Plymouth Rock Assurance\n3.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Cogo Labs\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Tivity Health\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "DECISIVE ANALYTICS Corporation\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "CA-One Tech Cloud",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Amrock\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "USEReady\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Moda Operandi\n1.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "ExecOnline\n4.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Brighthouse Financial\n3.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "BRMi\n4.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Glassdoor\n4.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Strategic Employment Partners\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "SV Microwave\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Pacific Northwest National Laboratory\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "CK-12 Foundation\n4.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "<intent>\n4.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Church & Dwight\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Logic20\/20\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Legal & General America\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Health IQ\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Veterans United Home Loans\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Truckstop.com\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Demandbase\n4.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Remedy BPCI Partners, LLC.\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Tower Health\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "General Dynamics Information Technology\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Saama Technologies Inc\n3.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Mitsubishi Electric Research Labs\n4.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "IZEA\n4.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Citadel Federal Credit Union\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Sumo Logic\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "CALIBRE Systems\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Emtec, Inc.\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Applied Research Laboratories\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "The David J. Joseph Company\n4.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Associated Banc-Corp\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Bill.com\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Information Builders\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Mteq\n4.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Medidata Solutions\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Walmart\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Systems & Technology Research\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Adobe\n4.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Tempus Labs\n3.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Exelixis\n3.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "OneMagnify\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "National Student Clearinghouse\n2.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Zimmerman Advertising\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "RTI International\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "State of Wisconsin Investment Board\n2.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "SMC 3\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "DICK'S Sporting Goods - Corporate\n3.8",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Life360\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Signpost\n3.9",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Argo Group US\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "F&G\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "ClearOne Advantage\n4.1",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Samba TV\n3.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "FLEETCOR\n2.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "CyrusOne\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Greenway Health\n3.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Genesys\n4.3",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Praetorian\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Acceleron Pharma\n4.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Vionic Group\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Brillient\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Motorola Solutions\n3.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Riverside Research Institute\n3.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "The Climate Corporation\n3.2",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "First Tech Federal Credit Union\n3.5",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Strategic Financial Solutions\n4.0",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "Assurant\n3.4",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "New England Biolabs\n4.7",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "GreatAmerica Financial Services\n4.6",
+		"opening_company" : 2
+	},
+	{
+		"Company Name" : "7Park Data\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "CompQsoft\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "TrueAccord\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Johns Hopkins Health Care\n3.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Acuity Insurance\n4.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "L&T Infotech\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Royce Geospatial\n5.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Gallup\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "U.Group\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "e-IT Professionals Corp.\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Fivestars\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DrFirst\n2.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Corcentric\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Two Sigma\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Pro-Sphere Tek\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Lockheed Martin\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "First Command Financial Services, Inc.\n3.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Capgemini\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "TechProjects\n4.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Synagro\n2.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "SPINS, LLC\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Full Potential Solutions\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Beck's Hybrids\n4.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "iSeatz\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Maxar Technologies\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "GNY Insurance Companies\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Torch Technologies, Inc.\n4.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Wish\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Evolve Vacation Rental\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Grand Rounds\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Carilion Clinic\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Veterans Affairs, Veterans Health Administration\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Confluent\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Samsung Research America\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "IntraEdge\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "PatientPoint\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Accuride International\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "ICW Group\n2.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "BioMarin Pharmaceutical\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "BWX Technologies\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Integrate\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Nurx\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "C Space\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Muso",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Rodan and Fields, LLC\n2.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DatamanUSA, LLC\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "CareDx\n2.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DTCC\n3.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Stratagem Group\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "CBS Interactive\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DentaQuest\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Opinion Dynamics\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DoubleVerify\n3.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Blue Cross & Blue Shield of Rhode Island\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Porch\n3.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Tecolote Research\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Blueprint Medicines\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "The E.W. Scripps Company\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Maximus Real Estate Partners\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "West Coast University\n2.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "COUNTRY Financial\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Credera\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Sage Intacct\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "American Axle & Manufacturing\n3.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Monte Rosa Therapeutics",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Vanda Pharmaceuticals\n2.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "The HSC Health Care System\n3.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Sapphire Digital\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Carmeuse\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Intrado\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Conch Technologies, Inc\n4.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Ameritas Life Insurance Corp\n3.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Trace Data\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "BlueCross BlueShield of Tennessee\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "goTRG\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Centro\n4.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "NMR Consulting\n4.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Pactera\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Audible\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "SoftBank Robotics\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "PeoplesBank\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Centauri\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Gridiron IT\n5.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Systems Evolution Inc.\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "IHS Markit\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Quartet Health\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Trilogy Ed\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Spectrum Communications and Consulting\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "HG Insights\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Leidos\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "University of Maryland Medical System\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Genworth\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Clearwater Analytics\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "SkySync\n5.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Yesler\n4.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "ALIN",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Nektar Therapeutics\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "KSM Consulting\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "SullivanCotter\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Mentor Graphics\n4.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Grainger\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "1-800-FLOWERS.COM, Inc.\n2.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "L.A. Care Health Plan\n3.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Berg Health\n2.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DRB Systems\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "comScore\n2.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "WK Dickson\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "CentralReach\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Scale AI\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Boys Town\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "23andMe\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "MZ\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "webfx.com\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Bridg\n2.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Charter Spectrum\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Dayton Freight Lines, Inc.\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Success Academy Charter Schools\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Beckman Coulter Diagnostics\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Redjack\n4.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Boys Town Hospital\n2.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Pharmavite\n2.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "NPD\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "GNS Healthcare\n1.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Johns Hopkins University Applied Physics Laboratory\n4.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "EAG Laboratories\n2.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Excella Consulting\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Alliance Source Testing\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Shipt\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "FORMA THERAPEUTICS\n3.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Rapid Response Monitoring\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Sauce Labs\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Change Healthcare\n2.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Bakery Agency\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "IT Concepts\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "OceanFirst Financial\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Object Partners\n4.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Biz2Credit Inc\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "The Integer Group\n2.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "AVANADE\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Icon Health and Fitness\n3.1",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Serigor Inc.\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Lancer Insurance\n3.5",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "DESC\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Formation\n3.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Citi\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Vermeer\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Red Ventures\n3.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Lorven Technologies Inc\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Applied Information Sciences\n4.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Community Action Partnership of San Luis Obispo\n2.8",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Community Behavioral Health\n3.7",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Gensco\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Quick Base\n4.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Edgewell Personal Care\n3.4",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Persivia\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "CapTech\n3.9",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Scientific Research Corporation\n4.2",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Sotheby's\n3.6",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Tekvalley, Corp.\n4.0",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Solugenix Corporation\n4.3",
+		"opening_company" : 1
+	},
+	{
+		"Company Name" : "Upside Business Travel\n4.0",
+		"opening_company" : 1
+	}
+]}

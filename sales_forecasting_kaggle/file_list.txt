@@ -1,7 +1,0 @@
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/date_spine.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/full_oil_holiday_table.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/full_oil_table.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/holiday_table.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/oil_table.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/stores_table.json
-https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/transaction_table.json

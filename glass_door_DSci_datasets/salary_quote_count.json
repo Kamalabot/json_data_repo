@@ -1,0 +1,428 @@
+{
+"salary_quote_count": [
+	{
+		"salary_quoted" : "202K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "200K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "190K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "176K",
+		"min_salary_count" : 1,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "171K",
+		"min_salary_count" : 1,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "158K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "150K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "139K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 11
+	},
+	{
+		"salary_quoted" : "138K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "136K",
+		"min_salary_count" : 1,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "135K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "132K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 8
+	},
+	{
+		"salary_quoted" : "130K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "129K",
+		"min_salary_count" : 1,
+		"max_salary_count" : 8
+	},
+	{
+		"salary_quoted" : "127K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 13
+	},
+	{
+		"salary_quoted" : "126K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "125K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "124K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 15
+	},
+	{
+		"salary_quoted" : "121K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "120K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "119K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 15
+	},
+	{
+		"salary_quoted" : "118K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "117K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "116K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "115K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "114K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "113K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 13
+	},
+	{
+		"salary_quoted" : "112K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 9
+	},
+	{
+		"salary_quoted" : "111K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "110K",
+		"min_salary_count" : 11,
+		"max_salary_count" : 15
+	},
+	{
+		"salary_quoted" : "109K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "108K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "107K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "106K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "105K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 8
+	},
+	{
+		"salary_quoted" : "102K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "101K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 12
+	},
+	{
+		"salary_quoted" : "100K",
+		"min_salary_count" : 11,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "99K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 9
+	},
+	{
+		"salary_quoted" : "98K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "97K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 9
+	},
+	{
+		"salary_quoted" : "96K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "95K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "93K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "92K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "91K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "90K",
+		"min_salary_count" : 8,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "89K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "88K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "87K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "86K",
+		"min_salary_count" : 15,
+		"max_salary_count" : 12
+	},
+	{
+		"salary_quoted" : "85K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 11
+	},
+	{
+		"salary_quoted" : "84K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "82K",
+		"min_salary_count" : 8,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "81K",
+		"min_salary_count" : 17,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "80K",
+		"min_salary_count" : 18,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "79K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "78K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 7
+	},
+	{
+		"salary_quoted" : "77K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "76K",
+		"min_salary_count" : 10,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "74K",
+		"min_salary_count" : 16,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "73K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "72K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "71K",
+		"min_salary_count" : 13,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "69K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "68K",
+		"min_salary_count" : 11,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "67K",
+		"min_salary_count" : 6,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "66K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "65K",
+		"min_salary_count" : 20,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "64K",
+		"min_salary_count" : 10,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "63K",
+		"min_salary_count" : 16,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "62K",
+		"min_salary_count" : 7,
+		"max_salary_count" : 10
+	},
+	{
+		"salary_quoted" : "61K",
+		"min_salary_count" : 18,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "59K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "57K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "55K",
+		"min_salary_count" : 9,
+		"max_salary_count" : 3
+	},
+	{
+		"salary_quoted" : "50K",
+		"min_salary_count" : 10,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "48K",
+		"min_salary_count" : 8,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "47K",
+		"min_salary_count" : 4,
+		"max_salary_count" : 1
+	},
+	{
+		"salary_quoted" : "39K",
+		"min_salary_count" : 10,
+		"max_salary_count" : 4
+	},
+	{
+		"salary_quoted" : "34K",
+		"min_salary_count" : 5,
+		"max_salary_count" : 6
+	},
+	{
+		"salary_quoted" : "29K",
+		"min_salary_count" : 1,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "25K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 5
+	},
+	{
+		"salary_quoted" : "24K",
+		"min_salary_count" : 3,
+		"max_salary_count" : 2
+	},
+	{
+		"salary_quoted" : "17K",
+		"min_salary_count" : 2,
+		"max_salary_count" : 2
+	}
+]}

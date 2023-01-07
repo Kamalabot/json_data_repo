@@ -1,0 +1,1219 @@
+{
+"openings_per_title": [
+	{
+		"job_title" : "Data Scientist",
+		"title_count" : 178
+	},
+	{
+		"job_title" : "Data Engineer",
+		"title_count" : 68
+	},
+	{
+		"job_title" : "Senior Data Scientist",
+		"title_count" : 42
+	},
+	{
+		"job_title" : "Data Analyst",
+		"title_count" : 18
+	},
+	{
+		"job_title" : "Senior Data Engineer",
+		"title_count" : 17
+	},
+	{
+		"job_title" : "Business Intelligence Analyst",
+		"title_count" : 13
+	},
+	{
+		"job_title" : "Data Scientist ",
+		"title_count" : 13
+	},
+	{
+		"job_title" : "Senior Data Analyst",
+		"title_count" : 12
+	},
+	{
+		"job_title" : "Senior Scientist ",
+		"title_count" : 10
+	},
+	{
+		"job_title" : "Scientist ",
+		"title_count" : 9
+	},
+	{
+		"job_title" : "Lead Data Scientist",
+		"title_count" : 8
+	},
+	{
+		"job_title" : "Staff Scientist",
+		"title_count" : 7
+	},
+	{
+		"job_title" : "Data Science Manager",
+		"title_count" : 7
+	},
+	{
+		"job_title" : "Data Engineer 5 ",
+		"title_count" : 6
+	},
+	{
+		"job_title" : "Machine Learning Engineer",
+		"title_count" : 6
+	},
+	{
+		"job_title" : "Principal Data Scientist",
+		"title_count" : 6
+	},
+	{
+		"job_title" : "Sr. Data Engineer",
+		"title_count" : 6
+	},
+	{
+		"job_title" : "Marketing Data Analyst",
+		"title_count" : 6
+	},
+	{
+		"job_title" : "Analytics Manager",
+		"title_count" : 5
+	},
+	{
+		"job_title" : "Director II, Data Science ",
+		"title_count" : 5
+	},
+	{
+		"job_title" : "Lead Data Engineer",
+		"title_count" : 5
+	},
+	{
+		"job_title" : "Senior Data Scientist ",
+		"title_count" : 5
+	},
+	{
+		"job_title" : "Associate Data Analyst",
+		"title_count" : 5
+	},
+	{
+		"job_title" : "Data Engineer with R",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Pharmacovigilance Scientist (Senior Pharmacovigilance)",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "MED TECH\/LAB SCIENTIST",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Senior Research Scientist",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Medical Laboratory Scientist",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Sr. Data Engineer ",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Food Scientist ",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Big Data Engineer",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Analytics Manager ",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Data Engineer 4 ",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Research Scientist",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "R&D Specialist\/ Food Scientist",
+		"title_count" : 4
+	},
+	{
+		"job_title" : "Consultant ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Scientist, Bacteriology",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "IT ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Chief Data Officer",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Associate Scientist, LC\/MS Biologics",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Clinical Data Manager",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Senior Insurance Data Scientist",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Principal Scientist, Hematology",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Clinical Laboratory Scientist",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Scientist\/Senior Scientist, Autoimmune",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "UX Data Scientist (Python)",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Sr. Scientist Method Development",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Principal Data Scientist (Computational Chemistry)",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Sr. Data Analyst",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Research Scientist, Immunology ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Data Scientist (Active TS SCI with Polygraph)",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Head Data Scientist – NLP lead, Novartis AI Innovation Lab",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Associate Director, Platform and DevOps",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Information Security Data Analyst",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "ENVIRONMENTAL ENGINEER\/SCIENTIST",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Scientist",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Chief Data Scientist",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Staff Data Engineer",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Project Scientist ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Machine Learning Engineer ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Scientist, Molecular\/Cellular Biologist",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Revenue Analytics Manager",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Senior Data Science Systems Engineer",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Software Engineer ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Principal Scientist, Chemistry & Immunology",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Scientist, Product Development",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Data Engineer ",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Clinical Data Analyst",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Data Systems Specialist 2",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Staff Machine Learning Engineer",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Senior Scientist (Neuroscience)",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Head Data Scientist – Image Analytics lead, Novartis AI Innovation Lab",
+		"title_count" : 3
+	},
+	{
+		"job_title" : "Deep Learning\/Computer Vision Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Director Biometrics and Clinical Data Management",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Digital Health Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate Machine Learning Engineer \/ Data Scientist May 2020 Undergrad",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Enterprise Account Exec",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Data Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate Director\/Director, Safety Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Pricipal Scientist Molecular and cellular biologist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Corporate Risk Data Analyst (SQL Based) ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Product Engineer – Data Science",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate, Data Science, Internal Audit",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr Data Engineer (Sr BI Developer)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate Environmental Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist Manufacturing ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "AWS Data Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Advanced Analytics Manager",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Principal Data Scientist with over 10 years experience",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Risk and Analytics IT, Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Scientist Protein\/Oligonucleotides",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior LiDAR Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Staff Data Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist, Upstream Process Development (Bioreactors)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr Software Engineer (Data Scientist)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Science Project Manager",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Microsoft Data Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Radar Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Data & Machine Learning Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Digital Marketing & ECommerce Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Staff Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Front",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Market Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Staff BI and Data Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Customer Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Manager, Epidemiologic Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Data Scientist \/ Machine Learning",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Business Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist Manufacturing Pharma ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate Principal Scientist, Pharmacogenomics",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Science Engineer ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Clinical Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr Data Analyst ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Imagery Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Medical Lab Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientist in Artificial Intelligence Early Career",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Analytics ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Managing Data Scientist\/ML Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Excel \/ VBA \/ SQL Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist, Analytical Development",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Lead Big Data Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Data Scientist Oncology",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "MED TECH\/LAB SCIENTIST ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Scientist, Quantitative Translational Sciences",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Lead Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientist \/ Machine Learning Expert",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Principal Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Systems Engineer II ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Associate Data Engineer",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Technology",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "BI & Platform Analytics Manager",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Director Data Science",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Data Scientist II",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist – Cancer Drug Discovery",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist, Immuno",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Product Engineer – Spatial Data Science and Statistical Analysis",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Data Scientist Artificial Intelligence",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "RESEARCH COMPUTER SCIENTIST ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Director ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr Scientist, Immuno",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "PL Actuarial",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Research Analytical Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Chief Scientist ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Principal, Data Science ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Scientist, Logic Gated CAR T Cell Therapy",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Science Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Lab Head, Principle Scientist, Dupixent\/Type 2 Inflammation & Fibrosis ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Diversity and Inclusion Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "PV Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Scientist, Cell Pharmacology\/Assay Development",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Analyst 1, full",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Quality Control Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Geospatial Software Developer and Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Research Scientist – Security and Privacy",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Operations Data Analyst, Call Center Operations",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Data Scientist 4 Artificial Intelligence",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Clinical Lab Scientist, Clinical Lab Svcs ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Enterprise Architect, Data",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Computational Chemist\/Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Scientist, Pharmacometrics",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientist, Office of Data Science",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr. Data Engineer (ETL Developer)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Modeler ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "VP, Data Science",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientist SR",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "College Hire ",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Lead Data Engineer (Python)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "IT Associate Data Analyst",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Analyst Senior",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Salesforce Analytics Consultant",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Medical Lab Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Machine Learning Research Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientist (Actuary, FSA or ASA)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Products Data Analyst II",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Sr Expert Data Science, Advanced Visual Analytics (Associate level)",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Senior Risk Data Scientist",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Marketing Data Analyst, May 2020 Undergrad",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Staff Machine Learning Scientist, AI Foundation",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Analytics Project Manager",
+		"title_count" : 2
+	},
+	{
+		"job_title" : "Data Scientists",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Platform Engineer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist II",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Spectral Scientist\/Engineer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Manager, Data Science ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Weapons and Sensors Engineer\/Scientist – Entry Level",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "MongoDB Data Engineer II",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Research Scientist \/ Principal Research Scientist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Modeler",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Healthcare Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Real World Evidence (RWE) Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst, Performance Partnership",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Machine Learning Engineer (NLP)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Big Data Engineer ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist\/ML Engineer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Scientist I\/II, Biology",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Science Intern",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Machine Learning Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst Level III",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Process Development Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Customer Data Scientist\/Sales Engineer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Environmental Data Specialist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Operations Lead",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Modeler (Analytical Systems)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Quantitative Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Director, Data Science",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Engineer I ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Scientist – Cancer Discovery, Molecular Assay",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist, Senior",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Spark Engineer (Data Science)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst II",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Principal Data Engineer, Data Platform & Insights",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Manager of Data Science",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Principal Machine Learning Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Medical Technologist \/ Clinical Laboratory Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Data Scientist, Cyber",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Software Engineer (Data Scientist\/Software Engineer) ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Data Engineer | Big Data SaaS Pipeline",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Analytical Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Software Engineer Staff Scientist: Human Language Technologies",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Business Development ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst 2 (Missionary Department)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Software Data Engineer ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Scientist 2, QC Viral Vector",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Formulations Scientist II",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Engineering Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Lead Health Data Analyst ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst Chemist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Principal Research Scientist\/Team Lead, Medicinal Chemistry ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist in Translational Medicine",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Health Data Analyst, Star Ratings",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "R&D Data Analysis Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data & Analytics Consultant (NYC)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Research Scientist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist, Rice University",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Customer Data Scientist\/Sales Engineer (Bay",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Foundational Community Supports Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Associate Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analytics Manager",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Jr. Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Head Data Scientist, Predictive Analytics Lead AI Innovation Lab",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Business Data Analyst, SQL",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Assistant Director\/Director, Office of Data Science",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Engineer Intern",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Director, Precision Medicine Clinical Biomarker Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Clinical Document Review Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Research Scientist or Senior Research Scientist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Analyst \/ Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Project Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Supply Chain Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Engineer I",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist (Warehouse Automation)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Scientist, Stem Cells and Genomics",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Program\/Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Survey Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Tech Manager, Software Engineering ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "CONSULTANT– DATA ANALYTICS GROUP",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Associate Data Scientist\/Computer Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Engineer, Data Engineering and Artifical Intelligence",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Associate Scientist \/ Sr. Associate Scientist, Antibody Discovery",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Ag Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Engineer, Data Management Engineering",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "System and Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "MSP ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Web Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Analytics Consultant",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "ATL ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Product Manager\/Data Evangelist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Architect \/ Data Modeler",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Junior Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. BI Data Engineer III",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Management Specialist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Jr. Business Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Health Data Analyst\/Developer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Scientist, Biomarker Science",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Data Analyst\/Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Data Scientist – Visualization, Novartis AI Innovation Lab",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "E",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Financial Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Insurance Financial Data Analyst",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Quality Control Scientist III",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "SQL Data Engineer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Clinical Scientist, Clinical Development",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Environmental Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Research Statistician",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Scientist, Toxicology",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "RESEARCH SCIENTIST ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Business Intelligence Analyst \/ Developer",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Insurance Data Scientist",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Associate Research Scientist I (Protein Expression and Production)",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Postdoc Scientist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Data Scientist Manager",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Manager, Safety Scientist, Medical Safety & Risk Management",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Machine Learning (ML) Engineer \/ Data Scientist ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Senior Data Scientist Statistics",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Research Scientist, Machine Learning Department",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Sr. Scientist II",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "Associate Scientist\/Scientist, Process Analytical Technology ",
+		"title_count" : 1
+	},
+	{
+		"job_title" : "R&D Sr Data Scientist",
+		"title_count" : 1
+	}
+]}

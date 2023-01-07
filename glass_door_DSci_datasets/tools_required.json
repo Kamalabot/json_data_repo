@@ -1,0 +1,19 @@
+{
+"tools_required": [
+	{
+		"requirement" : "no",
+		"excel_reqd" : 354,
+		"aws_reqd" : 566,
+		"r_reqd" : 740,
+		"spark_reqd" : 575,
+		"python_reqd" : 350
+	},
+	{
+		"requirement" : "yes",
+		"excel_reqd" : 388,
+		"aws_reqd" : 176,
+		"r_reqd" : 2,
+		"spark_reqd" : 167,
+		"python_reqd" : 392
+	}
+]}

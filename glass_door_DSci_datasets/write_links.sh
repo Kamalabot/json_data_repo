@@ -4,26 +4,22 @@
 #
 touch file_list.txt
 write_file=file_list.txt
-appendage="https://github.com/kamalabot/json_data_repo/"
+appendage="https://kamalabot.github.io/json_data_repo/"
 folder_name=$1
 full_append=$appendage$folder_name"/"
 echo $full_append
 
+echo "Ensure there is README.md file in parent directory"
+
+echo -e >> ../README.md
+
+echo $folder_name >> ../README.md
+
+echo -e >> ../README.md
+
 for files in *.json
 do
   #[ ! $files  ] && echo $full_append+$files >> $write_file
-  echo $full_append$files >> file_list.txt 
+  echo $full_append$files >> ../README.md
 done
-
-echo "showing the file list. Ensure there is README.md file in parent directory"
-
-echo -e >> ../README.md
-
-echo $folder_name" dataset" >> ../README.md
-
-echo -e >> ../README.md
-
-cat file_list.txt >> ../README.md
-
-echo -e ../README.md
 

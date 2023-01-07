@@ -1,0 +1,1003 @@
+{
+"openings_per_location": [
+	{
+		"location_city" : "New York",
+		"state" : " NY",
+		"opening_location" : 55
+	},
+	{
+		"location_city" : "San Francisco",
+		"state" : " CA",
+		"opening_location" : 49
+	},
+	{
+		"location_city" : "Cambridge",
+		"state" : " MA",
+		"opening_location" : 47
+	},
+	{
+		"location_city" : "Chicago",
+		"state" : " IL",
+		"opening_location" : 32
+	},
+	{
+		"location_city" : "Boston",
+		"state" : " MA",
+		"opening_location" : 23
+	},
+	{
+		"location_city" : "San Jose",
+		"state" : " CA",
+		"opening_location" : 13
+	},
+	{
+		"location_city" : "Pittsburgh",
+		"state" : " PA",
+		"opening_location" : 12
+	},
+	{
+		"location_city" : "Rockville",
+		"state" : " MD",
+		"opening_location" : 11
+	},
+	{
+		"location_city" : "Washington",
+		"state" : " DC",
+		"opening_location" : 11
+	},
+	{
+		"location_city" : "Herndon",
+		"state" : " VA",
+		"opening_location" : 10
+	},
+	{
+		"location_city" : "Winston-Salem",
+		"state" : " NC",
+		"opening_location" : 10
+	},
+	{
+		"location_city" : "Richland",
+		"state" : " WA",
+		"opening_location" : 10
+	},
+	{
+		"location_city" : "Indianapolis",
+		"state" : " IN",
+		"opening_location" : 9
+	},
+	{
+		"location_city" : "San Diego",
+		"state" : " CA",
+		"opening_location" : 9
+	},
+	{
+		"location_city" : "Mountain View",
+		"state" : " CA",
+		"opening_location" : 8
+	},
+	{
+		"location_city" : "Austin",
+		"state" : " TX",
+		"opening_location" : 8
+	},
+	{
+		"location_city" : "South San Francisco",
+		"state" : " CA",
+		"opening_location" : 8
+	},
+	{
+		"location_city" : "Rochester",
+		"state" : " NY",
+		"opening_location" : 7
+	},
+	{
+		"location_city" : "Palo Alto",
+		"state" : " CA",
+		"opening_location" : 7
+	},
+	{
+		"location_city" : "Huntsville",
+		"state" : " AL",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Gaithersburg",
+		"state" : " MD",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Marlborough",
+		"state" : " MA",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Phoenix",
+		"state" : " AZ",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Dallas",
+		"state" : " TX",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Salt Lake City",
+		"state" : " UT",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Charlotte",
+		"state" : " NC",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Chantilly",
+		"state" : " VA",
+		"opening_location" : 6
+	},
+	{
+		"location_city" : "Milwaukee",
+		"state" : " WI",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Nashville",
+		"state" : " TN",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Philadelphia",
+		"state" : " PA",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Cincinnati",
+		"state" : " OH",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Worcester",
+		"state" : " MA",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Springfield",
+		"state" : " MA",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Denver",
+		"state" : " CO",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Seattle",
+		"state" : " WA",
+		"opening_location" : 5
+	},
+	{
+		"location_city" : "Clearwater",
+		"state" : " FL",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Millville",
+		"state" : " DE",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Burbank",
+		"state" : " CA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Highland",
+		"state" : " CA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Los Angeles",
+		"state" : " CA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Fort Belvoir",
+		"state" : " VA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Redlands",
+		"state" : " CA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Knoxville",
+		"state" : " TN",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Scotts Valley",
+		"state" : " CA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Hoopeston",
+		"state" : " IL",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Omaha",
+		"state" : " NE",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Owensboro",
+		"state" : " KY",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Burleson",
+		"state" : " TX",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Durham",
+		"state" : " NC",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Houston",
+		"state" : " TX",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Arlington",
+		"state" : " VA",
+		"opening_location" : 4
+	},
+	{
+		"location_city" : "Vail",
+		"state" : " CO",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Springfield",
+		"state" : " VA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "San Antonio",
+		"state" : " TX",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Baltimore",
+		"state" : " MD",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Hartford",
+		"state" : " CT",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Richfield",
+		"state" : " OH",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Beavercreek",
+		"state" : " OH",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Orange",
+		"state" : " CA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Natick",
+		"state" : " MA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Atlanta",
+		"state" : " GA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Silver Spring",
+		"state" : " MD",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Fort Lee",
+		"state" : " NJ",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Armonk",
+		"state" : " NY",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Ithaca",
+		"state" : " NY",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Hampton",
+		"state" : " VA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "McLean",
+		"state" : " VA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Marietta",
+		"state" : " GA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Annapolis Junction",
+		"state" : " MD",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Riverton",
+		"state" : " UT",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Quincy",
+		"state" : " MA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Concord",
+		"state" : " CA",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Tampa",
+		"state" : " FL",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Albuquerque",
+		"state" : " NM",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Lenexa",
+		"state" : " KS",
+		"opening_location" : 3
+	},
+	{
+		"location_city" : "Exton",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Fremont",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Phila",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Woodbridge",
+		"state" : " NJ",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Green Bay",
+		"state" : " WI",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Hillsboro",
+		"state" : " OR",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Orlando",
+		"state" : " FL",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Fort Lauderdale",
+		"state" : " FL",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Madison",
+		"state" : " WI",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Coraopolis",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Groton",
+		"state" : " CT",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Cedar Rapids",
+		"state" : " IA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Vancouver",
+		"state" : " WA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "New Orleans",
+		"state" : " LA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Chandler",
+		"state" : " AZ",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Sunnyvale",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Jersey City",
+		"state" : " NJ",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Bedford",
+		"state" : " MA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Ewing",
+		"state" : " NJ",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Allentown",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Louisville",
+		"state" : " KY",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Columbia",
+		"state" : " MO",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Cupertino",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Hamilton",
+		"state" : " NJ",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Ipswich",
+		"state" : " MA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Springfield",
+		"state" : " MO",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Minneapolis",
+		"state" : " MN",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Charlottesville",
+		"state" : " VA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Westlake",
+		"state" : " OH",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Santa Clara",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "West Palm Beach",
+		"state" : " FL",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "West Reading",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Blue Bell",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Newton",
+		"state" : " MA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Winter Park",
+		"state" : " FL",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Dearborn",
+		"state" : " MI",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Plano",
+		"state" : " TX",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Alameda",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Bellevue",
+		"state" : " WA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Aliso Viejo",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Dublin",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Detroit",
+		"state" : " MI",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Lafayette",
+		"state" : " LA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Des Moines",
+		"state" : " IA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Frederick",
+		"state" : " MD",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Saint Louis",
+		"state" : " MO",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Clovis",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Peoria",
+		"state" : " IL",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Franklin",
+		"state" : " TN",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Alexandria",
+		"state" : " VA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Maryland Heights",
+		"state" : " MO",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Plymouth Meeting",
+		"state" : " PA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Lewes",
+		"state" : " DE",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "San Rafael",
+		"state" : " CA",
+		"opening_location" : 2
+	},
+	{
+		"location_city" : "Aurora",
+		"state" : " CO",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Long Beach",
+		"state" : " NY",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Landover",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Sheboygan",
+		"state" : " WI",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Oak Ridge",
+		"state" : " TN",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Parlier",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Emeryville",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Matawan",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Reston",
+		"state" : " VA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Oakland",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Boise",
+		"state" : " ID",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Fort Worth",
+		"state" : " TX",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Newark",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Carle Place",
+		"state" : " NY",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Tacoma",
+		"state" : " WA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Dayton",
+		"state" : " OH",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Syracuse",
+		"state" : " NY",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Glen Burnie",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Valencia",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Corvallis",
+		"state" : " OR",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Port Washington",
+		"state" : " NY",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Scottsdale",
+		"state" : " AZ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Miami",
+		"state" : " FL",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Ashburn",
+		"state" : " VA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Providence",
+		"state" : " RI",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Framingham",
+		"state" : " MA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Holyoke",
+		"state" : " MA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Arvada",
+		"state" : " CO",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Southfield",
+		"state" : " MI",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Kansas City",
+		"state" : " MO",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Harrisburg",
+		"state" : " PA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Columbia",
+		"state" : " SC",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Red Bank",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Lyndhurst",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Suitland",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Chattanooga",
+		"state" : " TN",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Logan",
+		"state" : " UT",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Raleigh",
+		"state" : " NC",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Patuxent River",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Waltham",
+		"state" : " MA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Woburn",
+		"state" : " MA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Bloomington",
+		"state" : " IL",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "King of Prussia",
+		"state" : " PA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Irvine",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Pella",
+		"state" : " IA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Milpitas",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Novato",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Allendale",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Portsmouth",
+		"state" : " VA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Lake Forest",
+		"state" : " IL",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Cambridge",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Cherry Hill",
+		"state" : " NJ",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Watertown",
+		"state" : " MA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Meridian",
+		"state" : " ID",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Portland",
+		"state" : " OR",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Alabaster",
+		"state" : " AL",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Birmingham",
+		"state" : " AL",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Santa Barbara",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Roanoke",
+		"state" : " VA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Atlanta",
+		"state" : " IN",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Linthicum",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Longmont",
+		"state" : " CO",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Ann Arbor",
+		"state" : " MI",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Foster City",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "San Mateo",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Agoura Hills",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Olympia",
+		"state" : " WA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "San Ramon",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Brisbane",
+		"state" : " CA",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Laurel",
+		"state" : " MD",
+		"opening_location" : 1
+	},
+	{
+		"location_city" : "Santa Fe Springs",
+		"state" : " Los Angeles",
+		"opening_location" : 1
+	}
+]}
