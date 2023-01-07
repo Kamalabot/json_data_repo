@@ -1,7 +1,7 @@
 ## Datasets in JSON Format
-Json_data_repo is collection of datasets available in the wild, but in JSON format. 
+Json_data_repo is collection ofs available in the wild, but in JSON format. 
 When I started searching for reliable API points for the data I wanted, they were not
-available. The datasets are distributed in CSV format, since that is easily viewable 
+available. Thes are distributed in CSV format, since that is easily viewable 
 by everyone. Except csv formats are not native to Web, and the browsers don't speak CSV.
 
 After a lot of research, learning and looking around the easiest solution to create a 
@@ -28,9 +28,9 @@ or from your repo, ensure the link above is updated with your Git Handle.
 
 Have a great experience developing
 
-Adding additional datasets below.
+Adding additionals below.
 
-hr_db dataset:
+hr_db:
 
 https://kamalabot.github.io/json_data_repo/hr_db_dataset/countries.json
 https://kamalabot.github.io/json_data_repo/hr_db_dataset/departments.json
@@ -41,7 +41,7 @@ https://kamalabot.github.io/json_data_repo/hr_db_dataset/jobs.json
 https://kamalabot.github.io/json_data_repo/hr_db_dataset/locations.json
 https://kamalabot.github.io/json_data_repo/hr_db_dataset/regions.json
 
-Retail_db dataset
+Retail_db
 
 https://kamalabot.github.io/json_data_repo/retail_db/categories.json
 https://kamalabot.github.io/json_data_repo/retail_db/customers.json
@@ -56,7 +56,7 @@ https://kamalabot.github.io/json_data_repo/retail_db/rank_revenue_ctas.json
 https://kamalabot.github.io/json_data_repo/retail_db/user_logins.json
 https://kamalabot.github.io/json_data_repo/retail_db/users.json
 
-Microsoft Azure dataset
+Microsoft Azure
 
 https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/errors.json
 https://kamalabot.github.io/json_data_repo/ms_azure_maintenance_dataset/failure_pred_data.json
@@ -78,7 +78,7 @@ https://kamalabot.github.io/json_data_repo/snldb/sketches.json
 https://kamalabot.github.io/json_data_repo/snldb/tenure.json
 https://kamalabot.github.io/json_data_repo/snldb/titles.json
 
-multi_sources dataset
+multi_sources
 
 https://github.com/kamalabot/json_data_repo/multi_sources/aid_data.json
 https://github.com/kamalabot/json_data_repo/multi_sources/anns_drinks.json
@@ -103,7 +103,7 @@ https://github.com/kamalabot/json_data_repo/multi_sources/ticket_sales.json
 https://github.com/kamalabot/json_data_repo/multi_sources/vizhead.json
 https://github.com/kamalabot/json_data_repo/multi_sources/youtube_analysis.json
 
-sales_forecasting_kaggle dataset
+sales_forecasting_kaggle
 
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/date_spine.json
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/full_oil_holiday_table.json
@@ -113,12 +113,20 @@ https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/oil_table.j
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/stores_table.json
 https://github.com/kamalabot/json_data_repo/sales_forecasting_kaggle/transaction_table.json
 
-glass_door_DSci_datasets dataset
+glass_door_DSci_datasets
 
 https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_eda_data.json
 https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/gd_salary_data_cleaned.json
 https://github.com/kamalabot/json_data_repo/glass_door_DSci_datasets/job_employer_details.json
 
-amazon_RAnalyst_dataset dataset
+amazon_RAnalyst_dataset
 
 https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/cleaned_data.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/city_date_deliveries.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/city_delivery_counts.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/cleaned_data.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/delivery_agent_ratings.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_count.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_hour.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_count.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_location_count.json

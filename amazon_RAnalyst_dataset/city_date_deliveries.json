@@ -1,0 +1,2563 @@
+{
+"city_date_deliveries": [
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 18,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 27,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 24,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 16,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 25,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 23,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 26,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 16,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 20,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 19,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 27,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-06",
+		"city_count" : 18,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 22,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 31,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 21,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 24,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 24,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 26,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 27,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 26,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 18,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 16,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 23,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-05",
+		"city_count" : 25,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 32,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 22,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 26,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 25,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 22,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 25,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 24,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 23,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 23,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-04",
+		"city_count" : 14,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 23,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 21,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 23,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 26,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 18,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 23,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 23,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 22,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 18,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 20,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-03",
+		"city_count" : 24,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 21,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 29,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 22,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 13,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 21,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 22,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 16,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 17,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 16,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 18,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 17,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-02",
+		"city_count" : 16,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 37,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 22,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 21,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 26,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 28,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 28,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 24,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 30,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 19,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 27,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 27,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-04-01",
+		"city_count" : 18,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 21,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 20,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 22,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 24,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 19,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 19,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 11,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 28,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 15,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 27,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-31",
+		"city_count" : 25,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 25,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 25,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 25,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 25,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 27,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 30,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 22,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 25,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 27,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 22,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 27,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-30",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 16,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 21,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 19,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 25,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 20,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 30,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 15,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 21,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 17,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 21,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-29",
+		"city_count" : 19,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 22,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 20,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 25,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 31,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 16,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 24,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 28,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 34,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 25,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 25,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-28",
+		"city_count" : 29,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 21,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 24,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 28,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 30,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 23,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 21,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 18,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 15,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 21,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 19,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-27",
+		"city_count" : 14,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 15,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 27,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 18,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 21,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 19,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 23,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 27,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 16,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 31,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 25,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 29,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-26",
+		"city_count" : 23,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 17,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 19,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 22,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 18,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 21,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 19,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 22,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 20,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 16,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 26,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 17,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-25",
+		"city_count" : 28,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 21,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 20,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 25,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 22,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 18,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 29,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 32,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 25,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 22,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 23,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-24",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 29,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 14,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 17,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 20,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 29,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 22,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 21,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 27,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 17,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 13,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 27,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-23",
+		"city_count" : 20,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 22,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 24,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 25,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 20,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 20,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 25,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 25,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 24,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 26,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 35,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 23,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-21",
+		"city_count" : 22,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 15,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 22,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 19,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 17,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 15,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 19,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 17,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 25,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 19,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 27,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 13,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-20",
+		"city_count" : 18,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 27,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 29,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 22,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 21,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 33,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 29,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 24,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 18,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 28,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 25,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-19",
+		"city_count" : 14,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 23,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 20,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 13,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 22,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 22,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 24,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 24,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 22,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 31,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 16,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 14,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-18",
+		"city_count" : 21,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 34,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 30,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 32,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 24,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 19,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 20,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 25,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 28,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 28,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 24,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-17",
+		"city_count" : 22,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 20,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 23,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 23,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 15,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 19,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 21,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 16,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 19,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 15,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 21,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 17,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-16",
+		"city_count" : 16,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 20,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 22,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 23,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 24,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 26,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 16,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 17,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 22,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 20,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 20,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-15",
+		"city_count" : 16,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 17,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 14,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 20,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 15,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 23,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 19,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 26,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 29,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 24,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-14",
+		"city_count" : 20,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 23,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 24,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 29,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 21,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 21,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 22,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 23,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 15,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 25,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 25,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 18,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-13",
+		"city_count" : 25,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 18,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 17,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 24,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 19,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 19,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 22,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 25,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 18,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 26,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 20,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 30,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-12",
+		"city_count" : 18,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 22,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 32,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 29,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 15,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 27,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 31,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 25,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 26,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 24,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 23,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 17,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-11",
+		"city_count" : 20,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 20,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 17,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 23,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 16,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 17,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 15,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 21,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 26,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 17,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 16,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 16,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-10",
+		"city_count" : 20,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 25,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 21,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 30,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 20,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 18,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 34,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 20,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 23,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 29,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 14,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 25,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-09",
+		"city_count" : 22,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 21,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 20,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 21,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 20,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 24,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 26,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 17,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 27,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 19,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-08",
+		"city_count" : 19,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 22,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 19,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 25,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 28,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 33,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 18,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 27,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 26,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 27,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 22,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-07",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 24,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 19,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 14,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 15,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 21,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 19,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 15,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 24,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 23,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 17,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 25,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-06",
+		"city_count" : 18,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 20,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 24,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 25,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 24,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 24,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 29,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 28,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 27,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 22,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 20,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-05",
+		"city_count" : 24,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 22,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 23,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 23,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 14,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 20,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 18,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 19,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 20,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 15,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 23,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 23,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-04",
+		"city_count" : 19,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 26,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 33,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 22,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 30,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 22,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 16,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 25,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 21,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 23,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 22,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 23,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-03",
+		"city_count" : 27,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 19,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 20,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 11,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 24,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 11,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 17,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 17,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 12,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 17,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 19,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 18,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-02",
+		"city_count" : 23,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 25,
+		"city_name" : "MUM"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 25,
+		"city_name" : "VAD"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 27,
+		"city_name" : "HYD"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 26,
+		"city_name" : "MYS"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 31,
+		"city_name" : "SUR"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 27,
+		"city_name" : "CHEN"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 21,
+		"city_name" : "INDO"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 25,
+		"city_name" : "JAP"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 24,
+		"city_name" : "PUNE"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 18,
+		"city_name" : "RANCHI"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 26,
+		"city_name" : "COIMB"
+	},
+	{
+		"order_date" : "2022-03-01",
+		"city_count" : 25,
+		"city_name" : "BANG"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 21,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 19,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 22,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 17,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 22,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 27,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 26,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 27,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 19,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-18",
+		"city_count" : 23,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 24,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 24,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 27,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 29,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 24,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 30,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 27,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 27,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 27,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-17",
+		"city_count" : 22,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 19,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 21,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 22,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 24,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 19,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 26,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 16,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 26,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 18,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-16",
+		"city_count" : 26,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 31,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 24,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 25,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 23,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 22,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 26,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 28,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 26,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 27,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-15",
+		"city_count" : 23,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 26,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 18,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 18,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 18,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 21,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 31,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 24,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 24,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 20,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-14",
+		"city_count" : 27,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 27,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 27,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 25,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 17,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 24,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 19,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 29,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 28,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 20,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-13",
+		"city_count" : 27,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 24,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 23,
+		"city_name" : "ALH"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 28,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 22,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 20,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 20,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 20,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 30,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 15,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-12",
+		"city_count" : 12,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 20,
+		"city_name" : "AURG"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 20,
+		"city_name" : "KOL"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 14,
+		"city_name" : "GOA"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 30,
+		"city_name" : "BHP"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 22,
+		"city_name" : "AGR"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 25,
+		"city_name" : "KNP"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 23,
+		"city_name" : "KOC"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 21,
+		"city_name" : "LUDH"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 21,
+		"city_name" : "DEH"
+	},
+	{
+		"order_date" : "2022-02-11",
+		"city_count" : 34,
+		"city_name" : "ALH"
+	}
+]}

@@ -1,0 +1,2953 @@
+{
+"order_date_hour": [
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : null,
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : null,
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 40
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : null,
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 43
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : null,
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : null,
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : null,
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 42
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 41
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 39
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : null,
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 42
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : null,
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : null,
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 41
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : null,
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 42
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 40
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : null,
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : null,
+		"total_orders_hour" : 4
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 4
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 40
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 50
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 4
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 4
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 40
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 43
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 1
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 4
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : null,
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 44
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-08",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 42
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 30
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-18",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 39
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : null,
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : null,
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-04-04",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : null,
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : null,
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : null,
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 33
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : null,
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-31",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 41
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 40
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 7
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-09",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-11",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 14
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : null,
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : null,
+		"total_orders_hour" : 12
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 11
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : null,
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 20
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-16",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-15",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-02-11",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-04-05",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-02",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : null,
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-02-17",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-03",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-21",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-02-18",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 15
+	},
+	{
+		"order_date" : "2022-03-23",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 13
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "11",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-02-15",
+		"hour_ordered" : "23",
+		"total_orders_hour" : 24
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-03-04",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 32
+	},
+	{
+		"order_date" : "2022-03-05",
+		"hour_ordered" : "14",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-12",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 26
+	},
+	{
+		"order_date" : "2022-02-13",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-29",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "13",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 9
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 16
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "16",
+		"total_orders_hour" : 5
+	},
+	{
+		"order_date" : "2022-03-13",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-06",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 36
+	},
+	{
+		"order_date" : "2022-03-19",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-04-06",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 34
+	},
+	{
+		"order_date" : "2022-03-26",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 8
+	},
+	{
+		"order_date" : "2022-03-07",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 28
+	},
+	{
+		"order_date" : "2022-03-14",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 38
+	},
+	{
+		"order_date" : "2022-04-02",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 31
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "22",
+		"total_orders_hour" : 17
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "09",
+		"total_orders_hour" : 29
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 3
+	},
+	{
+		"order_date" : "2022-03-27",
+		"hour_ordered" : null,
+		"total_orders_hour" : 10
+	},
+	{
+		"order_date" : "2022-02-16",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 35
+	},
+	{
+		"order_date" : "2022-03-25",
+		"hour_ordered" : "21",
+		"total_orders_hour" : 37
+	},
+	{
+		"order_date" : "2022-03-28",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 18
+	},
+	{
+		"order_date" : "2022-03-01",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 19
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "15",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-03-17",
+		"hour_ordered" : "10",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-03-30",
+		"hour_ordered" : "17",
+		"total_orders_hour" : 23
+	},
+	{
+		"order_date" : "2022-03-10",
+		"hour_ordered" : "00",
+		"total_orders_hour" : 2
+	},
+	{
+		"order_date" : "2022-03-20",
+		"hour_ordered" : "18",
+		"total_orders_hour" : 27
+	},
+	{
+		"order_date" : "2022-03-24",
+		"hour_ordered" : "12",
+		"total_orders_hour" : 6
+	},
+	{
+		"order_date" : "2022-02-14",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 22
+	},
+	{
+		"order_date" : "2022-04-01",
+		"hour_ordered" : "19",
+		"total_orders_hour" : 21
+	},
+	{
+		"order_date" : "2022-02-12",
+		"hour_ordered" : "20",
+		"total_orders_hour" : 25
+	},
+	{
+		"order_date" : "2022-04-03",
+		"hour_ordered" : "08",
+		"total_orders_hour" : 13
+	}
+]}

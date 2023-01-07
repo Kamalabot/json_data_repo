@@ -1,0 +1,19 @@
+{
+"order_type_count": [
+	{
+		"type_of_order" : "Buffet",
+		"type_count" : 2870
+	},
+	{
+		"type_of_order" : "Drinks",
+		"type_count" : 2920
+	},
+	{
+		"type_of_order" : "Snack",
+		"type_count" : 2815
+	},
+	{
+		"type_of_order" : "Meal",
+		"type_count" : 2794
+	}
+]}

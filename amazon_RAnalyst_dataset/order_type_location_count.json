@@ -1,0 +1,83 @@
+{
+"order_type_location_count": [
+	{
+		"type_of_order" : "Drinks",
+		"city" : "Metropolitian",
+		"type_count" : 2201
+	},
+	{
+		"type_of_order" : "Buffet",
+		"city" : "Metropolitian",
+		"type_count" : 2145
+	},
+	{
+		"type_of_order" : "Snack",
+		"city" : "Metropolitian",
+		"type_count" : 2085
+	},
+	{
+		"type_of_order" : "Meal",
+		"city" : "Metropolitian",
+		"type_count" : 2066
+	},
+	{
+		"type_of_order" : "Meal",
+		"city" : "Urban",
+		"type_count" : 651
+	},
+	{
+		"type_of_order" : "Buffet",
+		"city" : "Urban",
+		"type_count" : 633
+	},
+	{
+		"type_of_order" : "Snack",
+		"city" : "Urban",
+		"type_count" : 627
+	},
+	{
+		"type_of_order" : "Drinks",
+		"city" : "Urban",
+		"type_count" : 622
+	},
+	{
+		"type_of_order" : "Snack",
+		"city" : "other",
+		"type_count" : 90
+	},
+	{
+		"type_of_order" : "Drinks",
+		"city" : "other",
+		"type_count" : 87
+	},
+	{
+		"type_of_order" : "Buffet",
+		"city" : "other",
+		"type_count" : 81
+	},
+	{
+		"type_of_order" : "Meal",
+		"city" : "other",
+		"type_count" : 66
+	},
+	{
+		"type_of_order" : "Snack",
+		"city" : "Semi-Urban",
+		"type_count" : 13
+	},
+	{
+		"type_of_order" : "Meal",
+		"city" : "Semi-Urban",
+		"type_count" : 11
+	},
+	{
+		"type_of_order" : "Buffet",
+		"city" : "Semi-Urban",
+		"type_count" : 11
+	},
+	{
+		"type_of_order" : "Drinks",
+		"city" : "Semi-Urban",
+		"type_count" : 10
+	}
+]}

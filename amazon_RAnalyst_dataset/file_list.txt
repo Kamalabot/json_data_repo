@@ -1,1 +1,9 @@
 https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/cleaned_data.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/city_date_deliveries.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/city_delivery_counts.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/cleaned_data.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/delivery_agent_ratings.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_count.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_date_hour.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_count.json
+https://github.com/kamalabot/json_data_repo/amazon_RAnalyst_dataset/order_type_location_count.json
